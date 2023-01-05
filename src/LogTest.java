@@ -1,11 +1,17 @@
-import java.util.logging.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class LogTest {
-    static Logger logger= Logger.getLogger(String.valueOf(LogTest.class));
+    private static Logger logger= LogManager.getLogger(LogTest.class);
+    //Jtable filtrowanie !
 
     public static void main(String[] args){
+        System.out.println("start \n");
         logger.info("hello test");
-        System.out.println("hiii");
-        System.out.println(logger.getName());
+        logger.error("error msg");
+        logger.warn("warnn");
+        logger.fatal("fatal");
+
+        System.out.println("\n"+ logger.getName());
     }
 }

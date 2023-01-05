@@ -8,25 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
-      <library name="log4j-1.2-api-2.19.0.jar">
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Documents/Java Stuff/apache-log4j-2.19.0-bin/log4j-1.2-api-2.19.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="log4j-core-2.19.0.jar">
-        <CLASSES>
-          <root url="jar://$USER_HOME$/Documents/Java Stuff/apache-log4j-2.19.0-bin/log4j-core-2.19.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="jsoup-1.15.3.jar">
+      <library>
         <CLASSES>
           <root url="jar://$USER_HOME$/Documents/Java Stuff/OOP/jsoup/jsoup-1.15.3.jar!/" />
         </CLASSES>
@@ -35,9 +17,54 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="jsoup-1.15.3-javadoc.jar">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Documents/Java Stuff/OOP/jsoup/jsoup-1.15.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
         <CLASSES>
           <root url="jar://$USER_HOME$/Documents/Java Stuff/OOP/jsoup/jsoup-1.15.3-javadoc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Java Stuff/apache-log4j-2.19.0-bin/log4j-api-2.19.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Documents/Java Stuff/apache-log4j-2.19.0-bin/log4j-api-2.19.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC>
+          <root url="jar://$USER_HOME$/Documents/Java Stuff/apache-log4j-2.19.0-bin/log4j-1.2-api-2.19.0-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Java Stuff/apache-log4j-2.19.0-bin/log4j-core-2.19.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
