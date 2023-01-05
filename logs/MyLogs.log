@@ -2,3 +2,7 @@
 [ERROR] 2023-01-05 12:38:17.192 [main] LogTest - error msg
 [WARN ] 2023-01-05 12:38:17.192 [main] LogTest - warnn
 [FATAL] 2023-01-05 12:38:17.192 [main] LogTest - fatal
+[INFO ] 2023-01-05 16:01:55.336 [main] LogTest - hello test
+[ERROR] 2023-01-05 16:01:55.340 [main] LogTest - error msg
+[WARN ] 2023-01-05 16:01:55.340 [main] LogTest - warnn
+[FATAL] 2023-01-05 16:01:55.340 [main] LogTest - fatal
