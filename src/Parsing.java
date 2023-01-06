@@ -19,12 +19,14 @@ import java.util.function.Function;
 public class Parsing {
     private final static String url = "https://www.flightradar24.com/data/airports/krk/arrivals";
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws Exception {
 
-//        ChromeOptions options = new ChromeOptions();
-//        options.setHeadless(true);
+        ChromeOptions options = new ChromeOptions();
+        options.setHeadless(true);
         WebDriver driver = new ChromeDriver();
         driver.get(url);
+        Thread.sleep(4000); //EZZZZZZZZZ
+
 
         Wait<WebDriver> wait = new WebDriverWait(driver, Duration.ofSeconds(30));
         wait.until(new Function<WebDriver, Boolean>() {
@@ -54,7 +56,7 @@ public class Parsing {
             System.out.println(ele.getText());
         }
 
-        driver.quit();
+//        driver.quit();
 
 
     }
