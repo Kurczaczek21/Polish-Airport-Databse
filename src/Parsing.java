@@ -56,7 +56,7 @@ public class Parsing {
             System.out.println(ele.getText());
         }
 
-//        driver.quit();
+        driver.quit();
 
 
     }
