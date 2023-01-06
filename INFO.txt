@@ -1,0 +1,22 @@
+
+
+Columns
+//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//th
+
+All rows
+//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr
+
+Flight number
+//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[2]
+
+FROM
+//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[3]
+
+AIRLINE
+//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[4]
+
+AIRCRAFT
+//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[5]
+
+STATUS
+//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[7]
