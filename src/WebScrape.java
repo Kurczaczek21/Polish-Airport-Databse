@@ -16,7 +16,8 @@ public class WebScrape {
     public static void main(String[] args) throws Exception {
 
         ChromeOptions options = new ChromeOptions();
-        options.setHeadless(true);
+//        options.setHeadless(true);
+        options.addArguments("--headless");
         WebDriver driver = new ChromeDriver(options);
         driver.get(url);
         Thread.sleep(4000);
@@ -45,17 +46,17 @@ public class WebScrape {
         Thread.sleep(4000);
         button.click();
         Thread.sleep(4000);
+        Thread.sleep(4000);
 
         List<WebElement> allHeaders = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr"));
         System.out.println(allHeaders.size());
         for(WebElement ele:allHeaders)
         {
-            System.out.println(ele.getClass().getSimpleName());
             System.out.println(ele.getText());
-            System.out.println("---------------");
+            System.out.println("--------------");
         }
 
-        driver.quit();
+//        driver.quit();
 
 
     }
