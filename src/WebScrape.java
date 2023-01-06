@@ -35,36 +35,25 @@ public class WebScrape {
         WebElement Acceptbutton = driver.findElement(By.xpath("//button[text()='Akceptuję']"));
         Acceptbutton.click();
         Thread.sleep(4000);
-
-        // HEADERS
-        List<WebElement> allHeaders = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//th"));
-        System.out.println(allHeaders.size());
-        for(WebElement ele:allHeaders)
-        {
-            System.out.println(ele.getText());
-        }
+        Thread.sleep(4000);
+        Thread.sleep(4000);
+        Thread.sleep(4000);
 
         WebElement button = driver.findElement(By.xpath("//button[text()='Load earlier flights']"));
         button.click();
 
         Thread.sleep(4000);
-
         button.click();
         Thread.sleep(4000);
 
-        List<WebElement> allCows = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[3]//div[contains(@ng-show,'(objFlight.flight.airport.origin)')]//span"));
-        System.out.println(allCows.size());
-        for(WebElement ele:allCows)
+        List<WebElement> allHeaders = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr"));
+        System.out.println(allHeaders.size());
+        for(WebElement ele:allHeaders)
         {
+            System.out.println(ele.getClass().getSimpleName());
             System.out.println(ele.getText());
+            System.out.println("---------------");
         }
-
-//        List<WebElement> allCows = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[3]//div[contains(@ng-show,'(objFlight.flight.airport.origin)')]//span"));
-//        System.out.println(allCows.size());
-//        for(WebElement ele:allCows)
-//        {
-//            System.out.println(ele.getText());
-//        }
 
         driver.quit();
 
