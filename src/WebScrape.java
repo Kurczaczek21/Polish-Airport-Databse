@@ -1,44 +1,73 @@
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-
-import java.io.IOException;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.support.ui.Wait;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import java.time.Duration;
+import java.util.List;
+import java.util.function.Function;
 
 public class WebScrape {
+    private final static String url = "https://www.flightradar24.com/data/airports/krk/arrivals";
 
-    private static Logger logger= LogManager.getLogger(WebScrape.class);
-//    private final static String url = "https://www.flightradar24.com/data/flights/lo3923";
-    private final static String url = "https://www.nba.com/stats/players/traditional";
+    public static void main(String[] args) throws Exception {
 
-    public static void main(String[] args) throws IOException {
+        ChromeOptions options = new ChromeOptions();
+        options.setHeadless(true);
+        WebDriver driver = new ChromeDriver(options);
+        driver.get(url);
+        Thread.sleep(4000);
 
+        Wait<WebDriver> wait = new WebDriverWait(driver, Duration.ofSeconds(30));
+        wait.until(new Function<WebDriver, Boolean>() {
+            public Boolean apply(WebDriver driver) {
+                System.out.println("Current Window State       : "
+                        + String.valueOf(((JavascriptExecutor) driver).executeScript("return document.readyState")));
+                return String
+                        .valueOf(((JavascriptExecutor) driver).executeScript("return document.readyState"))
+                        .equals("complete");
+            }
+        });
 
-//        // Parse the web page
-//        Document doc = Jsoup.connect(url).get();    // wywolujemy klasye podstawowa jsopu. na klasie jsoup wywoluemy metode connect
-//        // metoda get zwroci dokument co jest pod tym adresem; sout doc -> caly html
-//
-//
-//        for (Element row : doc.select("table#tbl-datatable")){
-//            System.out.println(row);
+        WebElement Acceptbutton = driver.findElement(By.xpath("//button[text()='Akceptuję']"));
+        Acceptbutton.click();
+        Thread.sleep(4000);
+
+        // HEADERS
+        List<WebElement> allHeaders = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//th"));
+        System.out.println(allHeaders.size());
+        for(WebElement ele:allHeaders)
+        {
+            System.out.println(ele.getText());
+        }
+
+        WebElement button = driver.findElement(By.xpath("//button[text()='Load earlier flights']"));
+        button.click();
+
+        Thread.sleep(4000);
+
+        button.click();
+        Thread.sleep(4000);
+
+        List<WebElement> allCows = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[3]//div[contains(@ng-show,'(objFlight.flight.airport.origin)')]//span"));
+        System.out.println(allCows.size());
+        for(WebElement ele:allCows)
+        {
+            System.out.println(ele.getText());
+        }
+
+//        List<WebElement> allCows = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[3]//div[contains(@ng-show,'(objFlight.flight.airport.origin)')]//span"));
+//        System.out.println(allCows.size());
+//        for(WebElement ele:allCows)
+//        {
+//            System.out.println(ele.getText());
 //        }
-//        logger.info("SCRAPE");
 
-//            for (Element row : doc.select("tr.hidden-md.hidden-lg.ng-scope")){
-//                System.out.println(doc.select("tr.hidden-md.hidden-lg.ng-scope"));
+        driver.quit();
 
 
-        // Choose TAG: TABLE where width=468 and border=1
-
-//            Elements media = doc.select("table[width=468][border=1]");
-//
-//            if (media.size()!=1) {
-//                System.out.println(("Expected one row only!\n"+media));
-//                System.exit(1);
-//            }
-//            System.out.println(doc.outerHtml());
-//            System.out.println(media);
     }
-
 }

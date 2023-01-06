@@ -133,5 +133,16 @@
         </SOURCES>
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Java Stuff/sss/apache-commons-net.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Documents/Java Stuff/sss/apache-commons-net.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
