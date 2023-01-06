@@ -1,6 +1,3 @@
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
@@ -23,7 +20,7 @@ public class Parsing {
 
         ChromeOptions options = new ChromeOptions();
         options.setHeadless(true);
-        WebDriver driver = new ChromeDriver();
+        WebDriver driver = new ChromeDriver(options);
         driver.get(url);
         Thread.sleep(4000); //EZZZZZZZZZ
 
@@ -38,6 +35,9 @@ public class Parsing {
                         .equals("complete");
             }
         });
+
+
+        driver.findElement(By.xpath("//button[contains(@ng-click,'loadMore')][contains(@data-page,'-1')]")).click();
 
         // HEADERS
         List<WebElement> allHeaders = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//th"));
