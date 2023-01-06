@@ -1,9 +1,13 @@
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.*;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
@@ -12,13 +16,13 @@ import java.util.function.Function;
 
 public class WebScrape {
     private final static String url = "https://www.flightradar24.com/data/airports/krk/arrivals";
+    private static Logger logger= LogManager.getLogger(WebScrape.class);
 
     public static void main(String[] args) throws Exception {
 
-        ChromeOptions options = new ChromeOptions();
-//        options.setHeadless(true);
-        options.addArguments("--headless");
-        WebDriver driver = new ChromeDriver(options);
+        FirefoxOptions options = new FirefoxOptions();
+        options.addPreference("general.useragent.override","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.170").addArguments("--headless");
+        WebDriver driver = new FirefoxDriver( new FirefoxOptions().addPreference("general.useragent.override","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.170").addArguments("--headless"));
         driver.get(url);
         Thread.sleep(4000);
 
@@ -33,8 +37,13 @@ public class WebScrape {
             }
         });
 
-        WebElement Acceptbutton = driver.findElement(By.xpath("//button[text()='Akceptuję']"));
-        Acceptbutton.click();
+        try {
+            WebElement Acceptbutton = driver.findElement(By.xpath("//button[text()='Akceptuję']"));
+            Acceptbutton.click();
+        }catch (Exception e){
+            WebElement Acceptbutton = driver.findElement(By.xpath("//button[text()='I accept']"));
+            Acceptbutton.click();
+        }
         Thread.sleep(4000);
         Thread.sleep(4000);
         Thread.sleep(4000);
@@ -52,8 +61,8 @@ public class WebScrape {
         System.out.println(allHeaders.size());
         for(WebElement ele:allHeaders)
         {
-            System.out.println(ele.getText());
-            System.out.println("--------------");
+            logger.info(ele.getText());
+//            System.out.println(ele.getText());
         }
 
 //        driver.quit();

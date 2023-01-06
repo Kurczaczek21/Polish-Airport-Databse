@@ -6,3 +6,3206 @@
 [ERROR] 2023-01-05 16:01:55.340 [main] LogTest - error msg
 [WARN ] 2023-01-05 16:01:55.340 [main] LogTest - warnn
 [FATAL] 2023-01-05 16:01:55.340 [main] LogTest - fatal
+[INFO ] 2023-01-06 23:03:17.980 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:17.992 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:18.001 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:18.009 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:18.025 [main] WebScrape - Landed 11:09 AM
+11:30 AM
+LO3907
+Warsaw(WAW)
+E195
+SP-LNG
+LOT
+[INFO ] 2023-01-06 23:03:18.044 [main] WebScrape - Landed 11:16 AM
+11:35 AM
+DY1036
+Stavanger(SVG)
+B738
+LN-ENR
+Norwegian (Jan Baalsrud Livery)
+[INFO ] 2023-01-06 23:03:18.059 [main] WebScrape - Landed 11:22 AM
+11:35 AM
+FR6257
+Stockholm(ARN)
+B38M
+SP-RZH
+Buzz
+[INFO ] 2023-01-06 23:03:18.075 [main] WebScrape - Landed 11:56 AM
+11:40 AM
+W65002
+London(LTN)
+A21N
+HA-LVH
+Wizz Air
+[INFO ] 2023-01-06 23:03:18.090 [main] WebScrape - Landed 11:32 AM
+11:50 AM
+W65060
+Catania(CTA)
+A21N
+HA-LZI
+Wizz Air
+[INFO ] 2023-01-06 23:03:18.107 [main] WebScrape - Landed 11:49 AM
+11:55 AM
+D84901
+Stockholm(ARN)
+B738
+SE-RPE
+Norwegian
+[INFO ] 2023-01-06 23:03:18.122 [main] WebScrape - Landed 11:45 AM
+11:55 AM
+LH1366
+Frankfurt(FRA)
+A321
+D-AISU
+Lufthansa
+[INFO ] 2023-01-06 23:03:18.137 [main] WebScrape - Landed 12:09 PM
+12:05 PM
+DY1040
+Oslo(OSL)
+B738
+LN-NIE
+Norwegian (Asta Nielsen Livery)
+[INFO ] 2023-01-06 23:03:18.153 [main] WebScrape - Landed 12:25 PM
+12:25 PM
+FR1813
+London(LTN)
+B38M
+SP-RZB
+Buzz
+[INFO ] 2023-01-06 23:03:18.168 [main] WebScrape - Landed 12:13 PM
+12:35 PM
+U28511
+London(LGW)
+A319
+G-EZBC
+easyJet
+[INFO ] 2023-01-06 23:03:18.183 [main] WebScrape - Landed 12:55 PM
+12:45 PM
+LH1620
+Munich(MUC)
+A320
+D-AIZH
+Lufthansa (Star Alliance Livery)
+[INFO ] 2023-01-06 23:03:18.199 [main] WebScrape - Landed 1:17 PM
+1:30 PM
+FR7695
+Porto(OPO)
+B738
+EI-GSJ
+Ryanair
+[INFO ] 2023-01-06 23:03:18.216 [main] WebScrape - Landed 1:50 PM
+1:50 PM
+FR3035
+Barcelona(BCN)
+B738
+SP-RKT
+Ryanair
+[INFO ] 2023-01-06 23:03:18.232 [main] WebScrape - Landed 1:59 PM
+1:50 PM
+W65082
+Kutaisi(KUT)
+A21N
+HA-LZE
+Wizz Air
+[INFO ] 2023-01-06 23:03:18.248 [main] WebScrape - Landed 1:47 PM
+1:50 PM
+OS597
+Vienna(VIE)
+E195
+OE-LWO
+Austrian Airlines
+[INFO ] 2023-01-06 23:03:18.264 [main] WebScrape - Landed 1:44 PM
+2:05 PM
+DY1038
+Trondheim(TRD)
+B738
+LN-ENM
+Norwegian
+[INFO ] 2023-01-06 23:03:18.280 [main] WebScrape - Landed 2:11 PM
+2:20 PM
+LO3905
+Warsaw(WAW)
+E190
+SP-LMG
+LOT
+[INFO ] 2023-01-06 23:03:18.306 [main] WebScrape - Landed 2:27 PM
+2:30 PM
+FR6247
+Pafos(PFO)
+B738
+SP-RSA
+Ryanair
+[INFO ] 2023-01-06 23:03:18.324 [main] WebScrape - Landed 3:18 PM
+3:00 PM
+FR83
+Eilat(ETM)
+B38M
+SP-RZA
+Buzz
+[INFO ] 2023-01-06 23:03:18.340 [main] WebScrape - Landed 3:13 PM
+3:05 PM
+FR4024
+Lisbon(LIS)
+B38M
+SP-RZD
+Buzz
+[INFO ] 2023-01-06 23:03:18.355 [main] WebScrape - Landed 2:57 PM
+3:20 PM
+FR9662
+Rome(CIA)
+B738
+9H-QCO
+Ryanair
+[INFO ] 2023-01-06 23:03:18.370 [main] WebScrape - Landed 3:43 PM
+3:20 PM
+TO7428
+Paris(ORY)
+B738
+F-HTVO
+Transavia
+[INFO ] 2023-01-06 23:03:18.385 [main] WebScrape - Landed 2:53 PM
+3:20 PM
+U23815
+Paris(CDG)
+A320
+OE-IZG
+easyJet
+[INFO ] 2023-01-06 23:03:18.402 [main] WebScrape - Landed 3:26 PM
+3:30 PM
+FR4425
+Cagliari(CAG)
+B738
+9H-QCM
+Ryanair
+[INFO ] 2023-01-06 23:03:18.417 [main] WebScrape - Landed 3:07 PM
+3:30 PM
+U26275
+Bristol(BRS)
+A320
+G-EZUO
+easyJet
+[INFO ] 2023-01-06 23:03:18.433 [main] WebScrape - Landed 4:02 PM
+4:00 PM
+FR4934
+Brussels(CRL)
+B38M
+SP-RZF
+Buzz
+[INFO ] 2023-01-06 23:03:18.450 [main] WebScrape - Landed 4:16 PM
+4:10 PM
+KL1995
+Amsterdam(AMS)
+E295
+PH-NXN
+KLM
+[INFO ] 2023-01-06 23:03:18.466 [main] WebScrape - Landed 4:06 PM
+4:20 PM
+LO3923
+Warsaw(WAW)
+E195
+SP-LND
+LOT
+[INFO ] 2023-01-06 23:03:18.482 [main] WebScrape - Landed 4:26 PM
+4:35 PM
+FR3798
+Bologna(BLQ)
+B738
+9H-QCT
+Ryanair
+[INFO ] 2023-01-06 23:03:18.498 [main] WebScrape - Landed 5:00 PM
+4:45 PM
+Rome(CIA)
+B738
+0112
+-
+[INFO ] 2023-01-06 23:03:18.514 [main] WebScrape - Landed 5:18 PM
+4:45 PM
+FR6364
+Shannon(SNN)
+B738
+SP-RKO
+Ryanair
+[INFO ] 2023-01-06 23:03:18.529 [main] WebScrape - Landed 4:50 PM
+5:00 PM
+LH1622
+Munich(MUC)
+A320
+D-AIZC
+Lufthansa
+[INFO ] 2023-01-06 23:03:18.544 [main] WebScrape - Landed 4:41 PM
+5:05 PM
+W65068
+Milan(MXP)
+A21N
+HA-LZI
+Wizz Air
+[INFO ] 2023-01-06 23:03:18.560 [main] WebScrape - Landed 5:22 PM
+5:30 PM
+FR6209
+Madrid(MAD)
+B738
+EI-DHY
+Ryanair
+[INFO ] 2023-01-06 23:03:18.576 [main] WebScrape - Landed 5:45 PM
+5:42 PM
+Warsaw(WAW)
+C295
+023
+-
+[INFO ] 2023-01-06 23:03:18.591 [main] WebScrape - Landed 5:49 PM
+5:55 PM
+LH1368
+Frankfurt(FRA)
+A319
+D-AGWJ
+Eurowings
+[INFO ] 2023-01-06 23:03:18.606 [main] WebScrape - Landed 6:42 PM
+6:10 PM
+W65010
+London(LGW)
+A21N
+HA-LVH
+Wizz Air
+[INFO ] 2023-01-06 23:03:18.622 [main] WebScrape - Landed 5:41 PM
+6:10 PM
+W65044
+Stavanger(SVG)
+A321
+HA-LXO
+Wizz Air
+[INFO ] 2023-01-06 23:03:18.637 [main] WebScrape - Landed 6:23 PM
+6:25 PM
+FR7661
+Newcastle(NCL)
+B38M
+SP-RZH
+Buzz
+[INFO ] 2023-01-06 23:03:18.667 [main] WebScrape - Landed 6:31 PM
+6:35 PM
+FR2712
+London(STN)
+B38M
+SP-RZB
+Buzz
+[INFO ] 2023-01-06 23:03:18.684 [main] WebScrape - Landed 7:16 PM
+7:35 PM
+DY1028
+Bergen(BGO)
+B738
+LN-ENV
+Norwegian
+[INFO ] 2023-01-06 23:03:18.699 [main] WebScrape - Landed 7:41 PM
+7:40 PM
+FR5891
+Eindhoven(EIN)
+B738
+SP-RKT
+Ryanair
+[INFO ] 2023-01-06 23:03:18.715 [main] WebScrape - Landed 7:55 PM
+8:15 PM
+FR3679
+Birmingham(BHX)
+B738
+EI-ENC
+Ryanair
+[INFO ] 2023-01-06 23:03:18.731 [main] WebScrape - Landed 7:50 PM
+8:20 PM
+FR2023
+Dublin(DUB)
+B38M
+EI-HGR
+Ryanair
+[INFO ] 2023-01-06 23:03:18.746 [main] WebScrape - Landed 8:52 PM
+8:30 PM
+FR8507
+Oslo(TRF)
+B38M
+SP-RZD
+Buzz
+[INFO ] 2023-01-06 23:03:18.761 [main] WebScrape - Landed 8:12 PM
+8:35 PM
+FR2332
+Leeds(LBA)
+B738
+EI-EXE
+Ryanair
+[INFO ] 2023-01-06 23:03:18.776 [main] WebScrape - Landed 8:18 PM
+8:45 PM
+U21871
+Manchester(MAN)
+A320
+G-EZWL
+easyJet
+[INFO ] 2023-01-06 23:03:18.792 [main] WebScrape - Landed 8:22 PM
+8:50 PM
+FR3721
+Billund(BLL)
+B738
+9H-QBX
+Ryanair
+[INFO ] 2023-01-06 23:03:18.809 [main] WebScrape - Landed 8:45 PM
+8:50 PM
+LO3921
+Warsaw(WAW)
+E190
+SP-LMD
+LOT
+[INFO ] 2023-01-06 23:03:18.825 [main] WebScrape - Landed 8:43 PM
+9:00 PM
+D83564
+Copenhagen(CPH)
+B38M
+SE-RTC
+Norwegian (Felix Rodríguez de la Fuente Livery)
+[INFO ] 2023-01-06 23:03:18.841 [main] WebScrape - Landed 9:05 PM
+9:00 PM
+DY1042
+Oslo(OSL)
+B738
+LN-ENN
+Norwegian
+[INFO ] 2023-01-06 23:03:18.857 [main] WebScrape - Landed 8:57 PM
+9:10 PM
+FR6360
+Liverpool(LPL)
+B738
+EI-EME
+Ryanair
+[INFO ] 2023-01-06 23:03:18.872 [main] WebScrape - Landed 10:45 PM
+9:45 PM
+FR3613
+Milan(BGY)
+B38M
+9H-VUN
+Ryanair
+[INFO ] 2023-01-06 23:03:18.888 [main] WebScrape - Landed 9:55 PM
+9:50 PM
+FR6221
+Bristol(BRS)
+B38M
+SP-RZA
+Buzz
+[INFO ] 2023-01-06 23:03:18.903 [main] WebScrape - Landed 9:59 PM
+10:05 PM
+LH1624
+Munich(MUC)
+A320
+D-AIZG
+Lufthansa
+[INFO ] 2023-01-06 23:03:18.919 [main] WebScrape - Landed 10:25 PM
+10:10 PM
+FR2362
+London(STN)
+B38M
+SP-RZF
+Buzz
+[INFO ] 2023-01-06 23:03:18.936 [main] WebScrape - Landed 10:33 PM
+10:50 PM
+KL1999
+Amsterdam(AMS)
+E190
+PH-EXD
+KLM
+[INFO ] 2023-01-06 23:03:18.951 [main] WebScrape - Landed 10:54 PM
+10:55 PM
+FR6159
+Gothenburg(GOT)
+B38M
+SP-RZH
+Buzz
+[INFO ] 2023-01-06 23:03:18.966 [main] WebScrape - Landed 11:10 PM
+11:05 PM
+LO160
+Tel Aviv(TLV)
+B38M
+SP-LVF
+LOT
+[INFO ] 2023-01-06 23:03:18.982 [main] WebScrape - Landed 11:48 PM
+11:20 PM
+FR6265
+Poznan(POZ)
+B38M
+SP-RZD
+Buzz
+[INFO ] 2023-01-06 23:03:18.997 [main] WebScrape - Landed 11:22 PM
+11:20 PM
+LH1370
+Frankfurt(FRA)
+A321
+D-AIDJ
+Lufthansa
+[INFO ] 2023-01-06 23:03:19.026 [main] WebScrape - Landed 11:05 PM
+11:20 PM
+OS599
+Vienna(VIE)
+E195
+OE-LWC
+Austrian Airlines
+[INFO ] 2023-01-06 23:03:19.043 [main] WebScrape - Landed 11:31 PM
+11:25 PM
+FR6331
+Thessaloniki(SKG)
+B38M
+SP-RZB
+Buzz
+[INFO ] 2023-01-06 23:03:19.058 [main] WebScrape - Landed 10:57 PM
+11:25 PM
+W65004
+London(LTN)
+A21N
+HA-LZI
+Wizz Air
+[INFO ] 2023-01-06 23:03:19.074 [main] WebScrape - Landed 11:38 PM
+11:30 PM
+FR5623
+Edinburgh(EDI)
+B738
+SP-RKU
+Ryanair
+[INFO ] 2023-01-06 23:03:19.090 [main] WebScrape - Landed 11:18 PM
+11:35 PM
+LO3911
+Warsaw(WAW)
+E190
+SP-LMG
+LOT
+[INFO ] 2023-01-06 23:03:19.107 [main] WebScrape - Landed 11:52 PM
+11:38 PM
+Warsaw(WAW)
+C295
+025
+-
+[INFO ] 2023-01-06 23:03:19.122 [main] WebScrape - Landed 12:48 AM
+11:50 PM
+W65054
+Reykjavik(KEF)
+A21N
+HA-LZE
+Wizz Air
+[INFO ] 2023-01-06 23:03:19.139 [main] WebScrape - Landed 12:20 AM
+11:50 PM
+W65062
+Rome(FCO)
+A21N
+HA-LVH
+Wizz Air
+[INFO ] 2023-01-06 23:03:19.155 [main] WebScrape - Landed 12:23 AM
+11:55 PM
+FR6235
+Copenhagen(CPH)
+B738
+SP-RKT
+Ryanair
+[INFO ] 2023-01-06 23:03:19.172 [main] WebScrape - Landed 12:17 AM
+12:10 AM
+W65034
+Oslo(OSL)
+A321
+HA-LXO
+Wizz Air
+[INFO ] 2023-01-06 23:03:19.187 [main] WebScrape - Landed 7:48 AM
+8:10 AM
+LO3903
+Warsaw(WAW)
+E75S
+SP-LIK
+LOT
+[INFO ] 2023-01-06 23:03:19.203 [main] WebScrape - Landed 7:51 AM
+8:15 AM
+LG5741
+Luxembourg(LUX)
+DH8D
+LX-LQC
+Luxair
+[INFO ] 2023-01-06 23:03:19.218 [main] WebScrape - Landed 8:35 AM
+8:45 AM
+LX1370
+Zurich(ZRH)
+BCS3
+YL-ABL
+Air Baltic
+[INFO ] 2023-01-06 23:03:19.233 [main] WebScrape - Landed 8:54 AM
+9:10 AM
+FR2228
+Valencia(VLC)
+B738
+EI-DCW
+Ryanair
+[INFO ] 2023-01-06 23:03:19.248 [main] WebScrape - Landed 9:23 AM
+9:30 AM
+FR3053
+Barcelona(BCN)
+B738
+EI-DHD
+Ryanair
+[INFO ] 2023-01-06 23:03:19.263 [main] WebScrape - Landed 9:11 AM
+9:35 AM
+FR6293
+London(STN)
+B38M
+EI-IFT
+Ryanair
+[INFO ] 2023-01-06 23:03:19.278 [main] WebScrape - Landed 9:48 AM
+9:45 AM
+A3868
+Athens(ATH)
+A320
+SX-DVT
+Aegean Airlines
+[INFO ] 2023-01-06 23:03:19.296 [main] WebScrape - Landed 9:55 AM
+9:55 AM
+LH1364
+Frankfurt(FRA)
+A319
+D-AIBA
+Lufthansa
+[INFO ] 2023-01-06 23:03:19.311 [main] WebScrape - Landed 9:44 AM
+10:00 AM
+U26939
+Edinburgh(EDI)
+A20N
+G-UZHO
+easyJet (Europcar Livery)
+[INFO ] 2023-01-06 23:03:19.328 [main] WebScrape - Landed 9:51 AM
+10:10 AM
+FR5118
+Dublin(DUB)
+B38M
+EI-HGR
+Ryanair
+[INFO ] 2023-01-06 23:03:19.343 [main] WebScrape - Landed 10:32 AM
+10:15 AM
+FR3986
+Bari(BRI)
+B738
+SP-RSO
+Ryanair
+[INFO ] 2023-01-06 23:03:19.360 [main] WebScrape - Landed 10:09 AM
+10:35 AM
+U26275
+Bristol(BRS)
+A320
+G-EZWU
+easyJet
+[INFO ] 2023-01-06 23:03:19.387 [main] WebScrape - Landed 10:39 AM
+10:40 AM
+FR6225
+Podgorica(TGD)
+B38M
+SP-RZH
+Buzz
+[INFO ] 2023-01-06 23:03:19.408 [main] WebScrape - Landed 10:14 AM
+10:40 AM
+LS353
+Newcastle(NCL)
+B738
+G-DRTR
+Jet2
+[INFO ] 2023-01-06 23:03:19.424 [main] WebScrape - Landed 10:19 AM
+10:40 AM
+U22111
+London(LTN)
+A319
+G-EZFV
+easyJet
+[INFO ] 2023-01-06 23:03:19.439 [main] WebScrape - Landed 10:24 AM
+10:41 AM
+Vienna(VIE)
+PC12
+D-FKJM
+-
+[INFO ] 2023-01-06 23:03:19.455 [main] WebScrape - Landed 10:28 AM
+10:55 AM
+AY1163
+Helsinki(HEL)
+A319
+OH-LVH
+Finnair
+[INFO ] 2023-01-06 23:03:19.470 [main] WebScrape - Landed 10:43 AM
+10:55 AM
+D84901
+Stockholm(ARN)
+B738
+SE-RPF
+Norwegian
+[INFO ] 2023-01-06 23:03:19.487 [main] WebScrape - Landed 10:50 AM
+11:00 AM
+FR6211
+Paris(BVA)
+B38M
+SP-RZA
+Buzz
+[INFO ] 2023-01-06 23:03:19.503 [main] WebScrape - Landed 11:11 AM
+11:10 AM
+FZ1787
+Dubai(DXB)
+B38M
+A6-FMN
+flydubai
+[INFO ] 2023-01-06 23:03:19.518 [main] WebScrape - Landed 10:56 AM
+11:15 AM
+LS949
+Manchester(MAN)
+B738
+G-GDFF
+Jet2
+[INFO ] 2023-01-06 23:03:19.536 [main] WebScrape - Landed 11:51 AM
+11:30 AM
+FR4934
+Brussels(CRL)
+B38M
+SP-RZL
+Ryanair
+[INFO ] 2023-01-06 23:03:19.552 [main] WebScrape - Landed 11:15 AM
+11:30 AM
+LO3907
+Warsaw(WAW)
+E190
+SP-LMB
+LOT
+[INFO ] 2023-01-06 23:03:19.567 [main] WebScrape - Landed 11:46 AM
+11:30 AM
+W65034
+Oslo(OSL)
+A21N
+HA-LVH
+Wizz Air
+[INFO ] 2023-01-06 23:03:19.583 [main] WebScrape - Landed 11:28 AM
+11:45 AM
+W65014
+Leeds(LBA)
+A21N
+HA-LZI
+Wizz Air
+[INFO ] 2023-01-06 23:03:19.598 [main] WebScrape - Landed 11:25 AM
+11:55 AM
+W65076
+Eindhoven(EIN)
+A21N
+HA-LZE
+Wizz Air
+[INFO ] 2023-01-06 23:03:19.614 [main] WebScrape - Landed 11:55 AM
+12:05 PM
+LH1366
+Frankfurt(FRA)
+A319
+D-AIBE
+Lufthansa
+[INFO ] 2023-01-06 23:03:19.630 [main] WebScrape - Landed 12:10 PM
+12:05 PM
+DY1040
+Oslo(OSL)
+B738
+LN-ENU
+Norwegian
+[INFO ] 2023-01-06 23:03:19.646 [main] WebScrape - Landed 12:02 PM
+12:10 PM
+FR6233
+Palermo(PMO)
+B38M
+SP-RZD
+Buzz
+[INFO ] 2023-01-06 23:03:19.664 [main] WebScrape - Landed 12:13 PM
+12:10 PM
+FR6249
+Manchester(MAN)
+B738
+SP-RKD
+Ryanair
+[INFO ] 2023-01-06 23:03:19.680 [main] WebScrape - Landed 12:30 PM
+12:35 PM
+FR1813
+London(LTN)
+B38M
+SP-RZF
+Buzz
+[INFO ] 2023-01-06 23:03:19.697 [main] WebScrape - Landed 12:42 PM
+12:35 PM
+FR4204
+Glasgow(GLA)
+B38M
+SP-RZB
+Buzz
+[INFO ] 2023-01-06 23:03:19.713 [main] WebScrape - Landed 12:37 PM
+12:45 PM
+LH1620
+Munich(MUC)
+A320
+D-AIZE
+Lufthansa
+[INFO ] 2023-01-06 23:03:19.729 [main] WebScrape - Landed 12:39 PM
+12:50 PM
+FR7954
+Prague(PRG)
+B738
+SP-RSF
+Ryanair
+[INFO ] 2023-01-06 23:03:19.744 [main] WebScrape - Landed 12:45 PM
+1:10 PM
+W65048
+Barcelona(BCN)
+A321
+HA-LXO
+Wizz Air
+[INFO ] 2023-01-06 23:03:19.761 [main] WebScrape - Landed 1:26 PM
+1:50 PM
+OS597
+Vienna(VIE)
+E195
+OE-LWJ
+Austrian Airlines
+[INFO ] 2023-01-06 23:03:19.777 [main] WebScrape - Landed 1:41 PM
+1:55 PM
+FR9279
+Agadir(AGA)
+B738
+EI-EMD
+Ryanair
+[INFO ] 2023-01-06 23:03:19.796 [main] WebScrape - Landed 2:03 PM
+2:20 PM
+LO3905
+Warsaw(WAW)
+E190
+SP-LMG
+LOT
+[INFO ] 2023-01-06 23:03:19.811 [main] WebScrape - Landed 2:24 PM
+2:50 PM
+EW9732
+Dusseldorf(DUS)
+A320
+D-AEWK
+Eurowings
+[INFO ] 2023-01-06 23:03:19.827 [main] WebScrape - Landed 3:13 PM
+2:56 PM
+Milan(BGY)
+B738
+SP-RKG
+Ryanair
+[INFO ] 2023-01-06 23:03:19.845 [main] WebScrape - Landed 3:24 PM
+3:25 PM
+FR6876
+Milan(BGY)
+B38M
+SP-RZA
+Buzz
+[INFO ] 2023-01-06 23:03:19.861 [main] WebScrape - Landed 3:50 PM
+3:50 PM
+FR2332
+Leeds(LBA)
+B738
+SP-RKO
+Ryanair
+[INFO ] 2023-01-06 23:03:19.876 [main] WebScrape - Landed 3:34 PM
+3:55 PM
+FR6319
+Marseille(MRS)
+B38M
+9H-VUW
+Ryanair
+[INFO ] 2023-01-06 23:03:19.893 [main] WebScrape - Landed 3:55 PM
+4:05 PM
+LO3919
+Warsaw(WAW)
+E75S
+SP-LIA
+LOT
+[INFO ] 2023-01-06 23:03:19.909 [main] WebScrape - Landed 3:59 PM
+4:10 PM
+KL1995
+Amsterdam(AMS)
+E190
+PH-EXA
+KLM
+[INFO ] 2023-01-06 23:03:19.926 [main] WebScrape - Landed 6:15 PM
+4:35 PM
+FR7150
+Gdansk(GDN)
+B738
+SP-RKM
+Ryanair
+[INFO ] 2023-01-06 23:03:19.942 [main] WebScrape - Landed 4:36 PM
+4:50 PM
+FR4626
+Stockholm(ARN)
+B738
+9H-QCC
+Ryanair
+[INFO ] 2023-01-06 23:03:19.960 [main] WebScrape - Landed 4:34 PM
+5:00 PM
+DY1028
+Bergen(BGO)
+B738
+LN-ENL
+Norwegian
+[INFO ] 2023-01-06 23:03:19.977 [main] WebScrape - Landed 4:47 PM
+5:05 PM
+FR6251
+Riga(RIX)
+B738
+SP-RKD
+Ryanair
+[INFO ] 2023-01-06 23:03:19.993 [main] WebScrape - Landed 5:33 PM
+5:05 PM
+W65078
+Stockholm(NYO)
+A21N
+HA-LZE
+Wizz Air
+[INFO ] 2023-01-06 23:03:20.010 [main] WebScrape - Landed 5:30 PM
+5:10 PM
+FR2712
+London(STN)
+B38M
+SP-RZL
+Ryanair
+[INFO ] 2023-01-06 23:03:20.027 [main] WebScrape - Landed 4:50 PM
+5:10 PM
+FR6223
+Bournemouth(BOH)
+B738
+EI-ENI
+Ryanair
+[INFO ] 2023-01-06 23:03:20.043 [main] WebScrape - Landed 4:55 PM
+5:20 PM
+FR3721
+Billund(BLL)
+B738
+9H-QCY
+Ryanair
+[INFO ] 2023-01-06 23:03:20.061 [main] WebScrape - Landed 5:23 PM
+5:25 PM
+W65072
+Nice(NCE)
+A21N
+HA-LZI
+Wizz Air
+[INFO ] 2023-01-06 23:03:20.078 [main] WebScrape - Landed 5:19 PM
+5:30 PM
+LO3923
+Warsaw(WAW)
+E75S
+SP-LIK
+LOT
+[INFO ] 2023-01-06 23:03:20.094 [main] WebScrape - Landed 7:50 PM
+5:40 PM
+FR8507
+Oslo(TRF)
+B38M
+SP-RZF
+Buzz
+[INFO ] 2023-01-06 23:03:20.110 [main] WebScrape - Landed 5:36 PM
+5:50 PM
+U26525
+London(LGW)
+A320
+G-EZOK
+easyJet
+[INFO ] 2023-01-06 23:03:20.125 [main] WebScrape - Landed 5:50 PM
+5:55 PM
+LH1368
+Frankfurt(FRA)
+CRJ9
+D-ACNM
+Lufthansa
+[INFO ] 2023-01-06 23:03:20.141 [main] WebScrape - Landed 6:37 PM
+6:10 PM
+W65010
+London(LGW)
+A21N
+HA-LVH
+Wizz Air
+[INFO ] 2023-01-06 23:03:20.158 [main] WebScrape - Landed 6:45 PM
+7:00 PM
+BA872
+London(LHR)
+A320
+G-EUYK
+British Airways
+[INFO ] 2023-01-06 23:03:20.173 [main] WebScrape - Landed 6:40 PM
+7:00 PM
+HV5281
+Eindhoven(EIN)
+B738
+PH-HSG
+Transavia
+[INFO ] 2023-01-06 23:03:20.192 [main] WebScrape - Landed 6:58 PM
+7:15 PM
+FR9662
+Rome(CIA)
+B738
+9H-QEA
+Ryanair
+[INFO ] 2023-01-06 23:03:20.209 [main] WebScrape - Landed 7:41 PM
+7:20 PM
+FR7114
+Malta(MLA)
+B38M
+9H-VUU
+Ryanair
+[INFO ] 2023-01-06 23:03:20.225 [main] WebScrape - Landed 7:09 PM
+7:25 PM
+U23817
+Paris(CDG)
+A320
+OE-IVL
+easyJet
+[INFO ] 2023-01-06 23:03:20.240 [main] WebScrape - Unknown
+7:40 PM
+LO3508
+Olsztyn(SZY)
+E75S
+SP-LIA
+LOT
+[INFO ] 2023-01-06 23:03:20.256 [main] WebScrape - Landed 7:37 PM
+7:50 PM
+FR5723
+Nottingham(EMA)
+B738
+EI-EPC
+Ryanair
+[INFO ] 2023-01-06 23:03:20.272 [main] WebScrape - Landed 7:34 PM
+8:00 PM
+FR6364
+Shannon(SNN)
+B738
+EI-EKH
+Ryanair
+[INFO ] 2023-01-06 23:03:20.288 [main] WebScrape - Landed 8:07 PM
+8:10 PM
+FR6215
+Dortmund(DTM)
+B38M
+SP-RZA
+Buzz
+[INFO ] 2023-01-06 23:03:20.304 [main] WebScrape - Landed 9:20 PM
+8:35 PM
+FR6229
+Tel Aviv(TLV)
+B38M
+SP-RZH
+Buzz
+[INFO ] 2023-01-06 23:03:20.321 [main] WebScrape - Landed 9:15 PM
+8:50 PM
+LO3921
+Warsaw(WAW)
+E75S
+SP-LIK
+LOT
+[INFO ] 2023-01-06 23:03:20.337 [main] WebScrape - Landed 8:40 PM
+9:00 PM
+D83564
+Copenhagen(CPH)
+B738
+SE-RRP
+Norwegian (Aksel Sandemose Livery)
+[INFO ] 2023-01-06 23:03:20.353 [main] WebScrape - Landed 9:30 PM
+9:00 PM
+DY1042
+Oslo(OSL)
+B738
+LN-ENN
+Norwegian
+[INFO ] 2023-01-06 23:03:20.368 [main] WebScrape - Landed 9:05 PM
+9:00 PM
+FR5393
+Dublin(DUB)
+B738
+EI-DWP
+Ryanair
+[INFO ] 2023-01-06 23:03:20.385 [main] WebScrape - Landed 9:40 PM
+9:45 PM
+FR2588
+Malaga(AGP)
+B38M
+SP-RZB
+Buzz
+[INFO ] 2023-01-06 23:03:20.401 [main] WebScrape - Landed 9:36 PM
+9:45 PM
+FR5891
+Eindhoven(EIN)
+B738
+SP-RKD
+Ryanair
+[INFO ] 2023-01-06 23:03:20.417 [main] WebScrape - Delayed 11:41 PM
+10:00 PM
+FR6356
+Alicante(ALC)
+B738
+SP-RKG
+Ryanair
+[INFO ] 2023-01-06 23:03:20.433 [main] WebScrape - Landed 9:57 PM
+10:05 PM
+LH1624
+Munich(MUC)
+A320
+D-AIZF
+Lufthansa
+[INFO ] 2023-01-06 23:03:20.450 [main] WebScrape - Landed 10:32 PM
+10:35 PM
+FR5623
+Edinburgh(EDI)
+B738
+SP-RKO
+Ryanair
+[INFO ] 2023-01-06 23:03:20.467 [main] WebScrape - Landed 10:35 PM
+10:50 PM
+KL1999
+Amsterdam(AMS)
+E190
+PH-EZB
+KLM
+[INFO ] 2023-01-06 23:03:20.483 [main] WebScrape - Scheduled
+11:15 PM
+FR2362
+London(STN)
+B38M
+SP-RZF
+Buzz
+[INFO ] 2023-01-06 23:03:20.498 [main] WebScrape - Estimated 11:03 PM
+11:20 PM
+OS599
+Vienna(VIE)
+E195
+OE-LWQ
+Austrian Airlines
+[INFO ] 2023-01-06 23:03:20.514 [main] WebScrape - Estimated 11:26 PM
+11:25 PM
+LH1370
+Frankfurt(FRA)
+A20N
+D-AINN
+Lufthansa
+[INFO ] 2023-01-06 23:03:20.530 [main] WebScrape - Delayed 12:23 AM
+11:25 PM
+W65004
+London(LTN)
+A21N
+HA-LZE
+Wizz Air
+[INFO ] 2023-01-06 23:03:20.546 [main] WebScrape - Estimated 11:36 PM
+11:30 PM
+FR3364
+Berlin(BER)
+B38M
+SP-RZA
+Buzz
+[INFO ] 2023-01-06 23:03:20.563 [main] WebScrape - Estimated 11:30 PM
+11:35 PM
+LO3911
+Warsaw(WAW)
+E190
+SP-LMD
+LOT
+[INFO ] 2023-01-06 23:03:20.581 [main] WebScrape - Estimated 11:45 PM
+11:40 PM
+FR8673
+Girona(GRO)
+B38M
+SP-RZL
+Ryanair
+[INFO ] 2023-01-06 23:03:20.597 [main] WebScrape - Delayed 12:19 AM
+11:55 PM
+W65018
+Birmingham(BHX)
+A21N
+HA-LZI
+Wizz Air
+[INFO ] 2023-01-06 23:03:20.613 [main] WebScrape - Estimated 12:00 AM
+11:59 PM
+FR6227
+Gran Canaria(LPA)
+B38M
+SP-RZD
+Buzz
+[INFO ] 2023-01-06 23:03:20.630 [main] WebScrape - Estimated 12:17 AM
+12:25 AM
+W65052
+Larnaca(LCA)
+A321
+HA-LXO
+Wizz Air
+[INFO ] 2023-01-06 23:03:20.646 [main] WebScrape - Estimated 12:40 AM
+12:30 AM
+W65042
+Bergen(BGO)
+A21N
+HA-LVH
+Wizz Air
+[INFO ] 2023-01-06 23:03:20.664 [main] WebScrape - Scheduled
+7:00 AM
+FR6265
+Poznan(POZ)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:20.679 [main] WebScrape - Scheduled
+7:59 AM
+LO9001
+Warsaw(WAW)
+E190
+SP-LMH
+LOT
+[INFO ] 2023-01-06 23:03:20.695 [main] WebScrape - Scheduled
+8:00 AM
+FR9662
+Rome(CIA)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:20.713 [main] WebScrape - Scheduled
+8:05 AM
+AY1161
+Helsinki(HEL)
+E190
+OH-LKN
+Finnair (Oneworld livery)
+[INFO ] 2023-01-06 23:03:20.729 [main] WebScrape - Scheduled
+8:40 AM
+FR6319
+Marseille(MRS)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:20.745 [main] WebScrape - Scheduled
+8:56 AM
+E47904
+Antalya(AYT)
+B738
+SP-ESI
+Enter Air
+[INFO ] 2023-01-06 23:03:20.761 [main] WebScrape - Scheduled
+9:05 AM
+DY1040
+Oslo(OSL)
+B738
+LN-ENU
+Norwegian
+[INFO ] 2023-01-06 23:03:20.779 [main] WebScrape - Scheduled
+9:35 AM
+FR5623
+Edinburgh(EDI)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:20.796 [main] WebScrape - Scheduled
+9:45 AM
+LH1364
+Frankfurt(FRA)
+A320
+D-AIUM
+Lufthansa
+[INFO ] 2023-01-06 23:03:20.812 [main] WebScrape - Scheduled
+10:00 AM
+FR6235
+Copenhagen(CPH)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:20.828 [main] WebScrape - Scheduled
+10:30 AM
+U22111
+London(LTN)
+A320
+G-EZUP
+easyJet
+[INFO ] 2023-01-06 23:03:20.848 [main] WebScrape - Scheduled
+10:50 AM
+FR2362
+London(STN)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:20.863 [main] WebScrape - Scheduled
+10:55 AM
+FR6311
+Oslo(TRF)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:20.880 [main] WebScrape - Scheduled
+10:55 AM
+W65062
+Rome(FCO)
+A21N
+HA-LVE
+Wizz Air
+[INFO ] 2023-01-06 23:03:20.896 [main] WebScrape - Scheduled
+10:55 AM
+W65092
+Lyon(LYS)
+A21N
+HA-LZI
+Wizz Air
+[INFO ] 2023-01-06 23:03:20.912 [main] WebScrape - Scheduled
+11:05 AM
+FR6356
+Alicante(ALC)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:20.928 [main] WebScrape - Scheduled
+11:10 AM
+FZ1787
+Dubai(DXB)
+7M8
+FlyDubai
+[INFO ] 2023-01-06 23:03:20.945 [main] WebScrape - Scheduled
+11:25 AM
+FR5905
+Turin(TRN)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:20.961 [main] WebScrape - Scheduled
+11:30 AM
+LO3907
+Warsaw(WAW)
+E190
+SP-LMF
+LOT
+[INFO ] 2023-01-06 23:03:20.979 [main] WebScrape - Scheduled
+12:39 PM
+Rome(CIA)
+F2TH
+I-SEAE
+Leader
+[INFO ] 2023-01-06 23:03:20.995 [main] WebScrape - Scheduled
+12:40 PM
+FR3679
+Birmingham(BHX)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.012 [main] WebScrape - Scheduled
+12:45 PM
+LH1620
+Munich(MUC)
+A20N
+D-AINO
+Lufthansa
+[INFO ] 2023-01-06 23:03:21.028 [main] WebScrape - Scheduled
+1:15 PM
+U23815
+Paris(CDG)
+320
+easyJet
+[INFO ] 2023-01-06 23:03:21.044 [main] WebScrape - Scheduled
+1:25 PM
+FR6360
+Liverpool(LPL)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.061 [main] WebScrape - Scheduled
+1:40 PM
+FR6209
+Madrid(MAD)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.078 [main] WebScrape - Scheduled
+1:50 PM
+FR3035
+Barcelona(BCN)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.095 [main] WebScrape - Scheduled
+1:50 PM
+OS597
+Vienna(VIE)
+E95
+Austrian Airlines
+[INFO ] 2023-01-06 23:03:21.116 [main] WebScrape - Scheduled
+2:25 PM
+LO3905
+Warsaw(WAW)
+E95
+LOT
+[INFO ] 2023-01-06 23:03:21.133 [main] WebScrape - Scheduled
+2:50 PM
+W65098
+Tel Aviv(TLV)
+A21N
+HA-LVH
+Wizz Air
+[INFO ] 2023-01-06 23:03:21.149 [main] WebScrape - Scheduled
+2:55 PM
+FR6327
+Amman(AMM)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.165 [main] WebScrape - Scheduled
+3:05 PM
+FR6229
+Tel Aviv(TLV)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.182 [main] WebScrape - Scheduled
+3:35 PM
+FR9835
+Bordeaux(BOD)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.200 [main] WebScrape - Scheduled
+3:45 PM
+FR6293
+London(STN)
+32A
+Ryanair
+[INFO ] 2023-01-06 23:03:21.217 [main] WebScrape - Scheduled
+4:10 PM
+KL1995
+Amsterdam(AMS)
+E190
+PH-EZB
+KLM
+[INFO ] 2023-01-06 23:03:21.233 [main] WebScrape - Scheduled
+4:20 PM
+LO3923
+Warsaw(WAW)
+E90
+LOT
+[INFO ] 2023-01-06 23:03:21.251 [main] WebScrape - Scheduled
+4:35 PM
+LH1622
+Munich(MUC)
+CRJ9
+D-ACNA
+Lufthansa
+[INFO ] 2023-01-06 23:03:21.269 [main] WebScrape - Scheduled
+5:05 PM
+W65068
+Milan(MXP)
+32Q
+Wizz Air
+[INFO ] 2023-01-06 23:03:21.285 [main] WebScrape - Scheduled
+5:20 PM
+FR9950
+Toulouse(TLS)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.301 [main] WebScrape - Scheduled
+5:30 PM
+FR5393
+Dublin(DUB)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.318 [main] WebScrape - Scheduled
+5:55 PM
+LH1368
+Frankfurt(FRA)
+CRJ9
+D-ACNK
+Lufthansa
+[INFO ] 2023-01-06 23:03:21.334 [main] WebScrape - Scheduled
+6:00 PM
+FR6221
+Bristol(BRS)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.351 [main] WebScrape - Scheduled
+6:05 PM
+BA872
+London(LHR)
+320
+British Airways
+[INFO ] 2023-01-06 23:03:21.368 [main] WebScrape - Scheduled
+6:10 PM
+W65044
+Stavanger(SVG)
+32Q
+Wizz Air
+[INFO ] 2023-01-06 23:03:21.390 [main] WebScrape - Scheduled
+6:30 PM
+FR6876
+Milan(BGY)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.409 [main] WebScrape - Scheduled
+6:35 PM
+FR5891
+Eindhoven(EIN)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.427 [main] WebScrape - Scheduled
+6:40 PM
+FR1642
+Vienna(VIE)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.447 [main] WebScrape - Scheduled
+6:45 PM
+FR3986
+Bari(BRI)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.468 [main] WebScrape - Scheduled
+7:25 PM
+FR6277
+Nuremberg(NUE)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.486 [main] WebScrape - Scheduled
+7:30 PM
+FR2434
+London(STN)
+320
+Ryanair
+[INFO ] 2023-01-06 23:03:21.505 [main] WebScrape - Scheduled
+8:25 PM
+FR7968
+Pisa(PSA)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.525 [main] WebScrape - Scheduled
+8:40 PM
+FR6211
+Paris(BVA)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.546 [main] WebScrape - Scheduled
+8:50 PM
+FR2332
+Leeds(LBA)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.566 [main] WebScrape - Scheduled
+8:50 PM
+FR2712
+London(STN)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.585 [main] WebScrape - Scheduled
+9:25 PM
+FR6249
+Manchester(MAN)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.602 [main] WebScrape - Scheduled
+10:05 PM
+FR2023
+Dublin(DUB)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.619 [main] WebScrape - Scheduled
+10:05 PM
+LH1624
+Munich(MUC)
+32N
+Lufthansa
+[INFO ] 2023-01-06 23:03:21.638 [main] WebScrape - Scheduled
+10:10 PM
+FR4934
+Brussels(CRL)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.654 [main] WebScrape - Scheduled
+10:40 PM
+FR6243
+Naples(NAP)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.671 [main] WebScrape - Scheduled
+10:50 PM
+KL1999
+Amsterdam(AMS)
+E190
+PH-EZG
+KLM
+[INFO ] 2023-01-06 23:03:21.689 [main] WebScrape - Scheduled
+11:15 PM
+W65082
+Kutaisi(KUT)
+32Q
+Wizz Air
+[INFO ] 2023-01-06 23:03:21.706 [main] WebScrape - Scheduled
+11:20 PM
+LH1370
+Frankfurt(FRA)
+32N
+Lufthansa
+[INFO ] 2023-01-06 23:03:21.723 [main] WebScrape - Scheduled
+11:25 PM
+FR1813
+London(LTN)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.739 [main] WebScrape - Scheduled
+11:25 PM
+FR6217
+Oslo(TRF)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.756 [main] WebScrape - Scheduled
+11:25 PM
+W65004
+London(LTN)
+32Q
+Wizz Air
+[INFO ] 2023-01-06 23:03:21.773 [main] WebScrape - Scheduled
+11:35 PM
+FR6245
+Lille(LIL)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.790 [main] WebScrape - Scheduled
+11:35 PM
+FR6257
+Stockholm(ARN)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.807 [main] WebScrape - Scheduled
+11:35 PM
+LO3911
+Warsaw(WAW)
+E95
+LOT
+[INFO ] 2023-01-06 23:03:21.825 [main] WebScrape - Scheduled
+11:50 PM
+FR6231
+Szczecin(SZZ)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:21.843 [main] WebScrape - Scheduled
+12:10 AM
+W65034
+Oslo(OSL)
+32Q
+Wizz Air
+[INFO ] 2023-01-06 23:03:21.860 [main] WebScrape - Scheduled
+12:15 AM
+W65094
+Abu Dhabi(AUH)
+32Q
+Wizz Air
+[INFO ] 2023-01-06 23:03:21.877 [main] WebScrape - Scheduled
+8:10 AM
+FR4425
+Cagliari(CAG)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.894 [main] WebScrape - Scheduled
+8:10 AM
+LO3903
+Warsaw(WAW)
+E75
+LOT
+[INFO ] 2023-01-06 23:03:21.911 [main] WebScrape - Scheduled
+8:45 AM
+LX1370
+Zurich(ZRH)
+BCS1
+HB-JBC
+Swiss
+[INFO ] 2023-01-06 23:03:21.930 [main] WebScrape - Scheduled
+9:20 AM
+DY1038
+Trondheim(TRD)
+738
+Norwegian Air Shuttle AOC
+[INFO ] 2023-01-06 23:03:21.947 [main] WebScrape - Scheduled
+9:25 AM
+D83562
+Copenhagen(CPH)
+73H
+Norwegian Air Sweden AOC
+[INFO ] 2023-01-06 23:03:21.967 [main] WebScrape - Scheduled
+9:30 AM
+FR2362
+London(STN)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:21.984 [main] WebScrape - Scheduled
+9:40 AM
+DY1028
+Bergen(BGO)
+738
+Norwegian Air Shuttle AOC
+[INFO ] 2023-01-06 23:03:22.001 [main] WebScrape - Scheduled
+9:45 AM
+DY1036
+Stavanger(SVG)
+738
+Norwegian Air Shuttle AOC
+[INFO ] 2023-01-06 23:03:22.019 [main] WebScrape - Scheduled
+9:45 AM
+LH1364
+Frankfurt(FRA)
+32A
+Lufthansa
+[INFO ] 2023-01-06 23:03:22.036 [main] WebScrape - Scheduled
+10:02 AM
+Trebbin(QCZ)
+PC12
+D-FKJM
+-
+[INFO ] 2023-01-06 23:03:22.055 [main] WebScrape - Scheduled
+10:20 AM
+D84901
+Stockholm(ARN)
+73H
+Norwegian Air Sweden AOC
+[INFO ] 2023-01-06 23:03:22.073 [main] WebScrape - Scheduled
+10:30 AM
+FR1312
+Seville(SVQ)
+73H
+Ryanair
+[INFO ] 2023-01-06 23:03:22.091 [main] WebScrape - Scheduled
+10:30 AM
+FR6249
+Manchester(MAN)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:22.109 [main] WebScrape - Scheduled
+10:55 AM
+FR6257
+Stockholm(ARN)
+7M8
+Ryanair
+[INFO ] 2023-01-06 23:03:22.119 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.131 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.144 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.156 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.167 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.180 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.193 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.205 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.216 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.227 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.239 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.251 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.263 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.275 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.286 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.298 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.310 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.322 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.335 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.347 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.359 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.371 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.384 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.397 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.410 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.423 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.436 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.449 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.462 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.475 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.487 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.501 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.513 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.527 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.540 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.553 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.566 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.578 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.590 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.602 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.615 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.627 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.640 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.652 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.663 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.675 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.688 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.700 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.712 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.725 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.738 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.751 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.763 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.775 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.787 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.800 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.812 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.824 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.837 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.850 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.863 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.875 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.888 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.900 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.913 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.926 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.940 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.952 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.964 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.976 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:22.989 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.000 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.013 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.026 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.039 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.051 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.064 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.076 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.089 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.104 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.119 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.131 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.144 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.157 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.169 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.182 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.195 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.207 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.219 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.232 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.244 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.257 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.270 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.282 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.294 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.307 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.319 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.332 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.344 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.357 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.371 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.384 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.397 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.410 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.423 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.436 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.448 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.464 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.478 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.490 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.503 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.516 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.529 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.542 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.555 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.569 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.583 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.596 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.609 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.622 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.636 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.648 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.661 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.674 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.688 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.702 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.715 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.727 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.739 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.752 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.765 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.777 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.790 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.803 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.816 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.828 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.843 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.855 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.868 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.881 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.897 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.909 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.923 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.936 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.948 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.961 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.974 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:23.988 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.000 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.014 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.027 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.040 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.053 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.066 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.079 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.092 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.105 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.119 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.132 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.146 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.159 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.171 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.185 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.198 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.212 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.226 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.239 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.253 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.267 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.280 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.293 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.306 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.320 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.333 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.346 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.359 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.372 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.387 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.400 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.413 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.428 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.441 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.455 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.468 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.481 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.495 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.508 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.522 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.535 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.548 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.562 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.575 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.589 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.602 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.615 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.630 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.643 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.657 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.670 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.684 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.698 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.712 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.726 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.739 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.753 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.766 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.780 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.794 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.808 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.821 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.835 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.849 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.863 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.878 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.891 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.905 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.919 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.932 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.946 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.961 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.974 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:24.988 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.001 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.014 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.028 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.042 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.055 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.068 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.083 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.099 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.116 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.131 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.143 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.157 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.171 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.185 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.198 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.212 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.227 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.240 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.254 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.267 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.282 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.296 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.310 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.323 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.339 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.354 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.368 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.383 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.398 [main] WebScrape - * All times are in local timezone
+[INFO ] 2023-01-06 23:28:35.754 [main] WebScrape - TIME FLIGHT FROM AIRLINE AIRCRAFT STATUS
+[INFO ] 2023-01-06 23:28:35.760 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.763 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.766 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.772 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.778 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.783 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.789 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.795 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.801 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.807 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.812 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.818 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.823 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.829 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.834 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.839 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.844 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.850 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.855 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.860 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.866 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.871 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.877 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.882 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.887 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.893 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.898 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.903 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.908 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.914 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.919 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.924 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.930 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.935 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.941 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.947 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.952 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.958 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.962 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.968 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.974 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.979 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.985 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.991 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.996 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.002 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.008 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.013 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.019 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.025 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.030 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.036 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.041 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.047 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.053 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.058 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.064 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.073 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.078 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.084 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.089 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.094 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.099 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.104 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.110 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.115 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.120 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.125 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.130 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.135 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.140 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.145 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.150 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.156 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.161 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.166 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.171 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.176 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.182 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.187 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.192 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.197 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.203 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.208 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.213 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.218 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.224 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.229 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.235 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.240 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.245 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.251 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.256 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.262 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.267 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.272 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.277 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.282 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.287 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.292 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.297 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.302 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.307 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.312 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.316 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.322 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.326 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.331 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.336 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.341 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.346 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.350 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.356 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.360 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.366 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.371 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.377 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.382 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.388 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.393 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.398 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.404 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.408 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.413 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.419 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.428 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.434 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.439 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.444 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.450 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.456 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.461 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.466 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.471 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.476 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.482 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.487 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.492 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.497 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.502 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.506 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.511 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.516 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.520 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.524 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.529 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.534 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.538 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.543 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.547 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.553 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.558 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.563 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.568 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.572 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.577 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.582 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.587 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.592 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.597 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.602 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.607 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.612 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.618 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.623 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.628 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.633 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.638 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.643 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.648 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.653 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.657 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.663 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.668 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.672 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.678 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.683 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.688 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.693 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.698 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.703 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.708 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.713 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.718 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.722 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.727 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.732 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.737 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.741 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.746 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.751 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.756 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.761 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.766 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.770 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.780 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.784 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.789 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.793 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.798 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.803 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.807 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.812 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.817 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.822 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.827 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.832 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.837 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.841 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.846 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.851 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.855 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.860 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.865 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.870 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.875 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.880 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.885 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.890 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.896 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.900 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.905 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.910 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.914 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.919 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.924 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.928 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.933 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.937 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.942 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.947 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.951 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.956 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.961 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.966 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.970 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.975 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.979 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.984 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.989 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.994 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:36.998 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:37.003 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:37.009 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:37.014 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:37.019 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:37.024 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:37.029 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:37.034 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:37.039 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:37.043 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:37.049 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:37.052 [main] WebScrape - Thursday, Jan 05
+[INFO ] 2023-01-06 23:28:37.070 [main] WebScrape - 11:30 AM
+LO3907
+Warsaw (WAW)
+LOT E195 (SP-LNG)
+Landed 11:09 AM
+[INFO ] 2023-01-06 23:28:37.093 [main] WebScrape - 11:35 AM DY1036
+Stavanger (SVG)
+Norwegian (Jan Baalsrud Livery) B738 (LN-ENR)
+Landed 11:16 AM
+[INFO ] 2023-01-06 23:28:37.109 [main] WebScrape - 11:35 AM FR6257
+Stockholm (ARN)
+Buzz B38M (SP-RZH)
+Landed 11:22 AM
+[INFO ] 2023-01-06 23:28:37.126 [main] WebScrape - 11:40 AM W65002
+London (LTN)
+Wizz Air A21N (HA-LVH)
+Landed 11:56 AM
+[INFO ] 2023-01-06 23:28:37.143 [main] WebScrape - 11:50 AM W65060
+Catania (CTA)
+Wizz Air A21N (HA-LZI)
+Landed 11:32 AM
+[INFO ] 2023-01-06 23:28:37.159 [main] WebScrape - 11:55 AM D84901
+Stockholm (ARN)
+Norwegian B738 (SE-RPE)
+Landed 11:49 AM
+[INFO ] 2023-01-06 23:28:37.176 [main] WebScrape - 11:55 AM
+LH1366
+Frankfurt (FRA)
+Lufthansa A321 (D-AISU)
+Landed 11:45 AM
+[INFO ] 2023-01-06 23:28:37.192 [main] WebScrape - 12:05 PM DY1040
+Oslo (OSL)
+Norwegian (Asta Nielsen Livery) B738 (LN-NIE)
+Landed 12:09 PM
+[INFO ] 2023-01-06 23:28:37.208 [main] WebScrape - 12:25 PM FR1813
+London (LTN)
+Buzz B38M (SP-RZB)
+Landed 12:25 PM
+[INFO ] 2023-01-06 23:28:37.224 [main] WebScrape - 12:35 PM U28511
+London (LGW)
+easyJet A319 (G-EZBC)
+Landed 12:13 PM
+[INFO ] 2023-01-06 23:28:37.244 [main] WebScrape - 12:45 PM
+LH1620
+Munich (MUC)
+Lufthansa (Star Alliance Livery) A320 (D-AIZH)
+Landed 12:55 PM
+[INFO ] 2023-01-06 23:28:37.261 [main] WebScrape - 1:30 PM FR7695
+Porto (OPO)
+Ryanair B738 (EI-GSJ)
+Landed 1:17 PM
+[INFO ] 2023-01-06 23:28:37.280 [main] WebScrape - 1:50 PM FR3035
+Barcelona (BCN)
+Ryanair B738 (SP-RKT)
+Landed 1:50 PM
+[INFO ] 2023-01-06 23:28:37.296 [main] WebScrape - 1:50 PM W65082
+Kutaisi (KUT)
+Wizz Air A21N (HA-LZE)
+Landed 1:59 PM
+[INFO ] 2023-01-06 23:28:37.314 [main] WebScrape - 1:50 PM
+OS597
+Vienna (VIE)
+Austrian Airlines E195 (OE-LWO)
+Landed 1:47 PM
+[INFO ] 2023-01-06 23:28:37.331 [main] WebScrape - 2:05 PM DY1038
+Trondheim (TRD)
+Norwegian B738 (LN-ENM)
+Landed 1:44 PM
+[INFO ] 2023-01-06 23:28:37.347 [main] WebScrape - 2:20 PM LO3905
+Warsaw (WAW)
+LOT E190 (SP-LMG)
+Landed 2:11 PM
+[INFO ] 2023-01-06 23:28:37.363 [main] WebScrape - 2:30 PM FR6247
+Pafos (PFO)
+Ryanair B738 (SP-RSA)
+Landed 2:27 PM
+[INFO ] 2023-01-06 23:28:37.378 [main] WebScrape - 3:00 PM FR83
+Eilat (ETM)
+Buzz B38M (SP-RZA)
+Landed 3:18 PM
+[INFO ] 2023-01-06 23:28:37.394 [main] WebScrape - 3:05 PM FR4024
+Lisbon (LIS)
+Buzz B38M (SP-RZD)
+Landed 3:13 PM
+[INFO ] 2023-01-06 23:28:37.413 [main] WebScrape - 3:20 PM FR9662
+Rome (CIA)
+Ryanair B738 (9H-QCO)
+Landed 2:57 PM
+[INFO ] 2023-01-06 23:28:37.429 [main] WebScrape - 3:20 PM TO7428
+Paris (ORY)
+Transavia B738 (F-HTVO)
+Landed 3:43 PM
+[INFO ] 2023-01-06 23:28:37.445 [main] WebScrape - 3:20 PM U23815
+Paris (CDG)
+easyJet A320 (OE-IZG)
+Landed 2:53 PM
+[INFO ] 2023-01-06 23:28:37.461 [main] WebScrape - 3:30 PM FR4425
+Cagliari (CAG)
+Ryanair B738 (9H-QCM)
+Landed 3:26 PM
+[INFO ] 2023-01-06 23:28:37.477 [main] WebScrape - 3:30 PM U26275
+Bristol (BRS)
+easyJet A320 (G-EZUO)
+Landed 3:07 PM
+[INFO ] 2023-01-06 23:28:37.493 [main] WebScrape - 4:00 PM FR4934
+Brussels (CRL)
+Buzz B38M (SP-RZF)
+Landed 4:02 PM
+[INFO ] 2023-01-06 23:28:37.510 [main] WebScrape - 4:10 PM
+KL1995
+Amsterdam (AMS)
+KLM E295 (PH-NXN)
+Landed 4:16 PM
+[INFO ] 2023-01-06 23:28:37.528 [main] WebScrape - 4:20 PM
+LO3923
+Warsaw (WAW)
+LOT E195 (SP-LND)
+Landed 4:06 PM
+[INFO ] 2023-01-06 23:28:37.544 [main] WebScrape - 4:35 PM FR3798
+Bologna (BLQ)
+Ryanair B738 (9H-QCT)
+Landed 4:26 PM
+[INFO ] 2023-01-06 23:28:37.563 [main] WebScrape - 4:45 PM
+Rome (CIA)
+- B738 (0112)
+Landed 5:00 PM
+[INFO ] 2023-01-06 23:28:37.580 [main] WebScrape - 4:45 PM FR6364
+Shannon (SNN)
+Ryanair B738 (SP-RKO)
+Landed 5:18 PM
+[INFO ] 2023-01-06 23:28:37.597 [main] WebScrape - 5:00 PM
+LH1622
+Munich (MUC)
+Lufthansa A320 (D-AIZC)
+Landed 4:50 PM
+[INFO ] 2023-01-06 23:28:37.613 [main] WebScrape - 5:05 PM W65068
+Milan (MXP)
+Wizz Air A21N (HA-LZI)
+Landed 4:41 PM
+[INFO ] 2023-01-06 23:28:37.629 [main] WebScrape - 5:30 PM FR6209
+Madrid (MAD)
+Ryanair B738 (EI-DHY)
+Landed 5:22 PM
+[INFO ] 2023-01-06 23:28:37.645 [main] WebScrape - 5:42 PM
+Warsaw (WAW)
+- C295 (023)
+Landed 5:45 PM
+[INFO ] 2023-01-06 23:28:37.662 [main] WebScrape - 5:55 PM
+LH1368
+Frankfurt (FRA)
+Eurowings A319 (D-AGWJ)
+Landed 5:49 PM
+[INFO ] 2023-01-06 23:28:37.678 [main] WebScrape - 6:10 PM W65010
+London (LGW)
+Wizz Air A21N (HA-LVH)
+Landed 6:42 PM
+[INFO ] 2023-01-06 23:28:37.694 [main] WebScrape - 6:10 PM W65044
+Stavanger (SVG)
+Wizz Air A321 (HA-LXO)
+Landed 5:41 PM
+[INFO ] 2023-01-06 23:28:37.710 [main] WebScrape - 6:25 PM FR7661
+Newcastle (NCL)
+Buzz B38M (SP-RZH)
+Landed 6:23 PM
+[INFO ] 2023-01-06 23:28:37.730 [main] WebScrape - 6:35 PM FR2712
+London (STN)
+Buzz B38M (SP-RZB)
+Landed 6:31 PM
+[INFO ] 2023-01-06 23:28:37.746 [main] WebScrape - 7:35 PM DY1028
+Bergen (BGO)
+Norwegian B738 (LN-ENV)
+Landed 7:16 PM
+[INFO ] 2023-01-06 23:28:37.762 [main] WebScrape - 7:40 PM FR5891
+Eindhoven (EIN)
+Ryanair B738 (SP-RKT)
+Landed 7:41 PM
+[INFO ] 2023-01-06 23:28:37.779 [main] WebScrape - 8:15 PM FR3679
+Birmingham (BHX)
+Ryanair B738 (EI-ENC)
+Landed 7:55 PM
+[INFO ] 2023-01-06 23:28:37.795 [main] WebScrape - 8:20 PM FR2023
+Dublin (DUB)
+Ryanair B38M (EI-HGR)
+Landed 7:50 PM
+[INFO ] 2023-01-06 23:28:37.815 [main] WebScrape - 8:30 PM FR8507
+Oslo (TRF)
+Buzz B38M (SP-RZD)
+Landed 8:52 PM
+[INFO ] 2023-01-06 23:28:37.833 [main] WebScrape - 8:35 PM FR2332
+Leeds (LBA)
+Ryanair B738 (EI-EXE)
+Landed 8:12 PM
+[INFO ] 2023-01-06 23:28:37.849 [main] WebScrape - 8:45 PM U21871
+Manchester (MAN)
+easyJet A320 (G-EZWL)
+Landed 8:18 PM
+[INFO ] 2023-01-06 23:28:37.867 [main] WebScrape - 8:50 PM FR3721
+Billund (BLL)
+Ryanair B738 (9H-QBX)
+Landed 8:22 PM
+[INFO ] 2023-01-06 23:28:37.889 [main] WebScrape - 8:50 PM
+LO3921
+Warsaw (WAW)
+LOT E190 (SP-LMD)
+Landed 8:45 PM
+[INFO ] 2023-01-06 23:28:37.907 [main] WebScrape - 9:00 PM D83564
+Copenhagen (CPH)
+Norwegian (Felix Rodríguez de la Fuente Livery) B38M (SE-RTC)
+Landed 8:43 PM
+[INFO ] 2023-01-06 23:28:37.925 [main] WebScrape - 9:00 PM DY1042
+Oslo (OSL)
+Norwegian B738 (LN-ENN)
+Landed 9:05 PM
+[INFO ] 2023-01-06 23:28:37.943 [main] WebScrape - 9:10 PM FR6360
+Liverpool (LPL)
+Ryanair B738 (EI-EME)
+Landed 8:57 PM
+[INFO ] 2023-01-06 23:28:37.961 [main] WebScrape - 9:45 PM FR3613
+Milan (BGY)
+Ryanair B38M (9H-VUN)
+Landed 10:45 PM
+[INFO ] 2023-01-06 23:28:37.978 [main] WebScrape - 9:50 PM FR6221
+Bristol (BRS)
+Buzz B38M (SP-RZA)
+Landed 9:55 PM
+[INFO ] 2023-01-06 23:28:37.997 [main] WebScrape - 10:05 PM
+LH1624
+Munich (MUC)
+Lufthansa A320 (D-AIZG)
+Landed 9:59 PM
+[INFO ] 2023-01-06 23:28:38.016 [main] WebScrape - 10:10 PM FR2362
+London (STN)
+Buzz B38M (SP-RZF)
+Landed 10:25 PM
+[INFO ] 2023-01-06 23:28:38.034 [main] WebScrape - 10:50 PM
+KL1999
+Amsterdam (AMS)
+KLM E190 (PH-EXD)
+Landed 10:33 PM
+[INFO ] 2023-01-06 23:28:38.052 [main] WebScrape - 10:55 PM FR6159
+Gothenburg (GOT)
+Buzz B38M (SP-RZH)
+Landed 10:54 PM
+[INFO ] 2023-01-06 23:28:38.072 [main] WebScrape - 11:05 PM
+LO160
+Tel Aviv (TLV)
+LOT B38M (SP-LVF)
+Landed 11:10 PM
+[INFO ] 2023-01-06 23:28:38.089 [main] WebScrape - 11:20 PM FR6265
+Poznan (POZ)
+Buzz B38M (SP-RZD)
+Landed 11:48 PM
+[INFO ] 2023-01-06 23:28:38.108 [main] WebScrape - 11:20 PM
+LH1370
+Frankfurt (FRA)
+Lufthansa A321 (D-AIDJ)
+Landed 11:22 PM
+[INFO ] 2023-01-06 23:28:38.126 [main] WebScrape - 11:20 PM
+OS599
+Vienna (VIE)
+Austrian Airlines E195 (OE-LWC)
+Landed 11:05 PM
+[INFO ] 2023-01-06 23:28:38.144 [main] WebScrape - 11:25 PM FR6331
+Thessaloniki (SKG)
+Buzz B38M (SP-RZB)
+Landed 11:31 PM
+[INFO ] 2023-01-06 23:28:38.161 [main] WebScrape - 11:25 PM W65004
+London (LTN)
+Wizz Air A21N (HA-LZI)
+Landed 10:57 PM
+[INFO ] 2023-01-06 23:28:38.179 [main] WebScrape - 11:30 PM FR5623
+Edinburgh (EDI)
+Ryanair B738 (SP-RKU)
+Landed 11:38 PM
+[INFO ] 2023-01-06 23:28:38.196 [main] WebScrape - 11:35 PM LO3911
+Warsaw (WAW)
+LOT E190 (SP-LMG)
+Landed 11:18 PM
+[INFO ] 2023-01-06 23:28:38.215 [main] WebScrape - 11:38 PM
+Warsaw (WAW)
+- C295 (025)
+Landed 11:52 PM
+[INFO ] 2023-01-06 23:28:38.240 [main] WebScrape - 11:50 PM W65054
+Reykjavik (KEF)
+Wizz Air A21N (HA-LZE)
+Landed 12:48 AM
+[INFO ] 2023-01-06 23:28:38.260 [main] WebScrape - 11:50 PM W65062
+Rome (FCO)
+Wizz Air A21N (HA-LVH)
+Landed 12:20 AM
+[INFO ] 2023-01-06 23:28:38.280 [main] WebScrape - 11:55 PM FR6235
+Copenhagen (CPH)
+Ryanair B738 (SP-RKT)
+Landed 12:23 AM
+[INFO ] 2023-01-06 23:28:38.284 [main] WebScrape - Friday, Jan 06
+[INFO ] 2023-01-06 23:28:38.301 [main] WebScrape - 12:10 AM W65034
+Oslo (OSL)
+Wizz Air A321 (HA-LXO)
+Landed 12:17 AM
+[INFO ] 2023-01-06 23:28:38.317 [main] WebScrape - 8:10 AM LO3903
+Warsaw (WAW)
+LOT E75S (SP-LIK)
+Landed 7:48 AM
+[INFO ] 2023-01-06 23:28:38.333 [main] WebScrape - 8:15 AM
+LG5741
+Luxembourg (LUX)
+Luxair DH8D (LX-LQC)
+Landed 7:51 AM
+[INFO ] 2023-01-06 23:28:38.350 [main] WebScrape - 8:45 AM
+LX1370
+Zurich (ZRH)
+Air Baltic BCS3 (YL-ABL)
+Landed 8:35 AM
+[INFO ] 2023-01-06 23:28:38.366 [main] WebScrape - 9:10 AM FR2228
+Valencia (VLC)
+Ryanair B738 (EI-DCW)
+Landed 8:54 AM
+[INFO ] 2023-01-06 23:28:38.382 [main] WebScrape - 9:30 AM FR3053
+Barcelona (BCN)
+Ryanair B738 (EI-DHD)
+Landed 9:23 AM
+[INFO ] 2023-01-06 23:28:38.403 [main] WebScrape - 9:35 AM FR6293
+London (STN)
+Ryanair B38M (EI-IFT)
+Landed 9:11 AM
+[INFO ] 2023-01-06 23:28:38.419 [main] WebScrape - 9:45 AM A3868
+Athens (ATH)
+Aegean Airlines A320 (SX-DVT)
+Landed 9:48 AM
+[INFO ] 2023-01-06 23:28:38.436 [main] WebScrape - 9:55 AM
+LH1364
+Frankfurt (FRA)
+Lufthansa A319 (D-AIBA)
+Landed 9:55 AM
+[INFO ] 2023-01-06 23:28:38.452 [main] WebScrape - 10:00 AM U26939
+Edinburgh (EDI)
+easyJet (Europcar Livery) A20N (G-UZHO)
+Landed 9:44 AM
+[INFO ] 2023-01-06 23:28:38.468 [main] WebScrape - 10:10 AM FR5118
+Dublin (DUB)
+Ryanair B38M (EI-HGR)
+Landed 9:51 AM
+[INFO ] 2023-01-06 23:28:38.485 [main] WebScrape - 10:15 AM FR3986
+Bari (BRI)
+Ryanair B738 (SP-RSO)
+Landed 10:32 AM
+[INFO ] 2023-01-06 23:28:38.501 [main] WebScrape - 10:35 AM U26275
+Bristol (BRS)
+easyJet A320 (G-EZWU)
+Landed 10:09 AM
+[INFO ] 2023-01-06 23:28:38.517 [main] WebScrape - 10:40 AM FR6225
+Podgorica (TGD)
+Buzz B38M (SP-RZH)
+Landed 10:39 AM
+[INFO ] 2023-01-06 23:28:38.533 [main] WebScrape - 10:40 AM LS353
+Newcastle (NCL)
+Jet2 B738 (G-DRTR)
+Landed 10:14 AM
+[INFO ] 2023-01-06 23:28:38.551 [main] WebScrape - 10:40 AM U22111
+London (LTN)
+easyJet A319 (G-EZFV)
+Landed 10:19 AM
+[INFO ] 2023-01-06 23:28:38.570 [main] WebScrape - 10:41 AM
+Vienna (VIE)
+- PC12 (D-FKJM)
+Landed 10:24 AM
+[INFO ] 2023-01-06 23:28:38.586 [main] WebScrape - 10:55 AM
+AY1163
+Helsinki (HEL)
+Finnair A319 (OH-LVH)
+Landed 10:28 AM
+[INFO ] 2023-01-06 23:28:38.603 [main] WebScrape - 10:55 AM D84901
+Stockholm (ARN)
+Norwegian B738 (SE-RPF)
+Landed 10:43 AM
+[INFO ] 2023-01-06 23:28:38.619 [main] WebScrape - 11:00 AM FR6211
+Paris (BVA)
+Buzz B38M (SP-RZA)
+Landed 10:50 AM
+[INFO ] 2023-01-06 23:28:38.635 [main] WebScrape - 11:10 AM
+FZ1787
+Dubai (DXB)
+flydubai B38M (A6-FMN)
+Landed 11:11 AM
+[INFO ] 2023-01-06 23:28:38.652 [main] WebScrape - 11:15 AM LS949
+Manchester (MAN)
+Jet2 B738 (G-GDFF)
+Landed 10:56 AM
+[INFO ] 2023-01-06 23:28:38.668 [main] WebScrape - 11:30 AM FR4934
+Brussels (CRL)
+Ryanair B38M (SP-RZL)
+Landed 11:51 AM
+[INFO ] 2023-01-06 23:28:38.685 [main] WebScrape - 11:30 AM
+LO3907
+Warsaw (WAW)
+LOT E190 (SP-LMB)
+Landed 11:15 AM
+[INFO ] 2023-01-06 23:28:38.701 [main] WebScrape - 11:30 AM W65034
+Oslo (OSL)
+Wizz Air A21N (HA-LVH)
+Landed 11:46 AM
+[INFO ] 2023-01-06 23:28:38.721 [main] WebScrape - 11:45 AM W65014
+Leeds (LBA)
+Wizz Air A21N (HA-LZI)
+Landed 11:28 AM
+[INFO ] 2023-01-06 23:28:38.737 [main] WebScrape - 11:55 AM W65076
+Eindhoven (EIN)
+Wizz Air A21N (HA-LZE)
+Landed 11:25 AM
+[INFO ] 2023-01-06 23:28:38.754 [main] WebScrape - 12:05 PM
+LH1366
+Frankfurt (FRA)
+Lufthansa A319 (D-AIBE)
+Landed 11:55 AM
+[INFO ] 2023-01-06 23:28:38.770 [main] WebScrape - 12:05 PM DY1040
+Oslo (OSL)
+Norwegian B738 (LN-ENU)
+Landed 12:10 PM
+[INFO ] 2023-01-06 23:28:38.787 [main] WebScrape - 12:10 PM FR6233
+Palermo (PMO)
+Buzz B38M (SP-RZD)
+Landed 12:02 PM
+[INFO ] 2023-01-06 23:28:38.804 [main] WebScrape - 12:10 PM FR6249
+Manchester (MAN)
+Ryanair B738 (SP-RKD)
+Landed 12:13 PM
+[INFO ] 2023-01-06 23:28:38.819 [main] WebScrape - 12:35 PM FR1813
+London (LTN)
+Buzz B38M (SP-RZF)
+Landed 12:30 PM
+[INFO ] 2023-01-06 23:28:38.836 [main] WebScrape - 12:35 PM FR4204
+Glasgow (GLA)
+Buzz B38M (SP-RZB)
+Landed 12:42 PM
+[INFO ] 2023-01-06 23:28:38.854 [main] WebScrape - 12:45 PM
+LH1620
+Munich (MUC)
+Lufthansa A320 (D-AIZE)
+Landed 12:37 PM
+[INFO ] 2023-01-06 23:28:38.870 [main] WebScrape - 12:50 PM FR7954
+Prague (PRG)
+Ryanair B738 (SP-RSF)
+Landed 12:39 PM
+[INFO ] 2023-01-06 23:28:38.889 [main] WebScrape - 1:10 PM W65048
+Barcelona (BCN)
+Wizz Air A321 (HA-LXO)
+Landed 12:45 PM
+[INFO ] 2023-01-06 23:28:38.907 [main] WebScrape - 1:50 PM
+OS597
+Vienna (VIE)
+Austrian Airlines E195 (OE-LWJ)
+Landed 1:26 PM
+[INFO ] 2023-01-06 23:28:38.924 [main] WebScrape - 1:55 PM FR9279
+Agadir (AGA)
+Ryanair B738 (EI-EMD)
+Landed 1:41 PM
+[INFO ] 2023-01-06 23:28:38.939 [main] WebScrape - 2:20 PM LO3905
+Warsaw (WAW)
+LOT E190 (SP-LMG)
+Landed 2:03 PM
+[INFO ] 2023-01-06 23:28:38.955 [main] WebScrape - 2:50 PM EW9732
+Dusseldorf (DUS)
+Eurowings A320 (D-AEWK)
+Landed 2:24 PM
+[INFO ] 2023-01-06 23:28:38.972 [main] WebScrape - 2:56 PM
+Milan (BGY)
+Ryanair B738 (SP-RKG)
+Landed 3:13 PM
+[INFO ] 2023-01-06 23:28:38.988 [main] WebScrape - 3:25 PM FR6876
+Milan (BGY)
+Buzz B38M (SP-RZA)
+Landed 3:24 PM
+[INFO ] 2023-01-06 23:28:39.004 [main] WebScrape - 3:50 PM FR2332
+Leeds (LBA)
+Ryanair B738 (SP-RKO)
+Landed 3:50 PM
+[INFO ] 2023-01-06 23:28:39.021 [main] WebScrape - 3:55 PM FR6319
+Marseille (MRS)
+Ryanair B38M (9H-VUW)
+Landed 3:34 PM
+[INFO ] 2023-01-06 23:28:39.041 [main] WebScrape - 4:05 PM
+LO3919
+Warsaw (WAW)
+LOT E75S (SP-LIA)
+Landed 3:55 PM
+[INFO ] 2023-01-06 23:28:39.058 [main] WebScrape - 4:10 PM
+KL1995
+Amsterdam (AMS)
+KLM E190 (PH-EXA)
+Landed 3:59 PM
+[INFO ] 2023-01-06 23:28:39.074 [main] WebScrape - 4:35 PM FR7150
+Gdansk (GDN)
+Ryanair B738 (SP-RKM)
+Landed 6:15 PM
+[INFO ] 2023-01-06 23:28:39.091 [main] WebScrape - 4:50 PM FR4626
+Stockholm (ARN)
+Ryanair B738 (9H-QCC)
+Landed 4:36 PM
+[INFO ] 2023-01-06 23:28:39.108 [main] WebScrape - 5:00 PM DY1028
+Bergen (BGO)
+Norwegian B738 (LN-ENL)
+Landed 4:34 PM
+[INFO ] 2023-01-06 23:28:39.124 [main] WebScrape - 5:05 PM FR6251
+Riga (RIX)
+Ryanair B738 (SP-RKD)
+Landed 4:47 PM
+[INFO ] 2023-01-06 23:28:39.140 [main] WebScrape - 5:05 PM W65078
+Stockholm (NYO)
+Wizz Air A21N (HA-LZE)
+Landed 5:33 PM
+[INFO ] 2023-01-06 23:28:39.156 [main] WebScrape - 5:10 PM FR2712
+London (STN)
+Ryanair B38M (SP-RZL)
+Landed 5:30 PM
+[INFO ] 2023-01-06 23:28:39.173 [main] WebScrape - 5:10 PM FR6223
+Bournemouth (BOH)
+Ryanair B738 (EI-ENI)
+Landed 4:50 PM
+[INFO ] 2023-01-06 23:28:39.189 [main] WebScrape - 5:20 PM FR3721
+Billund (BLL)
+Ryanair B738 (9H-QCY)
+Landed 4:55 PM
+[INFO ] 2023-01-06 23:28:39.209 [main] WebScrape - 5:25 PM W65072
+Nice (NCE)
+Wizz Air A21N (HA-LZI)
+Landed 5:23 PM
+[INFO ] 2023-01-06 23:28:39.226 [main] WebScrape - 5:30 PM
+LO3923
+Warsaw (WAW)
+LOT E75S (SP-LIK)
+Landed 5:19 PM
+[INFO ] 2023-01-06 23:28:39.242 [main] WebScrape - 5:40 PM FR8507
+Oslo (TRF)
+Buzz B38M (SP-RZF)
+Landed 7:50 PM
+[INFO ] 2023-01-06 23:28:39.259 [main] WebScrape - 5:50 PM U26525
+London (LGW)
+easyJet A320 (G-EZOK)
+Landed 5:36 PM
+[INFO ] 2023-01-06 23:28:39.276 [main] WebScrape - 5:55 PM
+LH1368
+Frankfurt (FRA)
+Lufthansa CRJ9 (D-ACNM)
+Landed 5:50 PM
+[INFO ] 2023-01-06 23:28:39.293 [main] WebScrape - 6:10 PM W65010
+London (LGW)
+Wizz Air A21N (HA-LVH)
+Landed 6:37 PM
+[INFO ] 2023-01-06 23:28:39.311 [main] WebScrape - 7:00 PM BA872
+London (LHR)
+British Airways A320 (G-EUYK)
+Landed 6:45 PM
+[INFO ] 2023-01-06 23:28:39.327 [main] WebScrape - 7:00 PM HV5281
+Eindhoven (EIN)
+Transavia B738 (PH-HSG)
+Landed 6:40 PM
+[INFO ] 2023-01-06 23:28:39.344 [main] WebScrape - 7:15 PM FR9662
+Rome (CIA)
+Ryanair B738 (9H-QEA)
+Landed 6:58 PM
+[INFO ] 2023-01-06 23:28:39.364 [main] WebScrape - 7:20 PM FR7114
+Malta (MLA)
+Ryanair B38M (9H-VUU)
+Landed 7:41 PM
+[INFO ] 2023-01-06 23:28:39.379 [main] WebScrape - 7:25 PM U23817
+Paris (CDG)
+easyJet A320 (OE-IVL)
+Landed 7:09 PM
+[INFO ] 2023-01-06 23:28:39.396 [main] WebScrape - 7:40 PM LO3508
+Olsztyn (SZY)
+LOT E75S (SP-LIA)
+Unknown
+[INFO ] 2023-01-06 23:28:39.413 [main] WebScrape - 7:50 PM FR5723
+Nottingham (EMA)
+Ryanair B738 (EI-EPC)
+Landed 7:37 PM
+[INFO ] 2023-01-06 23:28:39.429 [main] WebScrape - 8:00 PM FR6364
+Shannon (SNN)
+Ryanair B738 (EI-EKH)
+Landed 7:34 PM
+[INFO ] 2023-01-06 23:28:39.446 [main] WebScrape - 8:10 PM FR6215
+Dortmund (DTM)
+Buzz B38M (SP-RZA)
+Landed 8:07 PM
+[INFO ] 2023-01-06 23:28:39.463 [main] WebScrape - 8:35 PM FR6229
+Tel Aviv (TLV)
+Buzz B38M (SP-RZH)
+Landed 9:20 PM
+[INFO ] 2023-01-06 23:28:39.480 [main] WebScrape - 8:50 PM
+LO3921
+Warsaw (WAW)
+LOT E75S (SP-LIK)
+Landed 9:15 PM
+[INFO ] 2023-01-06 23:28:39.498 [main] WebScrape - 9:00 PM D83564
+Copenhagen (CPH)
+Norwegian (Aksel Sandemose Livery) B738 (SE-RRP)
+Landed 8:40 PM
+[INFO ] 2023-01-06 23:28:39.514 [main] WebScrape - 9:00 PM DY1042
+Oslo (OSL)
+Norwegian B738 (LN-ENN)
+Landed 9:30 PM
+[INFO ] 2023-01-06 23:28:39.534 [main] WebScrape - 9:00 PM FR5393
+Dublin (DUB)
+Ryanair B738 (EI-DWP)
+Landed 9:05 PM
+[INFO ] 2023-01-06 23:28:39.550 [main] WebScrape - 9:45 PM FR2588
+Malaga (AGP)
+Buzz B38M (SP-RZB)
+Landed 9:40 PM
+[INFO ] 2023-01-06 23:28:39.565 [main] WebScrape - 9:45 PM FR5891
+Eindhoven (EIN)
+Ryanair B738 (SP-RKD)
+Landed 9:36 PM
+[INFO ] 2023-01-06 23:28:39.582 [main] WebScrape - 10:00 PM FR6356
+Alicante (ALC)
+Ryanair B738 (SP-RKG)
+Delayed 11:39 PM
+[INFO ] 2023-01-06 23:28:39.599 [main] WebScrape - 10:05 PM
+LH1624
+Munich (MUC)
+Lufthansa A320 (D-AIZF)
+Landed 9:57 PM
+[INFO ] 2023-01-06 23:28:39.615 [main] WebScrape - 10:35 PM FR5623
+Edinburgh (EDI)
+Ryanair B738 (SP-RKO)
+Landed 10:32 PM
+[INFO ] 2023-01-06 23:28:39.632 [main] WebScrape - 10:50 PM
+KL1999
+Amsterdam (AMS)
+KLM E190 (PH-EZB)
+Landed 10:35 PM
+[INFO ] 2023-01-06 23:28:39.649 [main] WebScrape - 11:15 PM FR2362
+London (STN)
+Buzz B38M (SP-RZF)
+Scheduled
+[INFO ] 2023-01-06 23:28:39.666 [main] WebScrape - 11:20 PM
+OS599
+Vienna (VIE)
+Austrian Airlines E195 (OE-LWQ)
+Landed 11:04 PM
+[INFO ] 2023-01-06 23:28:39.685 [main] WebScrape - 11:25 PM
+LH1370
+Frankfurt (FRA)
+Lufthansa A20N (D-AINN)
+Landed 11:27 PM
+[INFO ] 2023-01-06 23:28:39.701 [main] WebScrape - 11:25 PM W65004
+London (LTN)
+Wizz Air A21N (HA-LZE)
+Delayed 12:25 AM
+[INFO ] 2023-01-06 23:28:39.717 [main] WebScrape - 11:30 PM FR3364
+Berlin (BER)
+Buzz B38M (SP-RZA)
+Estimated 11:34 PM
+[INFO ] 2023-01-06 23:28:39.734 [main] WebScrape - 11:35 PM
+LO3911
+Warsaw (WAW)
+LOT E190 (SP-LMD)
+Landed 11:24 PM
+[INFO ] 2023-01-06 23:28:39.750 [main] WebScrape - 11:40 PM FR8673
+Girona (GRO)
+Ryanair B38M (SP-RZL)
+Delayed 11:56 PM
+[INFO ] 2023-01-06 23:28:39.765 [main] WebScrape - 11:55 PM W65018
+Birmingham (BHX)
+Wizz Air A21N (HA-LZI)
+Delayed 12:17 AM
+[INFO ] 2023-01-06 23:28:39.781 [main] WebScrape - 11:59 PM FR6227
+Gran Canaria (LPA)
+Buzz B38M (SP-RZD)
+Estimated 12:00 AM
+[INFO ] 2023-01-06 23:28:39.786 [main] WebScrape - Saturday, Jan 07
+[INFO ] 2023-01-06 23:28:39.803 [main] WebScrape - 12:25 AM W65052
+Larnaca (LCA)
+Wizz Air A321 (HA-LXO)
+Estimated 12:17 AM
+[INFO ] 2023-01-06 23:28:39.819 [main] WebScrape - 12:30 AM W65042
+Bergen (BGO)
+Wizz Air A21N (HA-LVH)
+Estimated 12:36 AM
+[INFO ] 2023-01-06 23:28:39.835 [main] WebScrape - 7:00 AM FR6265
+Poznan (POZ)
+Ryanair B738 (SP-RKR)
+Scheduled
+[INFO ] 2023-01-06 23:28:39.854 [main] WebScrape - 7:59 AM LO9001
+Warsaw (WAW)
+LOT E190 (SP-LMH)
+Scheduled
+[INFO ] 2023-01-06 23:28:39.870 [main] WebScrape - 8:00 AM FR9662
+Rome (CIA)
+Ryanair B738 (9H-QDQ)
+Scheduled
+[INFO ] 2023-01-06 23:28:39.887 [main] WebScrape - 8:05 AM
+AY1161
+Helsinki (HEL)
+Finnair (Oneworld livery) E190 (OH-LKN)
+Scheduled
+[INFO ] 2023-01-06 23:28:39.903 [main] WebScrape - 8:40 AM FR6319
+Marseille (MRS)
+Ryanair B738 (9H-QAQ)
+Scheduled
+[INFO ] 2023-01-06 23:28:39.919 [main] WebScrape - 8:56 AM E47904
+Antalya (AYT)
+Enter Air B738 (SP-ESI)
+Scheduled
+[INFO ] 2023-01-06 23:28:39.939 [main] WebScrape - 9:05 AM DY1040
+Oslo (OSL)
+Norwegian B738 (LN-ENU)
+Scheduled
+[INFO ] 2023-01-06 23:28:39.955 [main] WebScrape - 9:35 AM FR5623
+Edinburgh (EDI)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:39.972 [main] WebScrape - 9:45 AM
+LH1364
+Frankfurt (FRA)
+Lufthansa A320 (D-AIUM)
+Scheduled
+[INFO ] 2023-01-06 23:28:39.988 [main] WebScrape - 10:00 AM FR6235
+Copenhagen (CPH)
+Ryanair B738 (SP-RKS)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.007 [main] WebScrape - 10:30 AM U22111
+London (LTN)
+easyJet A320 (G-EZUP)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.022 [main] WebScrape - 10:50 AM FR2362
+London (STN)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.038 [main] WebScrape - 10:55 AM FR6311
+Oslo (TRF)
+Ryanair B738 (SP-RKD)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.054 [main] WebScrape - 10:55 AM W65062
+Rome (FCO)
+Wizz Air A21N (HA-LVE)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.070 [main] WebScrape - 10:55 AM W65092
+Lyon (LYS)
+Wizz Air A21N (HA-LZI)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.085 [main] WebScrape - 11:05 AM FR6356
+Alicante (ALC)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.101 [main] WebScrape - 11:10 AM
+FZ1787
+Dubai (DXB)
+FlyDubai 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.116 [main] WebScrape - 11:25 AM FR5905
+Turin (TRN)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.133 [main] WebScrape - 11:30 AM
+LO3907
+Warsaw (WAW)
+LOT E190 (SP-LMF)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.149 [main] WebScrape - 12:39 PM
+Rome (CIA)
+Leader F2TH (I-SEAE)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.166 [main] WebScrape - 12:40 PM FR3679
+Birmingham (BHX)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.183 [main] WebScrape - 12:45 PM
+LH1620
+Munich (MUC)
+Lufthansa A20N (D-AINO)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.199 [main] WebScrape - 1:15 PM U23815
+Paris (CDG)
+easyJet A320 (OE-IVD)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.215 [main] WebScrape - 1:25 PM FR6360
+Liverpool (LPL)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.230 [main] WebScrape - 1:40 PM FR6209
+Madrid (MAD)
+Buzz B38M (SP-RZH)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.246 [main] WebScrape - 1:50 PM FR3035
+Barcelona (BCN)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.262 [main] WebScrape - 1:50 PM
+OS597
+Vienna (VIE)
+Austrian Airlines E95
+Scheduled
+[INFO ] 2023-01-06 23:28:40.277 [main] WebScrape - 2:25 PM LO3905
+Warsaw (WAW)
+LOT E95
+Scheduled
+[INFO ] 2023-01-06 23:28:40.293 [main] WebScrape - 2:50 PM W65098
+Tel Aviv (TLV)
+Wizz Air A21N (HA-LVH)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.308 [main] WebScrape - 2:55 PM FR6327
+Amman (AMM)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.328 [main] WebScrape - 3:05 PM FR6229
+Tel Aviv (TLV)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.342 [main] WebScrape - 3:35 PM FR9835
+Bordeaux (BOD)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.359 [main] WebScrape - 3:45 PM FR6293
+London (STN)
+Ryanair 32A
+Scheduled
+[INFO ] 2023-01-06 23:28:40.376 [main] WebScrape - 4:10 PM
+KL1995
+Amsterdam (AMS)
+KLM E190 (PH-EZB)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.392 [main] WebScrape - 4:20 PM
+LO3923
+Warsaw (WAW)
+LOT E90
+Scheduled
+[INFO ] 2023-01-06 23:28:40.409 [main] WebScrape - 4:35 PM
+LH1622
+Munich (MUC)
+Lufthansa CRJ9 (D-ACNA)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.426 [main] WebScrape - 5:05 PM W65068
+Milan (MXP)
+Wizz Air 32Q
+Scheduled
+[INFO ] 2023-01-06 23:28:40.441 [main] WebScrape - 5:20 PM FR9950
+Toulouse (TLS)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.460 [main] WebScrape - 5:30 PM FR5393
+Dublin (DUB)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.481 [main] WebScrape - 5:55 PM
+LH1368
+Frankfurt (FRA)
+Lufthansa CRJ9 (D-ACNK)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.496 [main] WebScrape - 6:00 PM FR6221
+Bristol (BRS)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.511 [main] WebScrape - 6:05 PM BA872
+London (LHR)
+British Airways 320
+Scheduled
+[INFO ] 2023-01-06 23:28:40.527 [main] WebScrape - 6:10 PM W65044
+Stavanger (SVG)
+Wizz Air 32Q
+Scheduled
+[INFO ] 2023-01-06 23:28:40.542 [main] WebScrape - 6:30 PM FR6876
+Milan (BGY)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.558 [main] WebScrape - 6:35 PM FR5891
+Eindhoven (EIN)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.573 [main] WebScrape - 6:40 PM FR1642
+Vienna (VIE)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.589 [main] WebScrape - 6:45 PM FR3986
+Bari (BRI)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.604 [main] WebScrape - 7:25 PM FR6277
+Nuremberg (NUE)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.618 [main] WebScrape - 7:30 PM FR2434
+London (STN)
+Ryanair 320
+Scheduled
+[INFO ] 2023-01-06 23:28:40.633 [main] WebScrape - 8:25 PM FR7968
+Pisa (PSA)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.651 [main] WebScrape - 8:40 PM FR6211
+Paris (BVA)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.666 [main] WebScrape - 8:50 PM FR2332
+Leeds (LBA)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.681 [main] WebScrape - 8:50 PM FR2712
+London (STN)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.697 [main] WebScrape - 9:25 PM FR6249
+Manchester (MAN)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.711 [main] WebScrape - 10:05 PM FR2023
+Dublin (DUB)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.728 [main] WebScrape - 10:05 PM
+LH1624
+Munich (MUC)
+Lufthansa 32N
+Scheduled
+[INFO ] 2023-01-06 23:28:40.744 [main] WebScrape - 10:10 PM FR4934
+Brussels (CRL)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.759 [main] WebScrape - 10:40 PM FR6243
+Naples (NAP)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.775 [main] WebScrape - 10:50 PM
+KL1999
+Amsterdam (AMS)
+KLM E190 (PH-EZG)
+Scheduled
+[INFO ] 2023-01-06 23:28:40.790 [main] WebScrape - 11:15 PM W65082
+Kutaisi (KUT)
+Wizz Air 32Q
+Scheduled
+[INFO ] 2023-01-06 23:28:40.809 [main] WebScrape - 11:20 PM
+LH1370
+Frankfurt (FRA)
+Lufthansa 32N
+Scheduled
+[INFO ] 2023-01-06 23:28:40.826 [main] WebScrape - 11:25 PM FR1813
+London (LTN)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.841 [main] WebScrape - 11:25 PM FR6217
+Oslo (TRF)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.857 [main] WebScrape - 11:25 PM W65004
+London (LTN)
+Wizz Air 32Q
+Scheduled
+[INFO ] 2023-01-06 23:28:40.872 [main] WebScrape - 11:35 PM FR6245
+Lille (LIL)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.887 [main] WebScrape - 11:35 PM FR6257
+Stockholm (ARN)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.904 [main] WebScrape - 11:35 PM
+LO3911
+Warsaw (WAW)
+LOT E95
+Scheduled
+[INFO ] 2023-01-06 23:28:40.920 [main] WebScrape - 11:50 PM FR6231
+Szczecin (SZZ)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:40.923 [main] WebScrape - Sunday, Jan 08
+[INFO ] 2023-01-06 23:28:40.939 [main] WebScrape - 12:10 AM W65034
+Oslo (OSL)
+Wizz Air 32Q
+Scheduled
+[INFO ] 2023-01-06 23:28:40.958 [main] WebScrape - 12:15 AM W65094
+Abu Dhabi (AUH)
+Wizz Air 32Q
+Scheduled
+[INFO ] 2023-01-06 23:28:40.972 [main] WebScrape - 8:10 AM FR4425
+Cagliari (CAG)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:40.987 [main] WebScrape - 8:10 AM LO3903
+Warsaw (WAW)
+LOT E75
+Scheduled
+[INFO ] 2023-01-06 23:28:41.004 [main] WebScrape - 8:45 AM
+LX1370
+Zurich (ZRH)
+Swiss BCS1 (HB-JBC)
+Scheduled
+[INFO ] 2023-01-06 23:28:41.020 [main] WebScrape - 9:20 AM DY1038
+Trondheim (TRD)
+Norwegian Air Shuttle AOC 738
+Scheduled
+[INFO ] 2023-01-06 23:28:41.035 [main] WebScrape - 9:25 AM D83562
+Copenhagen (CPH)
+Norwegian Air Sweden AOC 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:41.050 [main] WebScrape - 9:30 AM FR2362
+London (STN)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:41.066 [main] WebScrape - 9:40 AM DY1028
+Bergen (BGO)
+Norwegian Air Shuttle AOC 738
+Scheduled
+[INFO ] 2023-01-06 23:28:41.081 [main] WebScrape - 9:45 AM DY1036
+Stavanger (SVG)
+Norwegian Air Shuttle AOC 738
+Scheduled
+[INFO ] 2023-01-06 23:28:41.098 [main] WebScrape - 9:45 AM
+LH1364
+Frankfurt (FRA)
+Lufthansa 32A
+Scheduled
+[INFO ] 2023-01-06 23:28:41.117 [main] WebScrape - 10:02 AM
+Trebbin (QCZ)
+- PC12 (D-FKJM)
+Scheduled
+[INFO ] 2023-01-06 23:28:41.133 [main] WebScrape - 10:20 AM D84901
+Stockholm (ARN)
+Norwegian Air Sweden AOC 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:41.148 [main] WebScrape - 10:30 AM FR1312
+Seville (SVQ)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:41.164 [main] WebScrape - 10:30 AM FR6249
+Manchester (MAN)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:41.179 [main] WebScrape - 10:55 AM FR6257
+Stockholm (ARN)
+Ryanair 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:41.194 [main] WebScrape - 11:05 AM DY1040
+Oslo (OSL)
+Norwegian Air Shuttle AOC 738
+Scheduled
+[INFO ] 2023-01-06 23:28:41.210 [main] WebScrape - 11:05 AM FR6331
+Thessaloniki (SKG)
+Ryanair 73H
+Scheduled
+[INFO ] 2023-01-06 23:28:41.226 [main] WebScrape - 11:10 AM
+FZ1787
+Dubai (DXB)
+FlyDubai 7M8
+Scheduled
+[INFO ] 2023-01-06 23:28:41.242 [main] WebScrape - 11:25 AM
+OS597
+Vienna (VIE)
+Austrian Airlines E95
+Scheduled
+[INFO ] 2023-01-06 23:28:41.244 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:41.248 [main] WebScrape - * All times are in local timezone
