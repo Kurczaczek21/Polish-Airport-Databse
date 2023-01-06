@@ -6,9 +6,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.io.IOException;
-import java.sql.Driver;
 import java.time.Duration;
 import java.util.List;
 import java.util.function.Function;
@@ -20,7 +17,7 @@ public class Parsing {
 
         ChromeOptions options = new ChromeOptions();
         options.setHeadless(true);
-        WebDriver driver = new ChromeDriver();
+        WebDriver driver = new ChromeDriver(options);
         driver.get(url);
         Thread.sleep(4000);
 
@@ -35,8 +32,9 @@ public class Parsing {
             }
         });
 
-
-
+        WebElement Acceptbutton = driver.findElement(By.xpath("//button[text()='Akceptuję']"));
+        Acceptbutton.click();
+        Thread.sleep(4000);
 
         // HEADERS
         List<WebElement> allHeaders = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//th"));
@@ -46,23 +44,12 @@ public class Parsing {
             System.out.println(ele.getText());
         }
 
-        // ROWS
-//        List<WebElement> allRows = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[3]//div[contains(@ng-show,'(objFlight.flight.airport.origin)')]//span"));
-        List<WebElement> allRows = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[3]//div[contains(@ng-show,'(objFlight.flight.airport.origin)')]//span"));
-        System.out.println(allRows.size());
-        for(WebElement ele:allRows)
-        {
-            System.out.println(ele.getText());
-        }
-
-        WebElement Acceptbutton = driver.findElement(By.xpath("//button[text()='Akceptuję']"));
-        Acceptbutton.click();
-
-        Thread.sleep(4000);
-
         WebElement button = driver.findElement(By.xpath("//button[text()='Load earlier flights']"));
         button.click();
 
+        Thread.sleep(4000);
+
+        button.click();
         Thread.sleep(4000);
 
         List<WebElement> allCows = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[3]//div[contains(@ng-show,'(objFlight.flight.airport.origin)')]//span"));
@@ -71,7 +58,15 @@ public class Parsing {
         {
             System.out.println(ele.getText());
         }
-//        driver.quit();
+
+        List<WebElement> allCows = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr//td[3]//div[contains(@ng-show,'(objFlight.flight.airport.origin)')]//span"));
+        System.out.println(allCows.size());
+        for(WebElement ele:allCows)
+        {
+            System.out.println(ele.getText());
+        }
+
+        driver.quit();
 
 
     }
