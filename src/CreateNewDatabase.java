@@ -1,4 +1,5 @@
 import java.io.FileOutputStream;
+import java.nio.file.FileAlreadyExistsException;
 import java.util.List;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -7,14 +8,14 @@ import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-public class CreateInvoice {
+public class CreateNewDatabase {
 
     private static Logger logger= LogManager.getLogger(WebScrape.class);
 
     public static void main(String[] args) throws Exception {
 
         XSSFWorkbook workbook = new XSSFWorkbook();
-        XSSFSheet sheet = workbook.createSheet("Java Books");
+        XSSFSheet sheet = workbook.createSheet("Main Data");
 
         String columns[] = {"NUMBER", "DATE", "TIME", "FLIGHT", "FROM", "SHORT", "AIRLINE", "MODEL", "AIRCFAT ID", "STATUS"};
         XSSFRow row = sheet.createRow(0);
@@ -98,6 +99,8 @@ public class CreateInvoice {
             try (FileOutputStream outputStream = new FileOutputStream("Flights_data.xlsx")) {
                 workbook.write(outputStream);
                 logger.info("Excel file created success");
+            }catch (FileAlreadyExistsException e){
+                logger.error("File alredy exists");
             }
     }
 }
