@@ -32,7 +32,6 @@ public class WebScrape {
         List<String> output = new ArrayList<>();
 
         FirefoxOptions options = new FirefoxOptions();
-        options.addPreference("general.useragent.override","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.170").addArguments("--headless");
         WebDriver driver = new FirefoxDriver( new FirefoxOptions().addPreference("general.useragent.override","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.170").addArguments("--headless"));
         driver.get(url);
         Thread.sleep(4000);
@@ -57,15 +56,12 @@ public class WebScrape {
         }
         Thread.sleep(4000);
         Thread.sleep(4000);
-        Thread.sleep(4000);
-        Thread.sleep(4000);
 
         WebElement button = driver.findElement(By.xpath("//button[text()='Load earlier flights']"));
         button.click();
 
         Thread.sleep(4000);
         button.click();
-        Thread.sleep(4000);
         Thread.sleep(4000);
 
         List<WebElement> allHeaders = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr"));
