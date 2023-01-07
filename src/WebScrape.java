@@ -17,6 +17,7 @@ import java.lang.reflect.Array;
 import java.time.Duration;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Objects;
 import java.util.function.Function;
 
 public class WebScrape {
@@ -27,7 +28,7 @@ public class WebScrape {
 
         FirefoxOptions options = new FirefoxOptions();
         options.addPreference("general.useragent.override","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.170").addArguments("--headless");
-        WebDriver driver = new FirefoxDriver( new FirefoxOptions().addPreference("general.useragent.override","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.170"));
+        WebDriver driver = new FirefoxDriver( new FirefoxOptions().addPreference("general.useragent.override","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.170").addArguments("--headless"));
         driver.get(url);
         Thread.sleep(4000);
 
@@ -62,23 +63,39 @@ public class WebScrape {
         Thread.sleep(4000);
         Thread.sleep(4000);
 
-        JFrame f=new JFrame();
+        // JTABLE
+
         String columns[]={"DATE","TIME","AM/PM", "FLIGHT", "FROM","SHORT", "AIRLINE", "MODEL","AIRCFAT ID", "STATUS"};
+        JTable table = new JTable();
         DefaultTableModel model = new DefaultTableModel();
-        JTable jt = new JTable(model);
         for (String s:columns
              ) {
+            System.out.println(s);
             model.addColumn(s);
         }
+        JFrame frame = new JFrame("Window");
+        frame.getContentPane().setBounds(400,400,400,400);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        frame.getContentPane().setLayout(null);
+        frame.setLocationRelativeTo(null);
+        model.setColumnIdentifiers(columns);
+        table.setModel(model);
+        table.setRowHeight(30);
 
+        JScrollPane pane = new JScrollPane(table);
+        pane.setBounds(100,100,100,100);
+        frame.getContentPane().add(pane);
 
+        Object[] row  = new Object[4];
+
+        frame.setVisible(true);
 
         List<WebElement> allHeaders = driver.findElements(By.xpath("//table[contains(@class,'table table-condensed table-hover data-table m-n-t-15')]//tr"));
         System.out.println(allHeaders.size());
         for(WebElement ele:allHeaders)
         {
             String date;
-            if(ele.getText()=="") {
+            if(ele.getText()=="" || ele.getText().contains("TIME") || ele.getText().contains("Scheduled")) {
                 continue;
             }
             if(ele.getText().contains(",")){
@@ -90,13 +107,12 @@ public class WebScrape {
             String flightData[] = lines[0].split(" ");  // 0-> H , 1-> AM/PM , 2-> flight number
             String airportData[] = lines[1].split(" "); // 0 -> airport, 1-> shortname
             String planeData[] = lines[2].split(" "); // 0-> airlines, 1-> model, 2-> tag
-//            model.addRow(flightData);
-//            model.addRow(airportData);
-//            model.addRow(planeData);
+            model.addRow(flightData);
+            model.addRow(airportData);
+            model.addRow(planeData);
         }
 
-
-//        driver.quit();
+        driver.quit();
 
 
     }
