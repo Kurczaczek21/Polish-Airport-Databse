@@ -10,14 +10,14 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class CreateNewDatabase {
 
-    private static Logger logger= LogManager.getLogger(WebScrape.class);
+    private static final Logger logger= LogManager.getLogger(WebScrape.class);
 
     public static void main(String[] args) throws Exception {
 
         XSSFWorkbook workbook = new XSSFWorkbook();
         XSSFSheet sheet = workbook.createSheet("Main Data");
 
-        String columns[] = {"NUMBER", "DATE", "TIME", "FLIGHT", "FROM", "SHORT", "AIRLINE", "MODEL", "AIRCFAT ID", "STATUS"};
+        String[] columns = {"NUMBER", "DATE", "TIME", "FLIGHT", "FROM", "SHORT", "AIRLINE", "MODEL", "AIRCFAT ID", "STATUS"};
         XSSFRow row = sheet.createRow(0);
 
         for (int i = 0; i < columns.length; i++) {
@@ -32,15 +32,14 @@ public class CreateNewDatabase {
         int index = 0;
 
         for (String ele : mainData) {
-            String line = ele;
-            if (line.contains(",")) {
-                date = line;
+            if (ele.contains(",")) {
+                date = ele;
                 continue;
             }
-            String lines[] = line.split("\\r?\\n"); // Arrays.toString(lines)
-            String flightData[];
-            String airportData[];
-            String planeData[];
+            String[] lines = ele.split("\\r?\\n"); // Arrays.toString(lines)
+            String[] flightData;
+            String[] airportData;
+            String[] planeData;
             if (lines.length == 4) {
                 flightData = lines[0].split(" ");  // 0-> H , +" "+ 1-> AM/PM , 2-> flight number
                 airportData = lines[1].split(" "); // 0 -> airport, 1-> shortname
