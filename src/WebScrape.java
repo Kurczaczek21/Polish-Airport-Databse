@@ -101,9 +101,10 @@ public class WebScrape {
             if(ele.getText().contains(",")){
                 date=ele.getText();
                 continue;
-            }
+            }                                                       //Arrays.toString(array)
             String line = ele.getText();
             String lines[] = line.split("\\r?\\n");
+            logger.info(Arrays.toString(lines));
             String flightData[] = lines[0].split(" ");  // 0-> H , 1-> AM/PM , 2-> flight number
             String airportData[] = lines[1].split(" "); // 0 -> airport, 1-> shortname
             String planeData[] = lines[2].split(" "); // 0-> airlines, 1-> model, 2-> tag
