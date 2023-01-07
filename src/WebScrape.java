@@ -75,7 +75,6 @@ public class WebScrape {
             }
             output.add(ele.getText());
         }
-        System.out.println(allHeaders.size());
 
         driver.quit();
         return output;
