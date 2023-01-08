@@ -219,667 +219,7 @@ Rome(CIA)
 B738
 0112
 -
-[INFO ] 2023-01-06 23:03:18.514 [main] WebScrape - Landed 5:18 PM
-4:45 PM
-FR6364
-Shannon(SNN)
-B738
-SP-RKO
-Ryanair
-[INFO ] 2023-01-06 23:03:18.529 [main] WebScrape - Landed 4:50 PM
-5:00 PM
-LH1622
-Munich(MUC)
-A320
-D-AIZC
-Lufthansa
-[INFO ] 2023-01-06 23:03:18.544 [main] WebScrape - Landed 4:41 PM
-5:05 PM
-W65068
-Milan(MXP)
-A21N
-HA-LZI
-Wizz Air
-[INFO ] 2023-01-06 23:03:18.560 [main] WebScrape - Landed 5:22 PM
-5:30 PM
-FR6209
-Madrid(MAD)
-B738
-EI-DHY
-Ryanair
-[INFO ] 2023-01-06 23:03:18.576 [main] WebScrape - Landed 5:45 PM
-5:42 PM
-Warsaw(WAW)
-C295
-023
--
-[INFO ] 2023-01-06 23:03:18.591 [main] WebScrape - Landed 5:49 PM
-5:55 PM
-LH1368
-Frankfurt(FRA)
-A319
-D-AGWJ
-Eurowings
-[INFO ] 2023-01-06 23:03:18.606 [main] WebScrape - Landed 6:42 PM
-6:10 PM
-W65010
-London(LGW)
-A21N
-HA-LVH
-Wizz Air
-[INFO ] 2023-01-06 23:03:18.622 [main] WebScrape - Landed 5:41 PM
-6:10 PM
-W65044
-Stavanger(SVG)
-A321
-HA-LXO
-Wizz Air
-[INFO ] 2023-01-06 23:03:18.637 [main] WebScrape - Landed 6:23 PM
-6:25 PM
-FR7661
-Newcastle(NCL)
-B38M
-SP-RZH
-Buzz
-[INFO ] 2023-01-06 23:03:18.667 [main] WebScrape - Landed 6:31 PM
-6:35 PM
-FR2712
-London(STN)
-B38M
-SP-RZB
-Buzz
-[INFO ] 2023-01-06 23:03:18.684 [main] WebScrape - Landed 7:16 PM
-7:35 PM
-DY1028
-Bergen(BGO)
-B738
-LN-ENV
-Norwegian
-[INFO ] 2023-01-06 23:03:18.699 [main] WebScrape - Landed 7:41 PM
-7:40 PM
-FR5891
-Eindhoven(EIN)
-B738
-SP-RKT
-Ryanair
-[INFO ] 2023-01-06 23:03:18.715 [main] WebScrape - Landed 7:55 PM
-8:15 PM
-FR3679
-Birmingham(BHX)
-B738
-EI-ENC
-Ryanair
-[INFO ] 2023-01-06 23:03:18.731 [main] WebScrape - Landed 7:50 PM
-8:20 PM
-FR2023
-Dublin(DUB)
-B38M
-EI-HGR
-Ryanair
-[INFO ] 2023-01-06 23:03:18.746 [main] WebScrape - Landed 8:52 PM
-8:30 PM
-FR8507
-Oslo(TRF)
-B38M
-SP-RZD
-Buzz
-[INFO ] 2023-01-06 23:03:18.761 [main] WebScrape - Landed 8:12 PM
-8:35 PM
-FR2332
-Leeds(LBA)
-B738
-EI-EXE
-Ryanair
-[INFO ] 2023-01-06 23:03:18.776 [main] WebScrape - Landed 8:18 PM
-8:45 PM
-U21871
-Manchester(MAN)
-A320
-G-EZWL
-easyJet
-[INFO ] 2023-01-06 23:03:18.792 [main] WebScrape - Landed 8:22 PM
-8:50 PM
-FR3721
-Billund(BLL)
-B738
-9H-QBX
-Ryanair
-[INFO ] 2023-01-06 23:03:18.809 [main] WebScrape - Landed 8:45 PM
-8:50 PM
-LO3921
-Warsaw(WAW)
-E190
-SP-LMD
-LOT
-[INFO ] 2023-01-06 23:03:18.825 [main] WebScrape - Landed 8:43 PM
-9:00 PM
-D83564
-Copenhagen(CPH)
-B38M
-SE-RTC
-Norwegian (Felix Rodríguez de la Fuente Livery)
-[INFO ] 2023-01-06 23:03:18.841 [main] WebScrape - Landed 9:05 PM
-9:00 PM
-DY1042
-Oslo(OSL)
-B738
-LN-ENN
-Norwegian
-[INFO ] 2023-01-06 23:03:18.857 [main] WebScrape - Landed 8:57 PM
-9:10 PM
-FR6360
-Liverpool(LPL)
-B738
-EI-EME
-Ryanair
-[INFO ] 2023-01-06 23:03:18.872 [main] WebScrape - Landed 10:45 PM
-9:45 PM
-FR3613
-Milan(BGY)
-B38M
-9H-VUN
-Ryanair
-[INFO ] 2023-01-06 23:03:18.888 [main] WebScrape - Landed 9:55 PM
-9:50 PM
-FR6221
-Bristol(BRS)
-B38M
-SP-RZA
-Buzz
-[INFO ] 2023-01-06 23:03:18.903 [main] WebScrape - Landed 9:59 PM
-10:05 PM
-LH1624
-Munich(MUC)
-A320
-D-AIZG
-Lufthansa
-[INFO ] 2023-01-06 23:03:18.919 [main] WebScrape - Landed 10:25 PM
-10:10 PM
-FR2362
-London(STN)
-B38M
-SP-RZF
-Buzz
-[INFO ] 2023-01-06 23:03:18.936 [main] WebScrape - Landed 10:33 PM
-10:50 PM
-KL1999
-Amsterdam(AMS)
-E190
-PH-EXD
-KLM
-[INFO ] 2023-01-06 23:03:18.951 [main] WebScrape - Landed 10:54 PM
-10:55 PM
-FR6159
-Gothenburg(GOT)
-B38M
-SP-RZH
-Buzz
-[INFO ] 2023-01-06 23:03:18.966 [main] WebScrape - Landed 11:10 PM
-11:05 PM
-LO160
-Tel Aviv(TLV)
-B38M
-SP-LVF
-LOT
-[INFO ] 2023-01-06 23:03:18.982 [main] WebScrape - Landed 11:48 PM
-11:20 PM
-FR6265
-Poznan(POZ)
-B38M
-SP-RZD
-Buzz
-[INFO ] 2023-01-06 23:03:18.997 [main] WebScrape - Landed 11:22 PM
-11:20 PM
-LH1370
-Frankfurt(FRA)
-A321
-D-AIDJ
-Lufthansa
-[INFO ] 2023-01-06 23:03:19.026 [main] WebScrape - Landed 11:05 PM
-11:20 PM
-OS599
-Vienna(VIE)
-E195
-OE-LWC
-Austrian Airlines
-[INFO ] 2023-01-06 23:03:19.043 [main] WebScrape - Landed 11:31 PM
-11:25 PM
-FR6331
-Thessaloniki(SKG)
-B38M
-SP-RZB
-Buzz
-[INFO ] 2023-01-06 23:03:19.058 [main] WebScrape - Landed 10:57 PM
-11:25 PM
-W65004
-London(LTN)
-A21N
-HA-LZI
-Wizz Air
-[INFO ] 2023-01-06 23:03:19.074 [main] WebScrape - Landed 11:38 PM
-11:30 PM
-FR5623
-Edinburgh(EDI)
-B738
-SP-RKU
-Ryanair
-[INFO ] 2023-01-06 23:03:19.090 [main] WebScrape - Landed 11:18 PM
-11:35 PM
-LO3911
-Warsaw(WAW)
-E190
-SP-LMG
-LOT
-[INFO ] 2023-01-06 23:03:19.107 [main] WebScrape - Landed 11:52 PM
-11:38 PM
-Warsaw(WAW)
-C295
-025
--
-[INFO ] 2023-01-06 23:03:19.122 [main] WebScrape - Landed 12:48 AM
-11:50 PM
-W65054
-Reykjavik(KEF)
-A21N
-HA-LZE
-Wizz Air
-[INFO ] 2023-01-06 23:03:19.139 [main] WebScrape - Landed 12:20 AM
-11:50 PM
-W65062
-Rome(FCO)
-A21N
-HA-LVH
-Wizz Air
-[INFO ] 2023-01-06 23:03:19.155 [main] WebScrape - Landed 12:23 AM
-11:55 PM
-FR6235
-Copenhagen(CPH)
-B738
-SP-RKT
-Ryanair
-[INFO ] 2023-01-06 23:03:19.172 [main] WebScrape - Landed 12:17 AM
-12:10 AM
-W65034
-Oslo(OSL)
-A321
-HA-LXO
-Wizz Air
-[INFO ] 2023-01-06 23:03:19.187 [main] WebScrape - Landed 7:48 AM
-8:10 AM
-LO3903
-Warsaw(WAW)
-E75S
-SP-LIK
-LOT
-[INFO ] 2023-01-06 23:03:19.203 [main] WebScrape - Landed 7:51 AM
-8:15 AM
-LG5741
-Luxembourg(LUX)
-DH8D
-LX-LQC
-Luxair
-[INFO ] 2023-01-06 23:03:19.218 [main] WebScrape - Landed 8:35 AM
-8:45 AM
-LX1370
-Zurich(ZRH)
-BCS3
-YL-ABL
-Air Baltic
-[INFO ] 2023-01-06 23:03:19.233 [main] WebScrape - Landed 8:54 AM
-9:10 AM
-FR2228
-Valencia(VLC)
-B738
-EI-DCW
-Ryanair
-[INFO ] 2023-01-06 23:03:19.248 [main] WebScrape - Landed 9:23 AM
-9:30 AM
-FR3053
-Barcelona(BCN)
-B738
-EI-DHD
-Ryanair
-[INFO ] 2023-01-06 23:03:19.263 [main] WebScrape - Landed 9:11 AM
-9:35 AM
-FR6293
-London(STN)
-B38M
-EI-IFT
-Ryanair
-[INFO ] 2023-01-06 23:03:19.278 [main] WebScrape - Landed 9:48 AM
-9:45 AM
-A3868
-Athens(ATH)
-A320
-SX-DVT
-Aegean Airlines
-[INFO ] 2023-01-06 23:03:19.296 [main] WebScrape - Landed 9:55 AM
-9:55 AM
-LH1364
-Frankfurt(FRA)
-A319
-D-AIBA
-Lufthansa
-[INFO ] 2023-01-06 23:03:19.311 [main] WebScrape - Landed 9:44 AM
-10:00 AM
-U26939
-Edinburgh(EDI)
-A20N
-G-UZHO
-easyJet (Europcar Livery)
-[INFO ] 2023-01-06 23:03:19.328 [main] WebScrape - Landed 9:51 AM
-10:10 AM
-FR5118
-Dublin(DUB)
-B38M
-EI-HGR
-Ryanair
-[INFO ] 2023-01-06 23:03:19.343 [main] WebScrape - Landed 10:32 AM
-10:15 AM
-FR3986
-Bari(BRI)
-B738
-SP-RSO
-Ryanair
-[INFO ] 2023-01-06 23:03:19.360 [main] WebScrape - Landed 10:09 AM
-10:35 AM
-U26275
-Bristol(BRS)
-A320
-G-EZWU
-easyJet
-[INFO ] 2023-01-06 23:03:19.387 [main] WebScrape - Landed 10:39 AM
-10:40 AM
-FR6225
-Podgorica(TGD)
-B38M
-SP-RZH
-Buzz
-[INFO ] 2023-01-06 23:03:19.408 [main] WebScrape - Landed 10:14 AM
-10:40 AM
-LS353
-Newcastle(NCL)
-B738
-G-DRTR
-Jet2
-[INFO ] 2023-01-06 23:03:19.424 [main] WebScrape - Landed 10:19 AM
-10:40 AM
-U22111
-London(LTN)
-A319
-G-EZFV
-easyJet
-[INFO ] 2023-01-06 23:03:19.439 [main] WebScrape - Landed 10:24 AM
-10:41 AM
-Vienna(VIE)
-PC12
-D-FKJM
--
-[INFO ] 2023-01-06 23:03:19.455 [main] WebScrape - Landed 10:28 AM
-10:55 AM
-AY1163
-Helsinki(HEL)
-A319
-OH-LVH
-Finnair
-[INFO ] 2023-01-06 23:03:19.470 [main] WebScrape - Landed 10:43 AM
-10:55 AM
-D84901
-Stockholm(ARN)
-B738
-SE-RPF
-Norwegian
-[INFO ] 2023-01-06 23:03:19.487 [main] WebScrape - Landed 10:50 AM
-11:00 AM
-FR6211
-Paris(BVA)
-B38M
-SP-RZA
-Buzz
-[INFO ] 2023-01-06 23:03:19.503 [main] WebScrape - Landed 11:11 AM
-11:10 AM
-FZ1787
-Dubai(DXB)
-B38M
-A6-FMN
-flydubai
-[INFO ] 2023-01-06 23:03:19.518 [main] WebScrape - Landed 10:56 AM
-11:15 AM
-LS949
-Manchester(MAN)
-B738
-G-GDFF
-Jet2
-[INFO ] 2023-01-06 23:03:19.536 [main] WebScrape - Landed 11:51 AM
-11:30 AM
-FR4934
-Brussels(CRL)
-B38M
-SP-RZL
-Ryanair
-[INFO ] 2023-01-06 23:03:19.552 [main] WebScrape - Landed 11:15 AM
-11:30 AM
-LO3907
-Warsaw(WAW)
-E190
-SP-LMB
-LOT
-[INFO ] 2023-01-06 23:03:19.567 [main] WebScrape - Landed 11:46 AM
-11:30 AM
-W65034
-Oslo(OSL)
-A21N
-HA-LVH
-Wizz Air
-[INFO ] 2023-01-06 23:03:19.583 [main] WebScrape - Landed 11:28 AM
-11:45 AM
-W65014
-Leeds(LBA)
-A21N
-HA-LZI
-Wizz Air
-[INFO ] 2023-01-06 23:03:19.598 [main] WebScrape - Landed 11:25 AM
-11:55 AM
-W65076
-Eindhoven(EIN)
-A21N
-HA-LZE
-Wizz Air
-[INFO ] 2023-01-06 23:03:19.614 [main] WebScrape - Landed 11:55 AM
-12:05 PM
-LH1366
-Frankfurt(FRA)
-A319
-D-AIBE
-Lufthansa
-[INFO ] 2023-01-06 23:03:19.630 [main] WebScrape - Landed 12:10 PM
-12:05 PM
-DY1040
-Oslo(OSL)
-B738
-LN-ENU
-Norwegian
-[INFO ] 2023-01-06 23:03:19.646 [main] WebScrape - Landed 12:02 PM
-12:10 PM
-FR6233
-Palermo(PMO)
-B38M
-SP-RZD
-Buzz
-[INFO ] 2023-01-06 23:03:19.664 [main] WebScrape - Landed 12:13 PM
-12:10 PM
-FR6249
-Manchester(MAN)
-B738
-SP-RKD
-Ryanair
-[INFO ] 2023-01-06 23:03:19.680 [main] WebScrape - Landed 12:30 PM
-12:35 PM
-FR1813
-London(LTN)
-B38M
-SP-RZF
-Buzz
-[INFO ] 2023-01-06 23:03:19.697 [main] WebScrape - Landed 12:42 PM
-12:35 PM
-FR4204
-Glasgow(GLA)
-B38M
-SP-RZB
-Buzz
-[INFO ] 2023-01-06 23:03:19.713 [main] WebScrape - Landed 12:37 PM
-12:45 PM
-LH1620
-Munich(MUC)
-A320
-D-AIZE
-Lufthansa
-[INFO ] 2023-01-06 23:03:19.729 [main] WebScrape - Landed 12:39 PM
-12:50 PM
-FR7954
-Prague(PRG)
-B738
-SP-RSF
-Ryanair
-[INFO ] 2023-01-06 23:03:19.744 [main] WebScrape - Landed 12:45 PM
-1:10 PM
-W65048
-Barcelona(BCN)
-A321
-HA-LXO
-Wizz Air
-[INFO ] 2023-01-06 23:03:19.761 [main] WebScrape - Landed 1:26 PM
-1:50 PM
-OS597
-Vienna(VIE)
-E195
-OE-LWJ
-Austrian Airlines
-[INFO ] 2023-01-06 23:03:19.777 [main] WebScrape - Landed 1:41 PM
-1:55 PM
-FR9279
-Agadir(AGA)
-B738
-EI-EMD
-Ryanair
-[INFO ] 2023-01-06 23:03:19.796 [main] WebScrape - Landed 2:03 PM
-2:20 PM
-LO3905
-Warsaw(WAW)
-E190
-SP-LMG
-LOT
-[INFO ] 2023-01-06 23:03:19.811 [main] WebScrape - Landed 2:24 PM
-2:50 PM
-EW9732
-Dusseldorf(DUS)
-A320
-D-AEWK
-Eurowings
-[INFO ] 2023-01-06 23:03:19.827 [main] WebScrape - Landed 3:13 PM
-2:56 PM
-Milan(BGY)
-B738
-SP-RKG
-Ryanair
-[INFO ] 2023-01-06 23:03:19.845 [main] WebScrape - Landed 3:24 PM
-3:25 PM
-FR6876
-Milan(BGY)
-B38M
-SP-RZA
-Buzz
-[INFO ] 2023-01-06 23:03:19.861 [main] WebScrape - Landed 3:50 PM
-3:50 PM
-FR2332
-Leeds(LBA)
-B738
-SP-RKO
-Ryanair
-[INFO ] 2023-01-06 23:03:19.876 [main] WebScrape - Landed 3:34 PM
-3:55 PM
-FR6319
-Marseille(MRS)
-B38M
-9H-VUW
-Ryanair
-[INFO ] 2023-01-06 23:03:19.893 [main] WebScrape - Landed 3:55 PM
-4:05 PM
-LO3919
-Warsaw(WAW)
-E75S
-SP-LIA
-LOT
-[INFO ] 2023-01-06 23:03:19.909 [main] WebScrape - Landed 3:59 PM
-4:10 PM
-KL1995
-Amsterdam(AMS)
-E190
-PH-EXA
-KLM
-[INFO ] 2023-01-06 23:03:19.926 [main] WebScrape - Landed 6:15 PM
-4:35 PM
-FR7150
-Gdansk(GDN)
-B738
-SP-RKM
-Ryanair
-[INFO ] 2023-01-06 23:03:19.942 [main] WebScrape - Landed 4:36 PM
-4:50 PM
-FR4626
-Stockholm(ARN)
-B738
-9H-QCC
-Ryanair
-[INFO ] 2023-01-06 23:03:19.960 [main] WebScrape - Landed 4:34 PM
-5:00 PM
-DY1028
-Bergen(BGO)
-B738
-LN-ENL
-Norwegian
-[INFO ] 2023-01-06 23:03:19.977 [main] WebScrape - Landed 4:47 PM
-5:05 PM
-FR6251
-Riga(RIX)
-B738
-SP-RKD
-Ryanair
-[INFO ] 2023-01-06 23:03:19.993 [main] WebScrape - Landed 5:33 PM
-5:05 PM
-W65078
-Stockholm(NYO)
-A21N
-HA-LZE
-Wizz Air
-[INFO ] 2023-01-06 23:03:20.010 [main] WebScrape - Landed 5:30 PM
-5:10 PM
-FR2712
-London(STN)
-B38M
-SP-RZL
-Ryanair
-[INFO ] 2023-01-06 23:03:20.027 [main] WebScrape - Landed 4:50 PM
-5:10 PM
-FR6223
-Bournemouth(BOH)
-B738
-EI-ENI
-Ryanair
-[INFO ] 2023-01-06 23:03:20.043 [main] WebScrape - Landed 4:55 PM
-5:20 PM
-FR3721
-Billund(BLL)
-B738
-9H-QCY
-Ryanair
-[INFO ] 2023-01-06 23:03:20.061 [main] WebScrape - Landed 5:23 PM
-5:25 PM
-W65072
-Nice(NCE)
-A21N
-HA-LZI
-Wizz Air
+
 [INFO ] 2023-01-06 23:03:20.078 [main] WebScrape - Landed 5:19 PM
 5:30 PM
 LO3923
@@ -1184,713 +524,7 @@ FR5623
 Edinburgh(EDI)
 7M8
 Ryanair
-[INFO ] 2023-01-06 23:03:20.796 [main] WebScrape - Scheduled
-9:45 AM
-LH1364
-Frankfurt(FRA)
-A320
-D-AIUM
-Lufthansa
-[INFO ] 2023-01-06 23:03:20.812 [main] WebScrape - Scheduled
-10:00 AM
-FR6235
-Copenhagen(CPH)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:20.828 [main] WebScrape - Scheduled
-10:30 AM
-U22111
-London(LTN)
-A320
-G-EZUP
-easyJet
-[INFO ] 2023-01-06 23:03:20.848 [main] WebScrape - Scheduled
-10:50 AM
-FR2362
-London(STN)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:20.863 [main] WebScrape - Scheduled
-10:55 AM
-FR6311
-Oslo(TRF)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:20.880 [main] WebScrape - Scheduled
-10:55 AM
-W65062
-Rome(FCO)
-A21N
-HA-LVE
-Wizz Air
-[INFO ] 2023-01-06 23:03:20.896 [main] WebScrape - Scheduled
-10:55 AM
-W65092
-Lyon(LYS)
-A21N
-HA-LZI
-Wizz Air
-[INFO ] 2023-01-06 23:03:20.912 [main] WebScrape - Scheduled
-11:05 AM
-FR6356
-Alicante(ALC)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:20.928 [main] WebScrape - Scheduled
-11:10 AM
-FZ1787
-Dubai(DXB)
-7M8
-FlyDubai
-[INFO ] 2023-01-06 23:03:20.945 [main] WebScrape - Scheduled
-11:25 AM
-FR5905
-Turin(TRN)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:20.961 [main] WebScrape - Scheduled
-11:30 AM
-LO3907
-Warsaw(WAW)
-E190
-SP-LMF
-LOT
-[INFO ] 2023-01-06 23:03:20.979 [main] WebScrape - Scheduled
-12:39 PM
-Rome(CIA)
-F2TH
-I-SEAE
-Leader
-[INFO ] 2023-01-06 23:03:20.995 [main] WebScrape - Scheduled
-12:40 PM
-FR3679
-Birmingham(BHX)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.012 [main] WebScrape - Scheduled
-12:45 PM
-LH1620
-Munich(MUC)
-A20N
-D-AINO
-Lufthansa
-[INFO ] 2023-01-06 23:03:21.028 [main] WebScrape - Scheduled
-1:15 PM
-U23815
-Paris(CDG)
-320
-easyJet
-[INFO ] 2023-01-06 23:03:21.044 [main] WebScrape - Scheduled
-1:25 PM
-FR6360
-Liverpool(LPL)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.061 [main] WebScrape - Scheduled
-1:40 PM
-FR6209
-Madrid(MAD)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.078 [main] WebScrape - Scheduled
-1:50 PM
-FR3035
-Barcelona(BCN)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.095 [main] WebScrape - Scheduled
-1:50 PM
-OS597
-Vienna(VIE)
-E95
-Austrian Airlines
-[INFO ] 2023-01-06 23:03:21.116 [main] WebScrape - Scheduled
-2:25 PM
-LO3905
-Warsaw(WAW)
-E95
-LOT
-[INFO ] 2023-01-06 23:03:21.133 [main] WebScrape - Scheduled
-2:50 PM
-W65098
-Tel Aviv(TLV)
-A21N
-HA-LVH
-Wizz Air
-[INFO ] 2023-01-06 23:03:21.149 [main] WebScrape - Scheduled
-2:55 PM
-FR6327
-Amman(AMM)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.165 [main] WebScrape - Scheduled
-3:05 PM
-FR6229
-Tel Aviv(TLV)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.182 [main] WebScrape - Scheduled
-3:35 PM
-FR9835
-Bordeaux(BOD)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.200 [main] WebScrape - Scheduled
-3:45 PM
-FR6293
-London(STN)
-32A
-Ryanair
-[INFO ] 2023-01-06 23:03:21.217 [main] WebScrape - Scheduled
-4:10 PM
-KL1995
-Amsterdam(AMS)
-E190
-PH-EZB
-KLM
-[INFO ] 2023-01-06 23:03:21.233 [main] WebScrape - Scheduled
-4:20 PM
-LO3923
-Warsaw(WAW)
-E90
-LOT
-[INFO ] 2023-01-06 23:03:21.251 [main] WebScrape - Scheduled
-4:35 PM
-LH1622
-Munich(MUC)
-CRJ9
-D-ACNA
-Lufthansa
-[INFO ] 2023-01-06 23:03:21.269 [main] WebScrape - Scheduled
-5:05 PM
-W65068
-Milan(MXP)
-32Q
-Wizz Air
-[INFO ] 2023-01-06 23:03:21.285 [main] WebScrape - Scheduled
-5:20 PM
-FR9950
-Toulouse(TLS)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.301 [main] WebScrape - Scheduled
-5:30 PM
-FR5393
-Dublin(DUB)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.318 [main] WebScrape - Scheduled
-5:55 PM
-LH1368
-Frankfurt(FRA)
-CRJ9
-D-ACNK
-Lufthansa
-[INFO ] 2023-01-06 23:03:21.334 [main] WebScrape - Scheduled
-6:00 PM
-FR6221
-Bristol(BRS)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.351 [main] WebScrape - Scheduled
-6:05 PM
-BA872
-London(LHR)
-320
-British Airways
-[INFO ] 2023-01-06 23:03:21.368 [main] WebScrape - Scheduled
-6:10 PM
-W65044
-Stavanger(SVG)
-32Q
-Wizz Air
-[INFO ] 2023-01-06 23:03:21.390 [main] WebScrape - Scheduled
-6:30 PM
-FR6876
-Milan(BGY)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.409 [main] WebScrape - Scheduled
-6:35 PM
-FR5891
-Eindhoven(EIN)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.427 [main] WebScrape - Scheduled
-6:40 PM
-FR1642
-Vienna(VIE)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.447 [main] WebScrape - Scheduled
-6:45 PM
-FR3986
-Bari(BRI)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.468 [main] WebScrape - Scheduled
-7:25 PM
-FR6277
-Nuremberg(NUE)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.486 [main] WebScrape - Scheduled
-7:30 PM
-FR2434
-London(STN)
-320
-Ryanair
-[INFO ] 2023-01-06 23:03:21.505 [main] WebScrape - Scheduled
-8:25 PM
-FR7968
-Pisa(PSA)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.525 [main] WebScrape - Scheduled
-8:40 PM
-FR6211
-Paris(BVA)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.546 [main] WebScrape - Scheduled
-8:50 PM
-FR2332
-Leeds(LBA)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.566 [main] WebScrape - Scheduled
-8:50 PM
-FR2712
-London(STN)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.585 [main] WebScrape - Scheduled
-9:25 PM
-FR6249
-Manchester(MAN)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.602 [main] WebScrape - Scheduled
-10:05 PM
-FR2023
-Dublin(DUB)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.619 [main] WebScrape - Scheduled
-10:05 PM
-LH1624
-Munich(MUC)
-32N
-Lufthansa
-[INFO ] 2023-01-06 23:03:21.638 [main] WebScrape - Scheduled
-10:10 PM
-FR4934
-Brussels(CRL)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.654 [main] WebScrape - Scheduled
-10:40 PM
-FR6243
-Naples(NAP)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.671 [main] WebScrape - Scheduled
-10:50 PM
-KL1999
-Amsterdam(AMS)
-E190
-PH-EZG
-KLM
-[INFO ] 2023-01-06 23:03:21.689 [main] WebScrape - Scheduled
-11:15 PM
-W65082
-Kutaisi(KUT)
-32Q
-Wizz Air
-[INFO ] 2023-01-06 23:03:21.706 [main] WebScrape - Scheduled
-11:20 PM
-LH1370
-Frankfurt(FRA)
-32N
-Lufthansa
-[INFO ] 2023-01-06 23:03:21.723 [main] WebScrape - Scheduled
-11:25 PM
-FR1813
-London(LTN)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.739 [main] WebScrape - Scheduled
-11:25 PM
-FR6217
-Oslo(TRF)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.756 [main] WebScrape - Scheduled
-11:25 PM
-W65004
-London(LTN)
-32Q
-Wizz Air
-[INFO ] 2023-01-06 23:03:21.773 [main] WebScrape - Scheduled
-11:35 PM
-FR6245
-Lille(LIL)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.790 [main] WebScrape - Scheduled
-11:35 PM
-FR6257
-Stockholm(ARN)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.807 [main] WebScrape - Scheduled
-11:35 PM
-LO3911
-Warsaw(WAW)
-E95
-LOT
-[INFO ] 2023-01-06 23:03:21.825 [main] WebScrape - Scheduled
-11:50 PM
-FR6231
-Szczecin(SZZ)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:21.843 [main] WebScrape - Scheduled
-12:10 AM
-W65034
-Oslo(OSL)
-32Q
-Wizz Air
-[INFO ] 2023-01-06 23:03:21.860 [main] WebScrape - Scheduled
-12:15 AM
-W65094
-Abu Dhabi(AUH)
-32Q
-Wizz Air
-[INFO ] 2023-01-06 23:03:21.877 [main] WebScrape - Scheduled
-8:10 AM
-FR4425
-Cagliari(CAG)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.894 [main] WebScrape - Scheduled
-8:10 AM
-LO3903
-Warsaw(WAW)
-E75
-LOT
-[INFO ] 2023-01-06 23:03:21.911 [main] WebScrape - Scheduled
-8:45 AM
-LX1370
-Zurich(ZRH)
-BCS1
-HB-JBC
-Swiss
-[INFO ] 2023-01-06 23:03:21.930 [main] WebScrape - Scheduled
-9:20 AM
-DY1038
-Trondheim(TRD)
-738
-Norwegian Air Shuttle AOC
-[INFO ] 2023-01-06 23:03:21.947 [main] WebScrape - Scheduled
-9:25 AM
-D83562
-Copenhagen(CPH)
-73H
-Norwegian Air Sweden AOC
-[INFO ] 2023-01-06 23:03:21.967 [main] WebScrape - Scheduled
-9:30 AM
-FR2362
-London(STN)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:21.984 [main] WebScrape - Scheduled
-9:40 AM
-DY1028
-Bergen(BGO)
-738
-Norwegian Air Shuttle AOC
-[INFO ] 2023-01-06 23:03:22.001 [main] WebScrape - Scheduled
-9:45 AM
-DY1036
-Stavanger(SVG)
-738
-Norwegian Air Shuttle AOC
-[INFO ] 2023-01-06 23:03:22.019 [main] WebScrape - Scheduled
-9:45 AM
-LH1364
-Frankfurt(FRA)
-32A
-Lufthansa
-[INFO ] 2023-01-06 23:03:22.036 [main] WebScrape - Scheduled
-10:02 AM
-Trebbin(QCZ)
-PC12
-D-FKJM
--
-[INFO ] 2023-01-06 23:03:22.055 [main] WebScrape - Scheduled
-10:20 AM
-D84901
-Stockholm(ARN)
-73H
-Norwegian Air Sweden AOC
-[INFO ] 2023-01-06 23:03:22.073 [main] WebScrape - Scheduled
-10:30 AM
-FR1312
-Seville(SVQ)
-73H
-Ryanair
-[INFO ] 2023-01-06 23:03:22.091 [main] WebScrape - Scheduled
-10:30 AM
-FR6249
-Manchester(MAN)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:22.109 [main] WebScrape - Scheduled
-10:55 AM
-FR6257
-Stockholm(ARN)
-7M8
-Ryanair
-[INFO ] 2023-01-06 23:03:22.119 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.131 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.144 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.156 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.167 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.180 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.193 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.205 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.216 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.227 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.239 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.251 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.263 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.275 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.286 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.298 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.310 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.322 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.335 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.347 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.359 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.371 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.384 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.397 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.410 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.423 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.436 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.449 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.462 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.475 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.487 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.501 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.513 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.527 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.540 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.553 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.566 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.578 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.590 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.602 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.615 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.627 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.640 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.652 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.663 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.675 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.688 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.700 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.712 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.725 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.738 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.751 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.763 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.775 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.787 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.800 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.812 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.824 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.837 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.850 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.863 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.875 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.888 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.900 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.913 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.926 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.940 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.952 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.964 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.976 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:22.989 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.000 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.013 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.026 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.039 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.051 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.064 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.076 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.089 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.104 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.119 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.131 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.144 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.157 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.169 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.182 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.195 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.207 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.219 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.232 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.244 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.257 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.270 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.282 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.294 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.307 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.319 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.332 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.344 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.357 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.371 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.384 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.397 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.410 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.423 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.436 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.448 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.464 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.478 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.490 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.503 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.516 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.529 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.542 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.555 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.569 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.583 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.596 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.609 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.622 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.636 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.648 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.661 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.674 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.688 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.702 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.715 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.727 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.739 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.752 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.765 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.777 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.790 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.803 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.816 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.828 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.843 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.855 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.868 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.881 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.897 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.909 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.923 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.936 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.948 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.961 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.974 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:23.988 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.000 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.014 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.027 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.040 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.053 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.066 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.079 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.092 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.105 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.119 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.132 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.146 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.159 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.171 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.185 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.198 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.212 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.226 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.239 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.253 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.267 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.280 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.293 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.306 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.320 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.333 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.346 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.359 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.372 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.387 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.400 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.413 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.428 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.441 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.455 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.468 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.481 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.495 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.508 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.522 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.535 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.548 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.562 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.575 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.589 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.602 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.615 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.630 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.643 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.657 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.670 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.684 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.698 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.712 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.726 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.739 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.753 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.766 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.780 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.794 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.808 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.821 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.835 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.849 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.863 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.878 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.891 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.905 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.919 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.932 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.946 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.961 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.974 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:24.988 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.001 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.014 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.028 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.042 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.055 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.068 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.083 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.099 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.116 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.131 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.143 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.157 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.171 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.185 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.198 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.212 [main] WebScrape - 
-[INFO ] 2023-01-06 23:03:25.227 [main] WebScrape - 
+[INFO ] 2023-01-06 23:03:25.227 [main] WebScrape -
 [INFO ] 2023-01-06 23:03:25.240 [main] WebScrape - 
 [INFO ] 2023-01-06 23:03:25.254 [main] WebScrape - 
 [INFO ] 2023-01-06 23:03:25.267 [main] WebScrape - 
@@ -1906,254 +540,7 @@ Ryanair
 [INFO ] 2023-01-06 23:28:35.754 [main] WebScrape - TIME FLIGHT FROM AIRLINE AIRCRAFT STATUS
 [INFO ] 2023-01-06 23:28:35.760 [main] WebScrape - 
 [INFO ] 2023-01-06 23:28:35.763 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.766 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.772 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.778 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.783 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.789 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.795 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.801 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.807 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.812 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.818 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.823 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.829 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.834 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.839 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.844 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.850 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.855 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.860 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.866 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.871 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.877 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.882 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.887 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.893 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.898 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.903 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.908 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.914 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.919 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.924 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.930 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.935 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.941 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.947 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.952 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.958 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.962 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.968 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.974 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.979 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.985 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.991 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:35.996 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.002 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.008 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.013 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.019 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.025 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.030 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.036 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.041 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.047 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.053 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.058 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.064 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.073 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.078 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.084 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.089 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.094 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.099 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.104 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.110 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.115 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.120 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.125 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.130 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.135 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.140 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.145 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.150 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.156 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.161 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.166 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.171 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.176 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.182 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.187 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.192 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.197 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.203 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.208 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.213 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.218 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.224 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.229 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.235 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.240 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.245 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.251 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.256 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.262 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.267 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.272 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.277 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.282 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.287 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.292 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.297 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.302 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.307 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.312 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.316 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.322 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.326 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.331 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.336 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.341 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.346 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.350 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.356 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.360 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.366 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.371 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.377 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.382 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.388 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.393 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.398 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.404 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.408 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.413 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.419 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.428 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.434 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.439 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.444 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.450 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.456 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.461 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.466 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.471 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.476 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.482 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.487 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.492 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.497 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.502 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.506 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.511 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.516 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.520 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.524 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.529 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.534 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.538 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.543 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.547 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.553 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.558 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.563 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.568 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.572 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.577 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.582 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.587 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.592 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.597 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.602 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.607 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.612 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.618 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.623 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.628 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.633 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.638 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.643 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.648 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.653 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.657 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.663 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.668 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.672 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.678 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.683 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.688 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.693 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.698 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.703 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.708 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.713 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.718 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.722 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.727 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.732 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.737 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.741 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.746 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.751 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.756 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.761 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.766 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.770 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.780 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.784 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.789 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.793 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.798 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.803 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.807 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.812 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.817 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.822 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.827 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.832 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.837 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.841 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.846 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.851 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.855 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.860 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.865 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.870 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.875 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.880 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.885 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.890 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.896 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.900 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.905 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.910 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.914 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.919 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.924 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.928 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.933 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.937 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.942 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.947 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.951 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.956 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.961 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.966 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.970 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.975 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.979 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.984 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.989 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.994 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:36.998 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:37.003 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:37.009 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:37.014 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:37.019 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:37.024 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:37.029 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:37.034 [main] WebScrape - 
-[INFO ] 2023-01-06 23:28:37.039 [main] WebScrape - 
+[INFO ] 2023-01-06 23:28:35.766 [main] WebScrape -
 [INFO ] 2023-01-06 23:28:37.043 [main] WebScrape - 
 [INFO ] 2023-01-06 23:28:37.049 [main] WebScrape - 
 [INFO ] 2023-01-06 23:28:37.052 [main] WebScrape - Thursday, Jan 05
@@ -5154,3 +3541,1064 @@ Scheduled
 [INFO ] 2023-01-08 02:42:51.960 [main] WebScrape - Excel file updated successfully.
 [INFO ] 2023-01-08 02:42:51.960 [main] WebScrape - Added 0 new flights to database.
 [INFO ] 2023-01-08 02:42:51.960 [main] WebScrape - Currently there is 127 flights in database.
+[INFO ] 2023-01-08 13:44:42.953 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 13:50:14.078 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 13:57:09.829 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 14:04:40.641 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 14:05:10.110 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 14:19:55.045 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 14:23:05.956 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 14:23:07.598 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 14:29:10.667 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 14:29:10.688 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 14:40:33.160 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 14:40:33.181 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 14:43:01.068 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 14:43:01.089 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 15:00:04.693 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 15:00:04.711 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 15:00:28.850 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 15:03:03.127 [main] WebScrape - File 'Flights_data_MAIN.xlsx' successfully opened.
+[INFO ] 2023-01-08 15:03:03.165 [main] WebScrape - File 'Flights_data_krk_departures.xlsx' successfully opened.
+[INFO ] 2023-01-08 15:04:53.100 [main] WebScrape - File 'Flights_data_MAIN.xlsx' successfully opened.
+[INFO ] 2023-01-08 15:04:53.138 [main] WebScrape - File 'Flights_data_krk_departures.xlsx' successfully opened.
+[INFO ] 2023-01-08 15:06:00.382 [main] WebScrape - File 'Flights_data_MAIN.xlsx' successfully opened.
+[INFO ] 2023-01-08 15:06:00.421 [main] WebScrape - File 'Flights_data_krk_departures.xlsx' successfully opened.
+[INFO ] 2023-01-08 15:07:53.066 [main] WebScrape - Excel file created success
+[INFO ] 2023-01-08 15:08:04.732 [main] WebScrape - File 'Flights_data_MAIN.xlsx' successfully opened.
+[INFO ] 2023-01-08 15:08:04.770 [main] WebScrape - File 'Flights_data_krk_departures.xlsx' successfully opened.
+[INFO ] 2023-01-08 16:35:33.574 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 16:37:10.719 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 16:38:00.367 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 16:47:47.925 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 16:48:35.472 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 16:50:46.014 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 16:51:35.509 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 16:58:44.662 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 16:59:32.639 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 17:01:33.499 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:02:22.265 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 17:04:03.830 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:04:54.432 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 17:07:17.321 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:08:32.254 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:09:56.195 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:10:44.259 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 17:12:40.442 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:13:31.997 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 17:18:21.678 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:19:12.057 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 17:22:17.288 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:23:07.666 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 17:26:26.984 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:27:15.382 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:28:04.961 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 17:28:46.096 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:29:34.754 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 17:32:43.201 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:33:32.987 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 17:51:01.218 [main] WebScrape - creating new table
+[INFO ] 2023-01-08 17:51:01.493 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:51:51.232 [main] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 17:51:51.232 [main] WebScrape - creating new table
+[INFO ] 2023-01-08 17:51:51.235 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:56:00.660 [Thread-0] WebScrape - creating new table
+[INFO ] 2023-01-08 17:56:00.664 [Thread-1] WebScrape - creating new table
+[INFO ] 2023-01-08 17:56:00.941 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:56:00.942 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 17:56:50.697 [Thread-0] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 17:56:51.472 [Thread-1] WebScrape - Excel file with departures forKRK airport created successfully
+[INFO ] 2023-01-08 18:01:43.831 [Thread-0] WebScrape - creating new table
+[INFO ] 2023-01-08 18:01:43.831 [Thread-1] WebScrape - creating new table
+[INFO ] 2023-01-08 18:01:44.206 [Thread-1] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:01:44.206 [Thread-0] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:01:44.212 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:01:44.212 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:02:33.840 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.866 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.868 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.870 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.873 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.876 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.877 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.879 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.881 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.883 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.884 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.886 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.888 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.890 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.891 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.893 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.894 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.895 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.897 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.898 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.900 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.901 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.902 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.904 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.905 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.906 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.907 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.908 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.911 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.912 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.913 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.914 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.916 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.917 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.918 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.919 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.920 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.921 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.922 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.923 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.924 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.925 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.926 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.927 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.928 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.929 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.930 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.931 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.932 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.933 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.934 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.935 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.936 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.937 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.938 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.939 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.940 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.941 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.941 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.942 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.943 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.944 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.945 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.945 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.946 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.947 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.948 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.949 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.950 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.951 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.951 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.952 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.953 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.954 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.955 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.955 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.956 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.957 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.957 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.958 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.959 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.959 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.960 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.961 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.961 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.962 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.963 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.964 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.964 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.965 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.966 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.966 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.967 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.968 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.968 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.969 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.970 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.972 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.973 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.975 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.976 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.978 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.979 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.980 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.980 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.981 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.982 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.983 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.984 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.985 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.986 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.987 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.988 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:33.990 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.101 [Thread-1] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 18:02:34.102 [Thread-1] WebScrape - Added 114 new flights to KRK airport departures database.
+[INFO ] 2023-01-08 18:02:34.102 [Thread-1] WebScrape - Currently there is 131 flights in database.
+[INFO ] 2023-01-08 18:02:34.193 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.195 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.196 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.197 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.197 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.198 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.198 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.199 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.200 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.200 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.201 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.202 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.202 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.203 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.203 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.204 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.204 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.205 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.205 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.206 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.206 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.207 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.208 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.209 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.209 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.210 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.210 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.211 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.211 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.212 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.212 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.213 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.213 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.214 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.214 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.218 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.218 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.219 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.219 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.220 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.220 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.221 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.221 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.222 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.222 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.223 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.223 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.223 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.224 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.225 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.225 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.226 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.226 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.226 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.227 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.227 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.228 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.228 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.228 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.228 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.229 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.229 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.230 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.230 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.230 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.231 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.231 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.232 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.232 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.233 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.233 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.234 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.234 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.235 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.235 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.236 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.236 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:02:34.237 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:09:12.418 [Thread-0] WebScrape - creating new table
+[INFO ] 2023-01-08 18:09:12.418 [Thread-1] WebScrape - creating new table
+[INFO ] 2023-01-08 18:09:12.785 [Thread-0] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:09:12.785 [Thread-1] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:09:12.790 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:09:12.790 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:11:11.778 [Thread-1] WebScrape - creating new table
+[INFO ] 2023-01-08 18:11:11.778 [Thread-0] WebScrape - creating new table
+[INFO ] 2023-01-08 18:11:12.148 [Thread-1] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:11:12.148 [Thread-0] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:11:12.154 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:11:12.154 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:12:05.574 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.598 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.600 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.603 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.605 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.607 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.610 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.612 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.614 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.615 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.617 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.619 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.621 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.623 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.625 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.626 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.628 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.629 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.630 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.632 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.634 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.635 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.637 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.639 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.641 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.642 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.644 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.645 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.646 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.648 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.650 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.653 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.655 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.656 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.657 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.659 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.660 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.661 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.662 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.664 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.665 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.667 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.668 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.669 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.671 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.672 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.674 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.675 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.676 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.677 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.678 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.679 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.681 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.686 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.687 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.688 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.689 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.691 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.692 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.693 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.694 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.695 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.696 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.697 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.698 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.699 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.700 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.701 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.701 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.702 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.703 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.703 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.704 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.704 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.705 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.706 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.706 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.707 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.708 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.708 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.709 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.710 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.711 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.712 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.713 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.713 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.718 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.719 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.725 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.725 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.726 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.727 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.728 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.728 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.729 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.730 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.731 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.732 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.732 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.733 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.733 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.734 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.735 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.735 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.736 [Thread-0] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.790 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.792 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.793 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.794 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.794 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.795 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.796 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.797 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.797 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.798 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.799 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.800 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.800 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.801 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.801 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.802 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.803 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.804 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.805 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.806 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.807 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.808 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.809 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.809 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.810 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.811 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.811 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.812 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.812 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.813 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.813 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.814 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.815 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.815 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.816 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.816 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.817 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.817 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.818 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.818 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.819 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.820 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.820 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.821 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.822 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.823 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.823 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.824 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.825 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.825 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.826 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.827 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.828 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.828 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.828 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.829 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.830 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.830 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.831 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.831 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.832 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.833 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.834 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.834 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.835 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.836 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.836 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.837 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.838 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.838 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.839 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.840 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.840 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.841 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.841 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.842 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.842 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.843 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.843 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.844 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.845 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.845 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.846 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.846 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.847 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.847 [Thread-0] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 18:12:05.847 [Thread-0] WebScrape - Added 105 new flights to KRK airport arrivals database.
+[INFO ] 2023-01-08 18:12:05.847 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.847 [Thread-0] WebScrape - Currently there is 132 flights in database.
+[INFO ] 2023-01-08 18:12:05.848 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.848 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.849 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.849 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.850 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.850 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.851 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.852 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.852 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.853 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.853 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.853 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.854 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.854 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.855 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.855 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.856 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.856 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.857 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.857 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.858 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.858 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.858 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.859 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.859 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.860 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.860 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.861 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.861 [Thread-1] WebScrape - Putting data into database ...
+[INFO ] 2023-01-08 18:12:05.888 [Thread-1] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 18:12:05.888 [Thread-1] WebScrape - Added 115 new flights to KRK airport departures database.
+[INFO ] 2023-01-08 18:12:05.888 [Thread-1] WebScrape - Currently there is 133 flights in database.
+[INFO ] 2023-01-08 18:14:31.878 [Thread-1] WebScrape - creating new table
+[INFO ] 2023-01-08 18:14:31.878 [Thread-0] WebScrape - creating new table
+[INFO ] 2023-01-08 18:14:32.228 [Thread-1] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:14:32.228 [Thread-0] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:14:32.234 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:14:32.234 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:15:20.215 [Thread-1] WebScrape - creating new table
+[INFO ] 2023-01-08 18:15:20.215 [Thread-0] WebScrape - creating new table
+[INFO ] 2023-01-08 18:15:20.567 [Thread-1] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:15:20.567 [Thread-0] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:15:20.573 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:15:20.573 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:15:55.787 [Thread-0] WebScrape - creating new table
+[INFO ] 2023-01-08 18:15:55.787 [Thread-1] WebScrape - creating new table
+[INFO ] 2023-01-08 18:15:56.144 [Thread-1] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:15:56.144 [Thread-0] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:15:56.150 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:15:56.150 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:16:49.235 [Thread-0] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 18:16:49.235 [Thread-0] WebScrape - Added 129 new flights to KRK airport arrivals database.
+[INFO ] 2023-01-08 18:16:49.235 [Thread-0] WebScrape - Currently there is 134 flights in database.
+[INFO ] 2023-01-08 18:16:49.246 [Thread-1] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 18:16:49.247 [Thread-1] WebScrape - Added 128 new flights to KRK airport departures database.
+[INFO ] 2023-01-08 18:16:49.247 [Thread-1] WebScrape - Currently there is 133 flights in database.
+[INFO ] 2023-01-08 18:19:35.089 [Thread-1] WebScrape - creating new table
+[INFO ] 2023-01-08 18:19:35.089 [Thread-0] WebScrape - creating new table
+[INFO ] 2023-01-08 18:19:35.370 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:19:35.370 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:20:30.892 [Thread-1] WebScrape - Excel file with departures forKRK airport created successfully
+[INFO ] 2023-01-08 18:20:31.377 [Thread-0] WebScrape - Excel file with arrivals forKRK airport created successfully
+[INFO ] 2023-01-08 18:24:02.275 [Thread-1] WebScrape - creating new table
+[INFO ] 2023-01-08 18:24:02.275 [Thread-0] WebScrape - creating new table
+[INFO ] 2023-01-08 18:24:02.553 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:24:02.553 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:26:43.575 [Thread-1] WebScrape - creating new table
+[INFO ] 2023-01-08 18:26:43.575 [Thread-0] WebScrape - creating new table
+[INFO ] 2023-01-08 18:26:43.857 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:26:43.858 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:27:11.217 [Thread-0] WebScrape - Excel file with arrivals for BZG airport created successfully
+[INFO ] 2023-01-08 18:27:11.217 [Thread-1] WebScrape - Excel file with departures for BZG airport created successfully
+[INFO ] 2023-01-08 18:28:46.922 [Thread-0] WebScrape - creating new table
+[INFO ] 2023-01-08 18:28:46.922 [Thread-1] WebScrape - creating new table
+[INFO ] 2023-01-08 18:28:47.275 [Thread-0] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:28:47.275 [Thread-1] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 18:28:47.280 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:28:47.281 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:29:13.913 [Thread-1] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 18:29:13.914 [Thread-1] WebScrape - Added 0 new flights to BZG airport departures database.
+[INFO ] 2023-01-08 18:29:13.914 [Thread-1] WebScrape - Currently there is 7 flights in database.
+[INFO ] 2023-01-08 18:29:13.978 [Thread-0] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 18:29:13.978 [Thread-0] WebScrape - Added 0 new flights to BZG airport arrivals database.
+[INFO ] 2023-01-08 18:29:13.978 [Thread-0] WebScrape - Currently there is 6 flights in database.
+[INFO ] 2023-01-08 18:31:34.242 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:31:34.242 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:32:16.823 [Thread-0] WebScrape - Excel file with arrivals for GDN airport created successfully
+[INFO ] 2023-01-08 18:32:17.464 [Thread-1] WebScrape - Excel file with departures for GDN airport created successfully
+[INFO ] 2023-01-08 18:32:47.499 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:32:47.499 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:33:26.279 [Thread-1] WebScrape - Excel file with departures for KTW airport created successfully
+[INFO ] 2023-01-08 18:33:27.540 [Thread-0] WebScrape - Excel file with arrivals for KTW airport created successfully
+[INFO ] 2023-01-08 18:34:25.024 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:34:25.024 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:34:52.002 [Thread-0] WebScrape - Excel file with arrivals for LCJ airport created successfully
+[INFO ] 2023-01-08 18:34:52.002 [Thread-1] WebScrape - Excel file with departures for LCJ airport created successfully
+[INFO ] 2023-01-08 18:35:05.436 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:35:05.436 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:35:32.320 [Thread-1] WebScrape - Excel file with departures for LUZ airport created successfully
+[INFO ] 2023-01-08 18:35:32.573 [Thread-0] WebScrape - Excel file with arrivals for LUZ airport created successfully
+[INFO ] 2023-01-08 18:36:05.106 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:36:05.106 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:36:31.203 [Thread-0] WebScrape - Excel file with arrivals for SZY airport created successfully
+[INFO ] 2023-01-08 18:36:31.203 [Thread-1] WebScrape - Excel file with departures for SZY airport created successfully
+[INFO ] 2023-01-08 18:36:51.259 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:36:51.259 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:37:23.973 [Thread-0] WebScrape - Excel file with arrivals for POZ airport created successfully
+[INFO ] 2023-01-08 18:37:23.973 [Thread-1] WebScrape - Excel file with departures for POZ airport created successfully
+[INFO ] 2023-01-08 18:39:30.743 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:39:30.743 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:39:38.721 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/departures'.
+[INFO ] 2023-01-08 18:39:38.751 [Thread-0] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/arrivals'.
+[INFO ] 2023-01-08 18:40:04.465 [Thread-1] WebScrape - Excel file with departures for WMI airport created successfully
+[INFO ] 2023-01-08 18:40:04.466 [Thread-0] WebScrape - Excel file with arrivals for WMI airport created successfully
+[INFO ] 2023-01-08 18:40:58.246 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:40:58.246 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:41:06.334 [Thread-0] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/arrivals'.
+[INFO ] 2023-01-08 18:41:06.503 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+[INFO ] 2023-01-08 18:42:07.099 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:42:07.099 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:42:14.979 [Thread-0] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/arrivals'.
+[INFO ] 2023-01-08 18:42:15.241 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+[INFO ] 2023-01-08 18:43:29.751 [Thread-0] WebScrape - Excel file with arrivals for WAW airport created successfully
+[INFO ] 2023-01-08 18:46:34.937 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:46:44.426 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+[INFO ] 2023-01-08 18:47:21.125 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:47:29.852 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+[INFO ] 2023-01-08 18:48:52.246 [Thread-1] WebScrape - Excel file with departures for WAW airport created successfully
+[INFO ] 2023-01-08 18:51:25.549 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:51:25.549 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 18:51:33.295 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/departures'.
+[INFO ] 2023-01-08 18:51:33.986 [Thread-0] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/arrivals'.
+[INFO ] 2023-01-08 18:51:49.754 [Thread-1] WebScrape - Excel file with departures for RZE airport created successfully
+[INFO ] 2023-01-08 18:51:49.927 [Thread-0] WebScrape - Excel file with arrivals for RZE airport created successfully
+[INFO ] 2023-01-08 19:02:37.223 [Thread-12] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.224 [Thread-13] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.225 [Thread-17] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.229 [Thread-1] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.225 [Thread-9] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.230 [Thread-5] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.231 [Thread-0] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.231 [Thread-7] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.225 [Thread-20] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.225 [Thread-21] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.224 [Thread-3] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.224 [Thread-16] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.224 [Thread-14] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.224 [Thread-15] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.224 [Thread-2] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.224 [Thread-8] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.224 [Thread-10] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.224 [Thread-6] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.224 [Thread-4] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.224 [Thread-11] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.240 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.240 [Thread-7] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.240 [Thread-5] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.240 [Thread-13] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.241 [Thread-15] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.241 [Thread-2] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.241 [Thread-16] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.243 [Thread-3] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.243 [Thread-11] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.243 [Thread-4] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.243 [Thread-20] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.243 [Thread-12] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.244 [Thread-9] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.244 [Thread-6] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.244 [Thread-21] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.244 [Thread-10] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.244 [Thread-8] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.244 [Thread-17] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.244 [Thread-14] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.245 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.266 [Thread-19] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.267 [Thread-19] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:37.269 [Thread-18] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:02:37.269 [Thread-18] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:02:59.079 [Thread-16] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/arrivals'.
+[INFO ] 2023-01-08 19:03:00.250 [Thread-13] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/departures'.
+[INFO ] 2023-01-08 19:03:00.558 [Thread-10] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/arrivals'.
+[INFO ] 2023-01-08 19:03:01.587 [Thread-19] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+[INFO ] 2023-01-08 19:03:01.616 [Thread-20] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/arrivals'.
+[INFO ] 2023-01-08 19:03:01.628 [Thread-3] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+[INFO ] 2023-01-08 19:03:01.672 [Thread-11] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/departures'.
+[INFO ] 2023-01-08 19:03:02.369 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-08 19:03:02.423 [Thread-2] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/arrivals'.
+[INFO ] 2023-01-08 19:03:03.016 [Thread-4] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/arrivals'.
+[INFO ] 2023-01-08 19:03:04.277 [Thread-6] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/arrivals'.
+[INFO ] 2023-01-08 19:03:04.633 [Thread-21] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/departures'.
+[INFO ] 2023-01-08 19:03:07.904 [Thread-12] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/arrivals'.
+[INFO ] 2023-01-08 19:03:09.487 [Thread-5] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+[INFO ] 2023-01-08 19:03:15.017 [Thread-13] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:15.017 [Thread-13] WebScrape - Added 0 new flights to SZY airport departures database.
+[INFO ] 2023-01-08 19:03:15.018 [Thread-13] WebScrape - Currently there is 4 flights in database.
+[INFO ] 2023-01-08 19:03:16.017 [Thread-10] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:16.017 [Thread-10] WebScrape - Added 0 new flights to LUZ airport arrivals database.
+[INFO ] 2023-01-08 19:03:16.017 [Thread-10] WebScrape - Currently there is 6 flights in database.
+[INFO ] 2023-01-08 19:03:17.716 [Thread-11] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:17.717 [Thread-11] WebScrape - Added 0 new flights to LUZ airport departures database.
+[INFO ] 2023-01-08 19:03:17.717 [Thread-11] WebScrape - Currently there is 5 flights in database.
+[INFO ] 2023-01-08 19:03:18.019 [Thread-3] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:18.019 [Thread-3] WebScrape - Added 0 new flights to BZG airport departures database.
+[INFO ] 2023-01-08 19:03:18.020 [Thread-3] WebScrape - Currently there is 7 flights in database.
+[INFO ] 2023-01-08 19:03:19.049 [Thread-2] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:19.050 [Thread-2] WebScrape - Added 0 new flights to BZG airport arrivals database.
+[INFO ] 2023-01-08 19:03:19.050 [Thread-2] WebScrape - Currently there is 6 flights in database.
+[INFO ] 2023-01-08 19:03:19.860 [Thread-20] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:19.860 [Thread-20] WebScrape - Added 0 new flights to RZE airport arrivals database.
+[INFO ] 2023-01-08 19:03:19.860 [Thread-20] WebScrape - Currently there is 14 flights in database.
+[INFO ] 2023-01-08 19:03:26.010 [Thread-12] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:26.010 [Thread-12] WebScrape - Added 0 new flights to SZY airport arrivals database.
+[INFO ] 2023-01-08 19:03:26.010 [Thread-12] WebScrape - Currently there is 4 flights in database.
+[INFO ] 2023-01-08 19:03:26.056 [Thread-21] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:26.056 [Thread-21] WebScrape - Added 0 new flights to RZE airport departures database.
+[INFO ] 2023-01-08 19:03:26.056 [Thread-21] WebScrape - Currently there is 14 flights in database.
+[INFO ] 2023-01-08 19:03:26.574 [Thread-16] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:26.574 [Thread-16] WebScrape - Added 0 new flights to WMI airport arrivals database.
+[INFO ] 2023-01-08 19:03:26.574 [Thread-16] WebScrape - Currently there is 41 flights in database.
+[INFO ] 2023-01-08 19:03:34.656 [Thread-6] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:34.656 [Thread-6] WebScrape - Added 0 new flights to KTW airport arrivals database.
+[INFO ] 2023-01-08 19:03:34.656 [Thread-6] WebScrape - Currently there is 67 flights in database.
+[INFO ] 2023-01-08 19:03:38.477 [Thread-4] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:38.478 [Thread-4] WebScrape - Added 3 new flights to GDN airport arrivals database.
+[INFO ] 2023-01-08 19:03:38.478 [Thread-4] WebScrape - Currently there is 81 flights in database.
+[INFO ] 2023-01-08 19:03:42.713 [Thread-5] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:42.714 [Thread-5] WebScrape - Added 2 new flights to GDN airport departures database.
+[INFO ] 2023-01-08 19:03:42.714 [Thread-5] WebScrape - Currently there is 84 flights in database.
+[INFO ] 2023-01-08 19:03:51.126 [Thread-1] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:03:51.126 [Thread-1] WebScrape - Added 5 new flights to KRK airport departures database.
+[INFO ] 2023-01-08 19:03:51.126 [Thread-1] WebScrape - Currently there is 134 flights in database.
+[INFO ] 2023-01-08 19:04:21.141 [Thread-19] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:04:21.141 [Thread-19] WebScrape - Added 0 new flights to WAW airport departures database.
+[INFO ] 2023-01-08 19:04:21.142 [Thread-19] WebScrape - Currently there is 304 flights in database.
+[INFO ] 2023-01-08 19:04:21.142 [main] WebScrape - Data for all airports updated successfully.
+[INFO ] 2023-01-08 19:10:20.364 [Thread-7] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.366 [Thread-15] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.364 [Thread-4] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.373 [Thread-13] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.373 [Thread-20] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.366 [Thread-14] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.366 [Thread-8] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.375 [Thread-9] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.365 [Thread-10] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.364 [Thread-6] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.376 [Thread-0] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.365 [Thread-2] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.377 [Thread-17] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.364 [Thread-21] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.366 [Thread-12] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.372 [Thread-5] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.372 [Thread-11] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.368 [Thread-1] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.370 [Thread-3] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.370 [Thread-16] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.385 [Thread-11] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-20] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-21] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-10] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-12] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-16] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-14] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.386 [Thread-15] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-3] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-4] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.386 [Thread-5] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-17] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-9] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.386 [Thread-6] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-2] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.385 [Thread-13] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.386 [Thread-7] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.387 [Thread-8] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.389 [Thread-18] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.390 [Thread-18] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.397 [Thread-19] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:10:20.397 [Thread-19] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:10:20.573 [Thread-4] WebScrape - GDN CRASHED !!!
+[INFO ] 2023-01-08 19:10:20.573 [Thread-20] WebScrape - RZE CRASHED !!!
+[INFO ] 2023-01-08 19:10:20.575 [Thread-8] WebScrape - LCJ CRASHED !!!
+[INFO ] 2023-01-08 19:10:20.576 [Thread-11] WebScrape - LUZ CRASHED !!!
+[INFO ] 2023-01-08 19:10:20.577 [Thread-16] WebScrape - WMI CRASHED !!!
+[INFO ] 2023-01-08 19:10:20.623 [Thread-9] WebScrape - LCJ CRASHED !!!
+[INFO ] 2023-01-08 19:10:20.625 [Thread-21] WebScrape - RZE CRASHED !!!
+[INFO ] 2023-01-08 19:10:20.640 [Thread-7] WebScrape - KTW CRASHED !!!
+[INFO ] 2023-01-08 19:10:20.641 [Thread-13] WebScrape - SZY CRASHED !!!
+[INFO ] 2023-01-08 19:10:20.650 [Thread-17] WebScrape - WMI CRASHED !!!
+[INFO ] 2023-01-08 19:10:37.401 [Thread-6] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/arrivals'.
+[INFO ] 2023-01-08 19:10:37.436 [Thread-3] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+[INFO ] 2023-01-08 19:10:38.146 [Thread-10] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/arrivals'.
+[INFO ] 2023-01-08 19:10:38.777 [Thread-15] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/departures'.
+[INFO ] 2023-01-08 19:10:38.843 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-08 19:10:39.492 [Thread-18] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/arrivals'.
+[INFO ] 2023-01-08 19:10:39.980 [Thread-0] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+[INFO ] 2023-01-08 19:10:40.041 [Thread-12] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/arrivals'.
+[INFO ] 2023-01-08 19:10:40.947 [Thread-14] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/arrivals'.
+[INFO ] 2023-01-08 19:10:41.001 [Thread-5] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+[INFO ] 2023-01-08 19:10:41.460 [Thread-19] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+[INFO ] 2023-01-08 19:10:46.160 [Thread-2] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/arrivals'.
+[INFO ] 2023-01-08 19:10:52.709 [Thread-3] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:10:52.713 [Thread-3] WebScrape - Added 0 new flights to BZG airport departures database.
+[INFO ] 2023-01-08 19:10:52.714 [Thread-3] WebScrape - Currently there is 7 flights in database.
+[INFO ] 2023-01-08 19:10:53.106 [Thread-10] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:10:53.106 [Thread-10] WebScrape - Added 0 new flights to LUZ airport arrivals database.
+[INFO ] 2023-01-08 19:10:53.106 [Thread-10] WebScrape - Currently there is 6 flights in database.
+[INFO ] 2023-01-08 19:10:54.134 [Thread-12] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:10:54.134 [Thread-12] WebScrape - Added 0 new flights to SZY airport arrivals database.
+[INFO ] 2023-01-08 19:10:54.134 [Thread-12] WebScrape - Currently there is 4 flights in database.
+[INFO ] 2023-01-08 19:11:02.181 [Thread-15] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:11:02.181 [Thread-15] WebScrape - Added 0 new flights to POZ airport departures database.
+[INFO ] 2023-01-08 19:11:02.181 [Thread-15] WebScrape - Currently there is 32 flights in database.
+[INFO ] 2023-01-08 19:11:02.538 [Thread-2] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:11:02.538 [Thread-2] WebScrape - Added 0 new flights to BZG airport arrivals database.
+[INFO ] 2023-01-08 19:11:02.538 [Thread-2] WebScrape - Currently there is 6 flights in database.
+[INFO ] 2023-01-08 19:11:04.097 [Thread-14] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:11:04.098 [Thread-14] WebScrape - Added 0 new flights to POZ airport arrivals database.
+[INFO ] 2023-01-08 19:11:04.098 [Thread-14] WebScrape - Currently there is 32 flights in database.
+[INFO ] 2023-01-08 19:11:06.082 [Thread-6] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:11:06.082 [Thread-6] WebScrape - Added 0 new flights to KTW airport arrivals database.
+[INFO ] 2023-01-08 19:11:06.082 [Thread-6] WebScrape - Currently there is 67 flights in database.
+[INFO ] 2023-01-08 19:11:14.936 [Thread-5] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:11:14.936 [Thread-5] WebScrape - Added 0 new flights to GDN airport departures database.
+[INFO ] 2023-01-08 19:11:14.936 [Thread-5] WebScrape - Currently there is 84 flights in database.
+[INFO ] 2023-01-08 19:11:28.794 [Thread-1] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:11:28.794 [Thread-1] WebScrape - Added 1 new flights to KRK airport departures database.
+[INFO ] 2023-01-08 19:11:28.794 [Thread-1] WebScrape - Currently there is 135 flights in database.
+[INFO ] 2023-01-08 19:11:30.464 [Thread-0] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:11:30.465 [Thread-0] WebScrape - Added 4 new flights to KRK airport arrivals database.
+[INFO ] 2023-01-08 19:11:30.465 [Thread-0] WebScrape - Currently there is 139 flights in database.
+[INFO ] 2023-01-08 19:13:48.786 [Thread-1] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:13:48.786 [Thread-0] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:13:48.794 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:13:48.794 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:13:57.550 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-08 19:13:57.581 [Thread-0] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+[INFO ] 2023-01-08 19:15:17.092 [Thread-1] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:15:17.092 [Thread-0] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:15:17.100 [Thread-1] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:15:17.100 [Thread-0] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:15:25.443 [Thread-0] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+[INFO ] 2023-01-08 19:15:25.458 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-08 19:16:10.671 [Thread-0] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:16:10.671 [Thread-0] WebScrape - Added 0 new flights to KRK airport arrivals database.
+[INFO ] 2023-01-08 19:16:10.671 [Thread-0] WebScrape - Currently there is 139 flights in database.
+[INFO ] 2023-01-08 19:16:11.048 [Thread-1] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:16:11.049 [Thread-1] WebScrape - Added 1 new flights to KRK airport departures database.
+[INFO ] 2023-01-08 19:16:11.049 [Thread-1] WebScrape - Currently there is 136 flights in database.
+[INFO ] 2023-01-08 19:16:11.062 [Thread-12] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:16:11.062 [Thread-13] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:16:11.062 [Thread-12] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:16:11.062 [Thread-13] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:16:18.645 [Thread-12] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/arrivals'.
+[INFO ] 2023-01-08 19:16:20.367 [Thread-13] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+[INFO ] 2023-01-08 19:16:33.130 [Thread-12] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:16:33.130 [Thread-12] WebScrape - Added 0 new flights to BZG airport arrivals database.
+[INFO ] 2023-01-08 19:16:33.130 [Thread-12] WebScrape - Currently there is 6 flights in database.
+[INFO ] 2023-01-08 19:16:34.775 [Thread-13] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:16:34.775 [Thread-13] WebScrape - Added 0 new flights to BZG airport departures database.
+[INFO ] 2023-01-08 19:16:34.775 [Thread-13] WebScrape - Currently there is 7 flights in database.
+[INFO ] 2023-01-08 19:16:34.795 [Thread-23] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:16:34.795 [Thread-22] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:16:34.796 [Thread-22] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:16:34.796 [Thread-23] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:16:42.118 [Thread-22] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/arrivals'.
+[INFO ] 2023-01-08 19:16:42.240 [Thread-23] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+[INFO ] 2023-01-08 19:17:11.833 [Thread-23] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:17:11.833 [Thread-23] WebScrape - Added 0 new flights to GDN airport departures database.
+[INFO ] 2023-01-08 19:17:11.833 [Thread-23] WebScrape - Currently there is 84 flights in database.
+[INFO ] 2023-01-08 19:17:12.169 [Thread-22] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:17:12.169 [Thread-22] WebScrape - Added 0 new flights to GDN airport arrivals database.
+[INFO ] 2023-01-08 19:17:12.169 [Thread-22] WebScrape - Currently there is 81 flights in database.
+[INFO ] 2023-01-08 19:17:12.185 [Thread-32] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:17:12.185 [Thread-32] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:17:12.187 [Thread-33] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:17:12.188 [Thread-33] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:17:19.557 [Thread-32] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/arrivals'.
+[INFO ] 2023-01-08 19:17:21.557 [Thread-33] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/departures'.
+[INFO ] 2023-01-08 19:17:45.030 [Thread-32] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:17:45.030 [Thread-32] WebScrape - Added 1 new flights to KTW airport arrivals database.
+[INFO ] 2023-01-08 19:17:45.030 [Thread-32] WebScrape - Currently there is 68 flights in database.
+[INFO ] 2023-01-08 19:17:47.044 [Thread-33] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:17:47.045 [Thread-33] WebScrape - Added 2 new flights to KTW airport departures database.
+[INFO ] 2023-01-08 19:17:47.045 [Thread-33] WebScrape - Currently there is 73 flights in database.
+[INFO ] 2023-01-08 19:17:47.053 [Thread-42] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:17:47.053 [Thread-43] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:17:47.053 [Thread-42] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:17:47.053 [Thread-43] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:17:54.691 [Thread-42] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/arrivals'.
+[INFO ] 2023-01-08 19:17:56.674 [Thread-43] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/departures'.
+[INFO ] 2023-01-08 19:18:09.120 [Thread-42] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:18:09.120 [Thread-42] WebScrape - Added 0 new flights to LCJ airport arrivals database.
+[INFO ] 2023-01-08 19:18:09.121 [Thread-42] WebScrape - Currently there is 6 flights in database.
+[INFO ] 2023-01-08 19:18:11.212 [Thread-43] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:18:11.212 [Thread-43] WebScrape - Added 0 new flights to LCJ airport departures database.
+[INFO ] 2023-01-08 19:18:11.212 [Thread-43] WebScrape - Currently there is 7 flights in database.
+[INFO ] 2023-01-08 19:18:11.219 [Thread-53] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:18:11.219 [Thread-52] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:18:11.219 [Thread-53] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:18:11.219 [Thread-52] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:18:18.755 [Thread-53] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/departures'.
+[INFO ] 2023-01-08 19:18:18.801 [Thread-52] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/arrivals'.
+[INFO ] 2023-01-08 19:18:33.009 [Thread-53] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:18:33.009 [Thread-53] WebScrape - Added 0 new flights to LUZ airport departures database.
+[INFO ] 2023-01-08 19:18:33.009 [Thread-53] WebScrape - Currently there is 5 flights in database.
+[INFO ] 2023-01-08 19:18:33.130 [Thread-52] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:18:33.130 [Thread-52] WebScrape - Added 0 new flights to LUZ airport arrivals database.
+[INFO ] 2023-01-08 19:18:33.130 [Thread-52] WebScrape - Currently there is 6 flights in database.
+[INFO ] 2023-01-08 19:18:33.137 [Thread-63] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:18:33.137 [Thread-62] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:18:33.137 [Thread-63] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:18:33.137 [Thread-62] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:18:40.382 [Thread-63] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/departures'.
+[INFO ] 2023-01-08 19:18:40.628 [Thread-62] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/arrivals'.
+[INFO ] 2023-01-08 19:18:54.555 [Thread-62] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:18:54.555 [Thread-63] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:18:54.555 [Thread-62] WebScrape - Added 0 new flights to SZY airport arrivals database.
+[INFO ] 2023-01-08 19:18:54.555 [Thread-63] WebScrape - Added 0 new flights to SZY airport departures database.
+[INFO ] 2023-01-08 19:18:54.555 [Thread-62] WebScrape - Currently there is 4 flights in database.
+[INFO ] 2023-01-08 19:18:54.555 [Thread-63] WebScrape - Currently there is 4 flights in database.
+[INFO ] 2023-01-08 19:18:54.564 [Thread-72] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:18:54.565 [Thread-72] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:18:54.565 [Thread-73] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:18:54.565 [Thread-73] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:19:01.806 [Thread-72] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/arrivals'.
+[INFO ] 2023-01-08 19:19:02.560 [Thread-73] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/departures'.
+[INFO ] 2023-01-08 19:19:22.318 [Thread-72] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:19:22.318 [Thread-72] WebScrape - Added 0 new flights to POZ airport arrivals database.
+[INFO ] 2023-01-08 19:19:22.318 [Thread-72] WebScrape - Currently there is 32 flights in database.
+[INFO ] 2023-01-08 19:19:22.978 [Thread-73] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:19:22.978 [Thread-73] WebScrape - Added 0 new flights to POZ airport departures database.
+[INFO ] 2023-01-08 19:19:22.978 [Thread-73] WebScrape - Currently there is 32 flights in database.
+[INFO ] 2023-01-08 19:19:22.988 [Thread-83] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:19:22.988 [Thread-82] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:19:22.989 [Thread-83] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:19:22.989 [Thread-82] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:19:30.244 [Thread-82] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/arrivals'.
+[INFO ] 2023-01-08 19:19:30.382 [Thread-83] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/departures'.
+[INFO ] 2023-01-08 19:19:51.232 [Thread-82] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:19:51.232 [Thread-82] WebScrape - Added 0 new flights to WMI airport arrivals database.
+[INFO ] 2023-01-08 19:19:51.232 [Thread-82] WebScrape - Currently there is 41 flights in database.
+[INFO ] 2023-01-08 19:19:51.571 [Thread-83] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:19:51.571 [Thread-83] WebScrape - Added 2 new flights to WMI airport departures database.
+[INFO ] 2023-01-08 19:19:51.571 [Thread-83] WebScrape - Currently there is 43 flights in database.
+[INFO ] 2023-01-08 19:19:51.598 [Thread-92] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:19:51.599 [Thread-92] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:19:51.599 [Thread-93] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:19:51.599 [Thread-93] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:19:59.174 [Thread-92] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/arrivals'.
+[INFO ] 2023-01-08 19:19:59.497 [Thread-93] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+[INFO ] 2023-01-08 19:21:12.205 [Thread-92] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:21:12.205 [Thread-92] WebScrape - Added 12 new flights to WAW airport arrivals database.
+[INFO ] 2023-01-08 19:21:12.205 [Thread-92] WebScrape - Currently there is 293 flights in database.
+[INFO ] 2023-01-08 19:21:13.597 [Thread-93] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:21:13.597 [Thread-93] WebScrape - Added 1 new flights to WAW airport departures database.
+[INFO ] 2023-01-08 19:21:13.597 [Thread-93] WebScrape - Currently there is 305 flights in database.
+[INFO ] 2023-01-08 19:21:13.604 [Thread-102] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:21:13.604 [Thread-103] WebScrape - File successfully opened.
+[INFO ] 2023-01-08 19:21:13.604 [Thread-102] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:21:13.604 [Thread-103] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 19:21:21.115 [Thread-103] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/departures'.
+[INFO ] 2023-01-08 19:21:21.161 [Thread-102] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/arrivals'.
+[INFO ] 2023-01-08 19:21:36.947 [Thread-102] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:21:36.947 [Thread-102] WebScrape - Added 0 new flights to RZE airport arrivals database.
+[INFO ] 2023-01-08 19:21:36.947 [Thread-102] WebScrape - Currently there is 14 flights in database.
+[INFO ] 2023-01-08 19:21:37.069 [Thread-103] WebScrape - Excel file updated successfully.
+[INFO ] 2023-01-08 19:21:37.070 [Thread-103] WebScrape - Added 0 new flights to RZE airport departures database.
+[INFO ] 2023-01-08 19:21:37.070 [Thread-103] WebScrape - Currently there is 14 flights in database.
+[INFO ] 2023-01-08 19:21:37.070 [main] WebScrape - Data for all airports updated successfully.
+[INFO ] 2023-01-08 19:21:37.071 [main] WebScrape - Process took about 380412
+[INFO ] 2023-01-08 19:45:23.629 [Thread-1] WebScrape - File KRK_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 19:45:23.629 [Thread-0] WebScrape - File KRK_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 19:45:32.266 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-08 19:45:34.250 [Thread-0] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+[INFO ] 2023-01-08 19:46:17.789 [Thread-1] WebScrape - Excel file 'KRK_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:46:17.789 [Thread-1] WebScrape - Added 3 new flights to KRK airport Departures database.
+[INFO ] 2023-01-08 19:46:17.789 [Thread-1] WebScrape - Currently there are 139 flights in database.
+[INFO ] 2023-01-08 19:46:20.016 [Thread-0] WebScrape - Excel file 'KRK_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:46:20.017 [Thread-0] WebScrape - Added 2 new flights to KRK airport Arrivals database.
+[INFO ] 2023-01-08 19:46:20.017 [Thread-0] WebScrape - Currently there are 141 flights in database.
+[INFO ] 2023-01-08 19:46:20.034 [Thread-13] WebScrape - File BZG_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 19:46:20.034 [Thread-12] WebScrape - File BZG_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 19:46:28.277 [Thread-12] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/arrivals'.
+[INFO ] 2023-01-08 19:46:29.353 [Thread-13] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+[INFO ] 2023-01-08 19:46:42.674 [Thread-12] WebScrape - Excel file 'BZG_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:46:42.674 [Thread-12] WebScrape - Added 0 new flights to BZG airport Arrivals database.
+[INFO ] 2023-01-08 19:46:42.674 [Thread-12] WebScrape - Currently there are 6 flights in database.
+[INFO ] 2023-01-08 19:46:43.826 [Thread-13] WebScrape - Excel file 'BZG_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:46:43.826 [Thread-13] WebScrape - Added 0 new flights to BZG airport Departures database.
+[INFO ] 2023-01-08 19:46:43.826 [Thread-13] WebScrape - Currently there are 7 flights in database.
+[INFO ] 2023-01-08 19:46:43.852 [Thread-22] WebScrape - File GDN_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 19:46:43.852 [Thread-23] WebScrape - File GDN_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 19:46:52.091 [Thread-23] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+[INFO ] 2023-01-08 19:46:52.214 [Thread-22] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/arrivals'.
+[INFO ] 2023-01-08 19:47:21.799 [Thread-22] WebScrape - Excel file 'GDN_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:47:21.799 [Thread-22] WebScrape - Added 0 new flights to GDN airport Arrivals database.
+[INFO ] 2023-01-08 19:47:21.800 [Thread-22] WebScrape - Currently there are 81 flights in database.
+[INFO ] 2023-01-08 19:47:21.988 [Thread-23] WebScrape - Excel file 'GDN_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:47:21.988 [Thread-23] WebScrape - Added 5 new flights to GDN airport Departures database.
+[INFO ] 2023-01-08 19:47:21.988 [Thread-23] WebScrape - Currently there are 89 flights in database.
+[INFO ] 2023-01-08 19:47:22.006 [Thread-33] WebScrape - File KTW_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 19:47:22.006 [Thread-32] WebScrape - File KTW_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 19:47:29.461 [Thread-32] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/arrivals'.
+[INFO ] 2023-01-08 19:47:29.477 [Thread-33] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/departures'.
+[INFO ] 2023-01-08 19:47:55.119 [Thread-33] WebScrape - Excel file 'KTW_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:47:55.119 [Thread-33] WebScrape - Added 0 new flights to KTW airport Departures database.
+[INFO ] 2023-01-08 19:47:55.119 [Thread-33] WebScrape - Currently there are 73 flights in database.
+[INFO ] 2023-01-08 19:47:55.149 [Thread-32] WebScrape - Excel file 'KTW_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:47:55.149 [Thread-32] WebScrape - Added 0 new flights to KTW airport Arrivals database.
+[INFO ] 2023-01-08 19:47:55.149 [Thread-32] WebScrape - Currently there are 68 flights in database.
+[INFO ] 2023-01-08 19:47:55.163 [Thread-43] WebScrape - File LCJ_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 19:47:55.163 [Thread-42] WebScrape - File LCJ_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 19:48:02.845 [Thread-43] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/departures'.
+[INFO ] 2023-01-08 19:48:02.907 [Thread-42] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/arrivals'.
+[INFO ] 2023-01-08 19:48:17.447 [Thread-42] WebScrape - Excel file 'LCJ_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:48:17.447 [Thread-42] WebScrape - Added 0 new flights to LCJ airport Arrivals database.
+[INFO ] 2023-01-08 19:48:17.447 [Thread-42] WebScrape - Currently there are 6 flights in database.
+[INFO ] 2023-01-08 19:48:17.509 [Thread-43] WebScrape - Excel file 'LCJ_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:48:17.509 [Thread-43] WebScrape - Added 0 new flights to LCJ airport Departures database.
+[INFO ] 2023-01-08 19:48:17.509 [Thread-43] WebScrape - Currently there are 7 flights in database.
+[INFO ] 2023-01-08 19:48:17.517 [Thread-53] WebScrape - File LUZ_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 19:48:17.517 [Thread-52] WebScrape - File LUZ_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 19:48:25.129 [Thread-53] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/departures'.
+[INFO ] 2023-01-08 19:48:25.160 [Thread-52] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/arrivals'.
+[INFO ] 2023-01-08 19:48:39.345 [Thread-53] WebScrape - Excel file 'LUZ_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:48:39.345 [Thread-53] WebScrape - Added 0 new flights to LUZ airport Departures database.
+[INFO ] 2023-01-08 19:48:39.345 [Thread-53] WebScrape - Currently there are 5 flights in database.
+[INFO ] 2023-01-08 19:48:39.513 [Thread-52] WebScrape - Excel file 'LUZ_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:48:39.513 [Thread-52] WebScrape - Added 0 new flights to LUZ airport Arrivals database.
+[INFO ] 2023-01-08 19:48:39.513 [Thread-52] WebScrape - Currently there are 6 flights in database.
+[INFO ] 2023-01-08 19:48:39.521 [Thread-63] WebScrape - File SZY_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 19:48:39.521 [Thread-62] WebScrape - File SZY_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 19:48:47.118 [Thread-62] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/arrivals'.
+[INFO ] 2023-01-08 19:48:47.226 [Thread-63] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/departures'.
+[INFO ] 2023-01-08 19:49:00.961 [Thread-62] WebScrape - Excel file 'SZY_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:49:00.961 [Thread-62] WebScrape - Added 0 new flights to SZY airport Arrivals database.
+[INFO ] 2023-01-08 19:49:00.961 [Thread-62] WebScrape - Currently there are 4 flights in database.
+[INFO ] 2023-01-08 19:49:01.238 [Thread-63] WebScrape - Excel file 'SZY_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:49:01.238 [Thread-63] WebScrape - Added 0 new flights to SZY airport Departures database.
+[INFO ] 2023-01-08 19:49:01.238 [Thread-63] WebScrape - Currently there are 4 flights in database.
+[INFO ] 2023-01-08 19:49:01.250 [Thread-73] WebScrape - File POZ_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 19:49:01.250 [Thread-72] WebScrape - File POZ_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 19:49:08.701 [Thread-72] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/arrivals'.
+[INFO ] 2023-01-08 19:49:08.762 [Thread-73] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/departures'.
+[INFO ] 2023-01-08 19:49:29.283 [Thread-73] WebScrape - Excel file 'POZ_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:49:29.283 [Thread-73] WebScrape - Added 0 new flights to POZ airport Departures database.
+[INFO ] 2023-01-08 19:49:29.283 [Thread-73] WebScrape - Currently there are 32 flights in database.
+[INFO ] 2023-01-08 19:49:29.300 [Thread-72] WebScrape - Excel file 'POZ_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:49:29.300 [Thread-72] WebScrape - Added 1 new flights to POZ airport Arrivals database.
+[INFO ] 2023-01-08 19:49:29.300 [Thread-72] WebScrape - Currently there are 33 flights in database.
+[INFO ] 2023-01-08 19:49:29.313 [Thread-82] WebScrape - File WMI_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 19:49:29.313 [Thread-83] WebScrape - File WMI_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 19:49:36.919 [Thread-82] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/arrivals'.
+[INFO ] 2023-01-08 19:49:37.057 [Thread-83] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/departures'.
+[INFO ] 2023-01-08 19:49:58.007 [Thread-82] WebScrape - Excel file 'WMI_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:49:58.007 [Thread-82] WebScrape - Added 1 new flights to WMI airport Arrivals database.
+[INFO ] 2023-01-08 19:49:58.007 [Thread-82] WebScrape - Currently there are 42 flights in database.
+[INFO ] 2023-01-08 19:49:58.281 [Thread-83] WebScrape - Excel file 'WMI_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:49:58.282 [Thread-83] WebScrape - Added 1 new flights to WMI airport Departures database.
+[INFO ] 2023-01-08 19:49:58.282 [Thread-83] WebScrape - Currently there are 44 flights in database.
+[INFO ] 2023-01-08 19:49:58.310 [Thread-92] WebScrape - File WAW_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 19:49:58.310 [Thread-93] WebScrape - File WAW_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 19:50:06.146 [Thread-93] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+[INFO ] 2023-01-08 19:50:06.331 [Thread-92] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/arrivals'.
+[INFO ] 2023-01-08 19:51:19.170 [Thread-93] WebScrape - Excel file 'WAW_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:51:19.170 [Thread-93] WebScrape - Added 4 new flights to WAW airport Departures database.
+[INFO ] 2023-01-08 19:51:19.170 [Thread-93] WebScrape - Currently there are 309 flights in database.
+[INFO ] 2023-01-08 19:51:20.890 [Thread-92] WebScrape - Excel file 'WAW_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:51:20.890 [Thread-92] WebScrape - Added 2 new flights to WAW airport Arrivals database.
+[INFO ] 2023-01-08 19:51:20.890 [Thread-92] WebScrape - Currently there are 295 flights in database.
+[INFO ] 2023-01-08 19:51:20.900 [Thread-102] WebScrape - File RZE_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 19:51:20.900 [Thread-103] WebScrape - File RZE_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 19:51:28.231 [Thread-103] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/departures'.
+[INFO ] 2023-01-08 19:51:28.286 [Thread-102] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/arrivals'.
+[INFO ] 2023-01-08 19:51:44.301 [Thread-102] WebScrape - Excel file 'RZE_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:51:44.301 [Thread-102] WebScrape - Added 0 new flights to RZE airport Arrivals database.
+[INFO ] 2023-01-08 19:51:44.301 [Thread-102] WebScrape - Currently there are 14 flights in database.
+[INFO ] 2023-01-08 19:51:44.455 [Thread-103] WebScrape - Excel file 'RZE_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-08 19:51:44.456 [Thread-103] WebScrape - Added 0 new flights to RZE airport Departures database.
+[INFO ] 2023-01-08 19:51:44.456 [Thread-103] WebScrape - Currently there are 14 flights in database.
+[INFO ] 2023-01-08 19:51:44.456 [main] WebScrape - Data for all airports updated successfully.
+[INFO ] 2023-01-08 19:51:44.456 [main] WebScrape - Process took about 6 minutes.
+[INFO ] 2023-01-08 19:52:36.856 [Thread-0] WebScrape - File KRK_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 19:52:36.856 [Thread-1] WebScrape - File KRK_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 19:52:45.030 [Thread-0] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+[INFO ] 2023-01-08 19:52:45.030 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.

@@ -2,6 +2,8 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.nio.file.FileAlreadyExistsException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.List;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -10,15 +12,16 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
-public class AddNewData {
+public class AddNewArrivalData {
+
 
     private static final Logger logger= LogManager.getLogger(WebScrape.class);
 
-    public static void main(String[] args) throws Exception {
+    public void appendArrivalsFromAirport(String airportName) throws Exception {
         XSSFWorkbook workbook = null;
         try {
-            workbook = new XSSFWorkbook(new FileInputStream("Flights_data.xlsx"));
-            logger.info("File successfully opened.");
+            workbook = new XSSFWorkbook(new FileInputStream("DataBase\\"+airportName+"_Arrivals.xlsx"));
+            logger.info("File "+airportName+"_Arrivals.xlsx successfully opened.");
         }catch (FileNotFoundException e){
             logger.error("File not found.");
             System.exit(0);
@@ -32,7 +35,6 @@ public class AddNewData {
         for(int i=2;i<10;i++){
             Cell cell = lastRow.getCell(i);
             lastDataInSheet = lastDataInSheet + " "+ cell.getStringCellValue() ;
-            System.out.println(lastDataInSheet);
         }
         String[] lastRowArray = lastDataInSheet.split(" ");
         String lastDate = lastRow.getCell(1).getStringCellValue();
@@ -41,16 +43,26 @@ public class AddNewData {
         int index = (int)lastRow.getCell(0).getNumericCellValue();
         int start = index;
 
-        logger.info("Getting data from website ...");
-        List<String> mainData = new WebScrape().getData();
+        String url = "https://www.flightradar24.com/data/airports/"+airportName+"/arrivals";
+        List<String> mainData = new WebScrape().getData(url);
         String date = "";
+        String differenceTime1 ="";
+        String differenceTime2 ="";
+        Boolean landed=true;
+        Boolean reverseTime=false;
+        Date d1 = null;
+        Date d2 = null;
+        SimpleDateFormat formatTime = new SimpleDateFormat("hh:mm a");
+        SimpleDateFormat formatTimeDay = new SimpleDateFormat("dd/MM/yyyy hh:mm a");
+
+
 
         for (String ele : mainData) {
             if (ele.contains(",")) {
                 date = ele;
                 continue;
             }
-
+            if (ele.contains("Delayed")){continue;}
             int check=0;
             for (String item : lastRowArray) {
                 if (ele.contains(item) && !found && date.equals(lastDate)) {
@@ -78,13 +90,12 @@ public class AddNewData {
                 airportData = lines[2].split(" ");
                 planeData = lines[3].split(" ");
             }
-            if(planeData[0].equals("-") || flightData.length==2 || !planeData[planeData.length-1].contains("(") ){
+            if(planeData[0].equals("-") || !planeData[planeData.length-1].contains("(") ){
                 continue;
             }
 
             Row row = sheet.createRow(index + 1);
-            logger.info("Putting data into database ...");
-            for (int j = 0; j <= 10; j++) {
+            for (int j = 0; j <= 12; j++) {
 
                 Cell cell = row.createCell(j);
                 if (cell.getColumnIndex() == 0) {
@@ -93,8 +104,13 @@ public class AddNewData {
                     cell.setCellValue(date);
                 } else if (cell.getColumnIndex() == 2) {
                     cell.setCellValue(flightData[0] + " " + flightData[1]);
+                    differenceTime1=flightData[0] + " " + flightData[1];
                 } else if (cell.getColumnIndex() == 3) {
-                    cell.setCellValue(flightData[2]);
+                    if(flightData.length==2){
+                        cell.setCellValue("UNKNOWN");
+                    }else {
+                        cell.setCellValue(flightData[2]);
+                    }
                 } else if (cell.getColumnIndex() == 4) {
                     if(airportData.length ==2) {
                         cell.setCellValue(airportData[0]);
@@ -115,20 +131,54 @@ public class AddNewData {
                     cell.setCellValue(planeData[planeData.length - 1]);
                 } else if (cell.getColumnIndex() == 9) {
                     if (lines.length == 4) {
-                        cell.setCellValue(lines[3]);
+                        if(lines[3].contains(":")) {
+                            cell.setCellValue(lines[3].replace("Landed ",""));
+                            differenceTime2=lines[3].replace("Landed ","");
+                            landed=true;
+                        }else {
+                            cell.setCellValue(lines[3]);
+                            landed=false;
+                        }
                     } else {
-                        cell.setCellValue(lines[4]);
+                        if(lines[4].contains(":")) {
+                            cell.setCellValue(lines[4].replace("Landed ",""));
+                            differenceTime2=lines[4].replace("Landed ","");
+                            landed=true;
+                        }else {
+                            cell.setCellValue(lines[4]);
+                            landed=false;
+                        }
+                    }
+                }else if (cell.getColumnIndex() == 11) {
+                    if (landed) {
+                        d1 = formatTime.parse(differenceTime1);
+                        d2 = formatTime.parse(differenceTime2);
+                        long diff = d2.getTime() - d1.getTime();
+
+                        long diffMinutes = diff / (60 * 1000) % 60;
+                        long diffHours = diff / (60 * 60 * 1000) % 24;
+                        if (diffHours > 12 || diffHours < (-12)) {
+                            d1 = formatTimeDay.parse("10/05/2022 " + differenceTime1);
+                            d2 = formatTimeDay.parse("11/05/2022 " + differenceTime2);
+                            diff = d2.getTime() - d1.getTime();
+
+                            diffMinutes = diff / (60 * 1000) % 60;
+                            diffHours = diff / (60 * 60 * 1000) % 24;
+                        }
+                        cell.setCellValue(diffHours + " hours, " + diffMinutes + " minutes");
+
                     }
                 }
             }
             index += 1;
         }
 
-        try (FileOutputStream outputStream = new FileOutputStream("Flights_data.xlsx")) {
+        try (FileOutputStream outputStream = new FileOutputStream("DataBase\\"+airportName+"_Arrivals.xlsx")) {
             workbook.write(outputStream);
-            logger.info("Excel file updated successfully.");
-            logger.info("Added " + String.valueOf(index-start)+" new flights to database."  );
-            logger.info("Currently there is " + String.valueOf(index)+" flights in database."  );
+            outputStream.close();
+            logger.info("Excel file '"+airportName+"_Arrivals.xlsx' updated successfully.");
+            logger.info("Added " + String.valueOf(index-start)+" new flights to "+airportName+" airport Arrivals database."  );
+            logger.info("Currently there are " + String.valueOf(index)+" flights in database."  );
         }catch (FileAlreadyExistsException e){
             logger.error("File alredy exists.");
         }
