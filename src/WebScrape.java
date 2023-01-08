@@ -1,9 +1,7 @@
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
+import org.openqa.selenium.bidi.log.JavascriptLogEntry;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.*;
 import org.openqa.selenium.support.ui.Wait;
@@ -19,7 +17,7 @@ public class WebScrape {
     public List<String> getData(String url) throws Exception {
         List<String> output = new ArrayList<>();
 
-        WebDriver driver = new FirefoxDriver( new FirefoxOptions().addPreference("general.useragent.override","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.170").addArguments("--headless").addArguments("--log-level=3"));
+        WebDriver driver = new FirefoxDriver( new FirefoxOptions().addPreference("general.useragent.override","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.170").addArguments("--headless").setLogLevel(FirefoxDriverLogLevel.FATAL)); //.addArguments("--log-level=3")
         driver.get(url);
         Thread.sleep(4000);
         logger.info("Downloading data from website: '"+url+"'.");
@@ -70,8 +68,11 @@ public class WebScrape {
             output.add(ele.getText());
         }
 
-        driver.close();
+//        driver.close();
+        System.out.println("CLOSING -------------------------------------------");
         driver.quit();
+
+
         return output;
     }
 }

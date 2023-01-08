@@ -53,10 +53,12 @@ public class UpdateAllAirportsData {
             thread2.join();
         }
 
+        new AddNewDeparturesData().appendDeparturesFromAirport(airport1);
+
         logger.info("Data for all airports updated successfully.");
         long finish = System.currentTimeMillis();
-        long timeElapsed = (finish - start)/60000l;
-        logger.info("Process took about "+ timeElapsed+" minutes.");
+        logger.info("Process took about "+ (finish - start)/60000L +" minutes and "+ ((finish - start)%60000L)/1000L+" seconds.");
+
 
     }
 }
