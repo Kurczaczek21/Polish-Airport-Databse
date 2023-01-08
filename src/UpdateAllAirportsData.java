@@ -55,7 +55,7 @@ public class UpdateAllAirportsData {
 
         new AddNewDeparturesData().appendDeparturesFromAirport(airport1);
 
-        logger.info("Data for all airports updated successfully.");
+        logger.info("Data for all airports updated successfully.");     // Tu zwraca co i jak czy git ktore byly :)
         long finish = System.currentTimeMillis();
         logger.info("Process took about "+ (finish - start)/60000L +" minutes and "+ ((finish - start)%60000L)/1000L+" seconds.");
 

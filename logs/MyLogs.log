@@ -5016,3 +5016,20 @@ Scheduled
 [INFO ] 2023-01-08 22:44:43.169 [main] WebScrape - Currently there are 146 flights in database.
 [INFO ] 2023-01-08 22:44:43.169 [main] WebScrape - Data for all airports updated successfully.
 [INFO ] 2023-01-08 22:44:43.169 [main] WebScrape - Process took about 7 minutes and 14 seconds.
+[INFO ] 2023-01-08 22:52:27.215 [Thread-1] WebScrape - File KRK_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-08 22:52:27.215 [Thread-0] WebScrape - File KRK_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-08 22:52:42.301 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 22:52:49.568 [main] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-08 22:53:35.016 [main] WebScrape - Excel file with departures for KRK airport created successfully
+[INFO ] 2023-01-08 22:53:35.016 [main] WebScrape - Data for all airports updated successfully.
+[INFO ] 2023-01-08 22:53:35.016 [main] WebScrape - Process took about 0 minutes and 52 seconds.
+[INFO ] 2023-01-08 22:54:11.587 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 22:54:18.987 [main] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-08 22:55:03.431 [main] WebScrape - Excel file with departures for KRK airport created successfully
+[INFO ] 2023-01-08 22:55:03.431 [main] WebScrape - Data for all airports updated successfully.
+[INFO ] 2023-01-08 22:55:03.432 [main] WebScrape - Process took about 0 minutes and 52 seconds.
+[INFO ] 2023-01-08 22:56:35.607 [main] WebScrape - Getting data from website ...
+[INFO ] 2023-01-08 22:56:42.814 [main] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-08 22:57:26.630 [main] WebScrape - Excel file with departures for KRK airport created successfully
+[INFO ] 2023-01-08 22:57:26.630 [main] WebScrape - Data for all airports updated successfully.
+[INFO ] 2023-01-08 22:57:26.631 [main] WebScrape - Process took about 0 minutes and 51 seconds.
