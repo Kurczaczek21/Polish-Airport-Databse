@@ -1,8 +1,12 @@
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 import javax.swing.*;
 import java.awt.*;
 
 public class ProgramGui {
 
+    private static final Logger logger= LogManager.getLogger(WebScrape.class);
     final static String HELLOSCREEN= "Card with hello screen message";
     final static String CHOOSEDATA= "Card with boxes to download data";
     public static void main(String[] args) throws Exception {
@@ -32,6 +36,7 @@ public class ProgramGui {
         label.setFont(new Font("Serif", Font.PLAIN, 60));
         frame.add(label);
 
+        logger.info("JPanel created");
         frame.setVisible(true);
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 

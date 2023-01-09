@@ -5347,3 +5347,4 @@ Scheduled
 [INFO ] 2023-01-09 17:57:59.475 [Thread-103] WebScrape - Currently there are 21 flights in database.
 [INFO ] 2023-01-09 17:57:59.475 [main] WebScrape - Data for all airports updated successfully.
 [INFO ] 2023-01-09 17:57:59.480 [main] WebScrape - Process took about 10 minutes and 56 seconds.
+[INFO ] 2023-01-09 20:12:17.456 [main] WebScrape - JPanel created
