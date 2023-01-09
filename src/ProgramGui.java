@@ -10,8 +10,8 @@ public class ProgramGui {
         frame.setTitle("Poland Airports Statistics");
         ImageIcon image = new ImageIcon("project_data/images/plane_2.png");
         frame.setIconImage(image.getImage());
-//        frame.setResizable(false);
-        frame.setSize(800,500);    // 492   805
+        frame.setResizable(false);
+        frame.setSize(612,383);    // 492   805
         Color aColor = Color.decode("#0174DF");     //#08298A
         frame.getContentPane().setBackground(aColor);
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
@@ -21,13 +21,14 @@ public class ProgramGui {
 
 
         JLabel label = new JLabel();
+        label.setSize(frame.getSize());
         label.setVisible(true);
         label.setText("Witam w wykresawce lotow");
         ImageIcon image2 = new ImageIcon("project_data/images/Entry_panel.jpg");
         label.setIcon(image2);
-        label.setHorizontalTextPosition(JLabel.CENTER);
-        label.setVerticalTextPosition(SwingConstants.TOP);
-        label.setHorizontalAlignment(JLabel.CENTER);
+        label.setHorizontalTextPosition(SwingConstants.CENTER);
+        label.setVerticalTextPosition(SwingConstants.CENTER);   //  TODO: add label on top label
+//        label.setHorizontalAlignment(JLabel.CENTER);
         label.setFont(new Font("Serif", Font.PLAIN, 60));
         frame.add(label);
 
