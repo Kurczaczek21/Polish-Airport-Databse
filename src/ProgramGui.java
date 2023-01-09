@@ -32,7 +32,7 @@ public class ProgramGui {
         label.setIcon(image2);
         label.setHorizontalTextPosition(SwingConstants.CENTER);
         label.setVerticalTextPosition(SwingConstants.CENTER);   //  TODO: add label on top label
-//        label.setHorizontalAlignment(JLabel.CENTER);
+//        label.setHorizontalAlignment(JLabel.CENTER);          //  TODO: add log4j
         label.setFont(new Font("Serif", Font.PLAIN, 60));
         frame.add(label);
 

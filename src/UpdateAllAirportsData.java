@@ -29,7 +29,7 @@ public class UpdateAllAirportsData {
 //                    new CreateNewArrivalsDatabase().createArrivalsFromAirport(airport);
                         new AddNewArrivalData().appendArrivalsFromAirport(airport);
                     } catch (Exception e) {
-                        logger.info(airport+" CRASHED !!! in arr");
+                        logger.info(airport+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in arr");
                         throw new RuntimeException(e);
                     }
                 }
@@ -41,7 +41,7 @@ public class UpdateAllAirportsData {
 //                    new CreateNewDeparturesDatabase().appendDeparturesFromAirport(airport);
                         new AddNewDeparturesData().appendDeparturesFromAirport(airport);
                     } catch (Exception e) {
-                        logger.info(airport+" CRASHED !!! in dep");
+                        logger.info(airport+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in dep");
                         throw new RuntimeException(e);
                     }
                 }
