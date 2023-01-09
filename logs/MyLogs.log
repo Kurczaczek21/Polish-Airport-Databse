@@ -5045,3 +5045,147 @@ Scheduled
 [INFO ] 2023-01-09 02:50:59.923 [main] WebScrape - Currently there are 163 flights in database.
 [INFO ] 2023-01-09 02:50:59.923 [main] WebScrape - Data for all airports updated successfully.
 [INFO ] 2023-01-09 02:50:59.924 [main] WebScrape - Process took about 1 minutes and 43 seconds.
+[INFO ] 2023-01-09 13:41:29.256 [Thread-1] WebScrape - File KRK_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 13:41:29.256 [Thread-0] WebScrape - File KRK_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 13:41:37.081 [Thread-0] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+[INFO ] 2023-01-09 13:41:37.097 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-09 13:42:19.330 [Thread-0] WebScrape - Excel file 'KRK_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:42:19.330 [Thread-0] WebScrape - Added 26 new flights to KRK airport Arrivals database.
+[INFO ] 2023-01-09 13:42:19.330 [Thread-0] WebScrape - Currently there are 189 flights in database.
+[INFO ] 2023-01-09 13:42:20.787 [Thread-1] WebScrape - Excel file 'KRK_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:42:20.787 [Thread-1] WebScrape - Added 36 new flights to KRK airport Departures database.
+[INFO ] 2023-01-09 13:42:20.788 [Thread-1] WebScrape - Currently there are 183 flights in database.
+[INFO ] 2023-01-09 13:42:20.802 [Thread-13] WebScrape - File BZG_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 13:42:20.802 [Thread-12] WebScrape - File BZG_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 13:42:28.079 [Thread-12] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/arrivals'.
+[INFO ] 2023-01-09 13:42:28.171 [Thread-13] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+[INFO ] 2023-01-09 13:42:42.485 [Thread-12] WebScrape - Excel file 'BZG_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:42:42.485 [Thread-12] WebScrape - Added 1 new flights to BZG airport Arrivals database.
+[INFO ] 2023-01-09 13:42:42.485 [Thread-12] WebScrape - Currently there are 8 flights in database.
+[INFO ] 2023-01-09 13:42:42.797 [Thread-13] WebScrape - Excel file 'BZG_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:42:42.797 [Thread-13] WebScrape - Added 1 new flights to BZG airport Departures database.
+[INFO ] 2023-01-09 13:42:42.797 [Thread-13] WebScrape - Currently there are 9 flights in database.
+[INFO ] 2023-01-09 13:42:42.824 [Thread-23] WebScrape - File GDN_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 13:42:42.825 [Thread-22] WebScrape - File GDN_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 13:42:49.748 [Thread-23] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+[INFO ] 2023-01-09 13:42:51.592 [Thread-22] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/arrivals'.
+[INFO ] 2023-01-09 13:43:18.304 [Thread-23] WebScrape - Excel file 'GDN_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:43:18.304 [Thread-23] WebScrape - Added 23 new flights to GDN airport Departures database.
+[INFO ] 2023-01-09 13:43:18.304 [Thread-23] WebScrape - Currently there are 114 flights in database.
+[INFO ] 2023-01-09 13:43:19.173 [Thread-22] WebScrape - Excel file 'GDN_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:43:19.173 [Thread-22] WebScrape - Added 23 new flights to GDN airport Arrivals database.
+[INFO ] 2023-01-09 13:43:19.173 [Thread-22] WebScrape - Currently there are 112 flights in database.
+[INFO ] 2023-01-09 13:43:19.189 [Thread-33] WebScrape - File KTW_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 13:43:19.189 [Thread-32] WebScrape - File KTW_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 13:43:26.268 [Thread-32] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/arrivals'.
+[INFO ] 2023-01-09 13:43:26.668 [Thread-33] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/departures'.
+[INFO ] 2023-01-09 13:43:50.075 [Thread-32] WebScrape - Excel file 'KTW_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:43:50.075 [Thread-32] WebScrape - Added 21 new flights to KTW airport Arrivals database.
+[INFO ] 2023-01-09 13:43:50.075 [Thread-32] WebScrape - Currently there are 94 flights in database.
+[INFO ] 2023-01-09 13:43:50.378 [Thread-33] WebScrape - Excel file 'KTW_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:43:50.378 [Thread-33] WebScrape - Added 18 new flights to KTW airport Departures database.
+[INFO ] 2023-01-09 13:43:50.378 [Thread-33] WebScrape - Currently there are 93 flights in database.
+[INFO ] 2023-01-09 13:43:50.391 [Thread-43] WebScrape - File LCJ_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 13:43:50.392 [Thread-42] WebScrape - File LCJ_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 13:43:57.358 [Thread-42] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/arrivals'.
+[INFO ] 2023-01-09 13:43:57.542 [Thread-43] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/departures'.
+[INFO ] 2023-01-09 13:44:11.645 [Thread-42] WebScrape - Excel file 'LCJ_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:44:11.645 [Thread-42] WebScrape - Added 2 new flights to LCJ airport Arrivals database.
+[INFO ] 2023-01-09 13:44:11.645 [Thread-42] WebScrape - Currently there are 8 flights in database.
+[INFO ] 2023-01-09 13:44:12.055 [Thread-43] WebScrape - Excel file 'LCJ_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:44:12.055 [Thread-43] WebScrape - Added 2 new flights to LCJ airport Departures database.
+[INFO ] 2023-01-09 13:44:12.055 [Thread-43] WebScrape - Currently there are 9 flights in database.
+[INFO ] 2023-01-09 13:44:12.066 [Thread-53] WebScrape - File LUZ_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 13:44:12.066 [Thread-52] WebScrape - File LUZ_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 13:44:19.399 [Thread-53] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/departures'.
+[INFO ] 2023-01-09 13:44:19.414 [Thread-52] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/arrivals'.
+[INFO ] 2023-01-09 13:44:33.637 [Thread-52] WebScrape - Excel file 'LUZ_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:44:33.638 [Thread-52] WebScrape - Added 2 new flights to LUZ airport Arrivals database.
+[INFO ] 2023-01-09 13:44:33.638 [Thread-52] WebScrape - Currently there are 9 flights in database.
+[INFO ] 2023-01-09 13:44:47.102 [Thread-53] WebScrape - Excel file 'LUZ_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:44:47.102 [Thread-53] WebScrape - Added 0 new flights to LUZ airport Departures database.
+[INFO ] 2023-01-09 13:44:47.102 [Thread-53] WebScrape - Currently there are 6 flights in database.
+[INFO ] 2023-01-09 13:44:47.110 [Thread-62] WebScrape - File SZY_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 13:44:47.110 [Thread-63] WebScrape - File SZY_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 13:44:54.676 [Thread-62] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/arrivals'.
+[INFO ] 2023-01-09 13:44:55.045 [Thread-63] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/departures'.
+[INFO ] 2023-01-09 13:45:08.417 [Thread-62] WebScrape - Excel file 'SZY_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:45:08.417 [Thread-62] WebScrape - Added 0 new flights to SZY airport Arrivals database.
+[INFO ] 2023-01-09 13:45:08.417 [Thread-62] WebScrape - Currently there are 4 flights in database.
+[INFO ] 2023-01-09 13:45:08.800 [Thread-63] WebScrape - Excel file 'SZY_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:45:08.800 [Thread-63] WebScrape - Added 0 new flights to SZY airport Departures database.
+[INFO ] 2023-01-09 13:45:08.801 [Thread-63] WebScrape - Currently there are 4 flights in database.
+[INFO ] 2023-01-09 13:45:08.815 [Thread-72] WebScrape - File POZ_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 13:45:08.815 [Thread-73] WebScrape - File POZ_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 13:45:16.206 [Thread-72] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/arrivals'.
+[INFO ] 2023-01-09 13:45:16.514 [Thread-73] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/departures'.
+[INFO ] 2023-01-09 13:45:36.457 [Thread-72] WebScrape - Excel file 'POZ_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:45:36.457 [Thread-72] WebScrape - Added 12 new flights to POZ airport Arrivals database.
+[INFO ] 2023-01-09 13:45:36.457 [Thread-72] WebScrape - Currently there are 49 flights in database.
+[INFO ] 2023-01-09 13:45:36.845 [Thread-73] WebScrape - Excel file 'POZ_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:45:36.846 [Thread-73] WebScrape - Added 15 new flights to POZ airport Departures database.
+[INFO ] 2023-01-09 13:45:36.846 [Thread-73] WebScrape - Currently there are 49 flights in database.
+[INFO ] 2023-01-09 13:45:36.860 [Thread-83] WebScrape - File WMI_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 13:45:36.861 [Thread-82] WebScrape - File WMI_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 13:45:44.059 [Thread-83] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/departures'.
+[INFO ] 2023-01-09 13:45:44.136 [Thread-82] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/arrivals'.
+[INFO ] 2023-01-09 13:46:03.660 [Thread-82] WebScrape - Excel file 'WMI_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:46:03.660 [Thread-82] WebScrape - Added 11 new flights to WMI airport Arrivals database.
+[INFO ] 2023-01-09 13:46:03.660 [Thread-82] WebScrape - Currently there are 57 flights in database.
+[INFO ] 2023-01-09 13:46:04.336 [Thread-83] WebScrape - Excel file 'WMI_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:46:04.336 [Thread-83] WebScrape - Added 14 new flights to WMI airport Departures database.
+[INFO ] 2023-01-09 13:46:04.336 [Thread-83] WebScrape - Currently there are 61 flights in database.
+[INFO ] 2023-01-09 13:46:04.361 [Thread-93] WebScrape - File WAW_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 13:46:04.361 [Thread-92] WebScrape - File WAW_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 13:46:11.538 [Thread-92] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/arrivals'.
+[INFO ] 2023-01-09 13:46:11.568 [Thread-93] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+[INFO ] 2023-01-09 13:47:20.841 [Thread-92] WebScrape - Excel file 'WAW_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:47:20.842 [Thread-92] WebScrape - Added 102 new flights to WAW airport Arrivals database.
+[INFO ] 2023-01-09 13:47:20.842 [Thread-92] WebScrape - Currently there are 423 flights in database.
+[INFO ] 2023-01-09 13:47:23.971 [Thread-93] WebScrape - Excel file 'WAW_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:47:23.971 [Thread-93] WebScrape - Added 105 new flights to WAW airport Departures database.
+[INFO ] 2023-01-09 13:47:23.971 [Thread-93] WebScrape - Currently there are 435 flights in database.
+[INFO ] 2023-01-09 13:47:23.981 [Thread-103] WebScrape - File RZE_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 13:47:23.981 [Thread-102] WebScrape - File RZE_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 13:47:31.391 [Thread-103] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/departures'.
+[INFO ] 2023-01-09 13:47:31.422 [Thread-102] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/arrivals'.
+[INFO ] 2023-01-09 13:47:46.746 [Thread-102] WebScrape - Excel file 'RZE_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:47:46.746 [Thread-102] WebScrape - Added 4 new flights to RZE airport Arrivals database.
+[INFO ] 2023-01-09 13:47:46.746 [Thread-102] WebScrape - Currently there are 18 flights in database.
+[INFO ] 2023-01-09 13:47:47.069 [Thread-103] WebScrape - Excel file 'RZE_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 13:47:47.069 [Thread-103] WebScrape - Added 5 new flights to RZE airport Departures database.
+[INFO ] 2023-01-09 13:47:47.069 [Thread-103] WebScrape - Currently there are 19 flights in database.
+[INFO ] 2023-01-09 13:47:47.070 [main] WebScrape - Data for all airports updated successfully.
+[INFO ] 2023-01-09 13:47:47.070 [main] WebScrape - Process took about 6 minutes and 18 seconds.
+[INFO ] 2023-01-09 13:59:06.715 [Thread-1] WebScrape - File KRK_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 13:59:06.715 [Thread-0] WebScrape - File KRK_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 13:59:14.180 [Thread-0] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+[INFO ] 2023-01-09 13:59:16.041 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-09 14:00:01.452 [Thread-0] WebScrape - File KRK_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 14:00:01.452 [Thread-1] WebScrape - File KRK_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 14:00:09.218 [Thread-0] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+[INFO ] 2023-01-09 14:00:09.264 [Thread-1] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-09 14:00:51.585 [Thread-0] WebScrape - Excel file 'KRK_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 14:00:51.585 [Thread-0] WebScrape - Added 2 new flights to KRK airport Arrivals database.
+[INFO ] 2023-01-09 14:00:51.585 [Thread-0] WebScrape - Currently there are 191 flights in database.
+[INFO ] 2023-01-09 14:00:51.586 [Thread-0] WebScrape - [Ljava.lang.String;@1bca260a
+[INFO ] 2023-01-09 14:00:53.442 [Thread-1] WebScrape - Excel file 'KRK_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 14:00:53.443 [Thread-1] WebScrape - Added 3 new flights to KRK airport Departures database.
+[INFO ] 2023-01-09 14:00:53.443 [Thread-1] WebScrape - Currently there are 186 flights in database.
+[INFO ] 2023-01-09 14:00:53.443 [Thread-1] WebScrape - [Ljava.lang.String;@1bca260a
+[INFO ] 2023-01-09 14:00:53.458 [Thread-13] WebScrape - File BZG_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 14:00:53.458 [Thread-12] WebScrape - File BZG_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 14:01:00.575 [Thread-13] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+[INFO ] 2023-01-09 14:01:00.637 [Thread-12] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/arrivals'.
+[INFO ] 2023-01-09 14:01:15.472 [Thread-12] WebScrape - Excel file 'BZG_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-09 14:01:15.472 [Thread-12] WebScrape - Added 0 new flights to BZG airport Arrivals database.
+[INFO ] 2023-01-09 14:01:15.472 [Thread-12] WebScrape - Currently there are 8 flights in database.
+[INFO ] 2023-01-09 14:01:15.472 [Thread-12] WebScrape - [Ljava.lang.String;@1bca260a
+[INFO ] 2023-01-09 14:01:15.549 [Thread-13] WebScrape - Excel file 'BZG_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-09 14:01:15.549 [Thread-13] WebScrape - Added 0 new flights to BZG airport Departures database.
+[INFO ] 2023-01-09 14:01:15.549 [Thread-13] WebScrape - Currently there are 9 flights in database.
+[INFO ] 2023-01-09 14:01:15.549 [Thread-13] WebScrape - [Ljava.lang.String;@1bca260a
+[INFO ] 2023-01-09 14:01:15.575 [Thread-22] WebScrape - File GDN_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-09 14:01:15.576 [Thread-23] WebScrape - File GDN_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-09 14:01:22.489 [Thread-22] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/arrivals'.
+[INFO ] 2023-01-09 14:01:24.504 [Thread-23] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.

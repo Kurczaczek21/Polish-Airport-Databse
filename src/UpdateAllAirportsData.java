@@ -53,7 +53,7 @@ public class UpdateAllAirportsData {
             thread2.join();
         }
 
-        new AddNewDeparturesData().appendDeparturesFromAirport(airport1);
+//        new AddNewDeparturesData().appendDeparturesFromAirport(airport1);
 
         logger.info("Data for all airports updated successfully.");     // Tu zwraca co i jak czy git ktore byly :)
         long finish = System.currentTimeMillis();
