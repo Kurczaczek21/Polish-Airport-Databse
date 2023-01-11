@@ -15,7 +15,7 @@ public class ProgramGui {
         ImageIcon image = new ImageIcon("project_data/images/plane_2.png");
         frame.setIconImage(image.getImage());
         frame.setResizable(false);
-        frame.setSize(1308,800);        // za duze :(((
+        frame.setSize(1000,600);        //1308,800
         Color mainColor = Color.decode("#0174DF");     //#08298A
         frame.getContentPane().setBackground(mainColor);
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
