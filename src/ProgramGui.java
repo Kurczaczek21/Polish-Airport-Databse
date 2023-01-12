@@ -1,11 +1,23 @@
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import org.apache.logging.log4j.LogManager;     // term 0 -> 19:00 27 stycznia
+import org.apache.logging.log4j.Logger;         // term 1 -> 20:00 ??? 6 lutego
+import javax.swing.*;                           // term 2 -> 9:30 13 lutego
+import java.awt.*;                              // 16 stycznia 9:30 do 12 siedzi jak sa ludzie -> projekty
+import java.awt.event.ActionEvent;              // 23 stycznia -||-
+import java.awt.event.ActionListener;           // 25 stycznia 16:00 do 18:00 [termin 0]
+                                                // 30 stycznia 9:30 do 10:30
+                                                // 1 lutego 14:30 do 17 [termin 1 (2 lub 6 lutego)]
+// King Of Sat
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
+// jakie info tam mozna brac
+// klasa abstrakcyjna Web Pages
+// NIE MOZNA stworzyc instancji
+// trzeba zrobic konstruktor overload, protected
+// w dziedziczacaej tak, on dostaje URL jako obiekt lub Stringa i tworzy obiekt Webpages
+// metoda bezparam co zwraca ArrayListe satelitow
 
+// klasa Satelite
+// przechowuje info o satelitach
+//
 public class ProgramGui {
 
     private static final Logger logger= LogManager.getLogger(WebScrape.class);

@@ -6199,3 +6199,43 @@ Scheduled
 [INFO ] 2023-01-12 00:42:23.530 [Thread-103] WebScrape - Currently there are 42 flights in database.
 [INFO ] 2023-01-12 00:42:23.530 [main] WebScrape - Data for all airports updated successfully.
 [INFO ] 2023-01-12 00:42:23.530 [main] WebScrape - Process took about 5 minutes and 54 seconds.
+[INFO ] 2023-01-12 11:29:31.200 [main] WebScrape - Helloscreen created
+[INFO ] 2023-01-12 12:35:27.350 [main] WebScrape - File KRK_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-12 12:35:41.645 [main] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-12 12:36:23.505 [main] WebScrape - Excel file 'KRK_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-12 12:36:23.506 [main] WebScrape - Added 0 new flights to KRK airport Departures database.
+[INFO ] 2023-01-12 12:36:23.506 [main] WebScrape - Currently there are 270 flights in database.
+[INFO ] 2023-01-12 12:36:23.507 [main] WebScrape - Data for all airports updated successfully.
+[INFO ] 2023-01-12 12:36:23.511 [main] WebScrape - Process took about 0 minutes and 57 seconds.
+[INFO ] 2023-01-12 12:37:50.076 [main] WebScrape - File KRK_Arrivals.xlsx successfully opened.
+[INFO ] 2023-01-12 12:38:03.340 [main] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+[INFO ] 2023-01-12 12:38:39.895 [main] WebScrape - Excel file 'KRK_Arrivals.xlsx' updated successfully.
+[INFO ] 2023-01-12 12:38:39.896 [main] WebScrape - Added 14 new flights to KRK airport Arrivals database.
+[INFO ] 2023-01-12 12:38:39.896 [main] WebScrape - Currently there are 350 flights in database.
+[INFO ] 2023-01-12 12:38:39.896 [main] WebScrape - Data for all airports updated successfully.
+[INFO ] 2023-01-12 12:38:39.897 [main] WebScrape - Process took about 0 minutes and 50 seconds.
+[INFO ] 2023-01-12 12:41:18.788 [main] WebScrape - File KRK_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-12 12:41:30.297 [main] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+[INFO ] 2023-01-12 12:42:11.859 [main] WebScrape - Excel file 'KRK_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-12 12:42:11.860 [main] WebScrape - Added 0 new flights to KRK airport Departures database.
+[INFO ] 2023-01-12 12:42:11.860 [main] WebScrape - Currently there are 270 flights in database.
+[INFO ] 2023-01-12 12:42:11.861 [main] WebScrape - Data for all airports updated successfully.
+[INFO ] 2023-01-12 12:42:11.866 [main] WebScrape - Process took about 0 minutes and 53 seconds.
+[INFO ] 2023-01-12 12:46:27.274 [main] WebScrape - File BZG_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-12 12:46:39.644 [main] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+[INFO ] 2023-01-12 12:49:47.059 [main] WebScrape - File GDN_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-12 12:49:59.641 [main] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+[INFO ] 2023-01-12 12:50:50.565 [main] WebScrape - File GDN_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-12 12:51:02.223 [main] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+[INFO ] 2023-01-12 12:51:34.163 [main] WebScrape - Excel file 'GDN_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-12 12:51:34.164 [main] WebScrape - Added 0 new flights to GDN airport Departures database.
+[INFO ] 2023-01-12 12:51:34.164 [main] WebScrape - Currently there are 141 flights in database.
+[INFO ] 2023-01-12 12:51:34.164 [main] WebScrape - Data for all airports updated successfully.
+[INFO ] 2023-01-12 12:51:34.169 [main] WebScrape - Process took about 0 minutes and 44 seconds.
+[INFO ] 2023-01-12 12:52:27.067 [main] WebScrape - File GDN_Departures.xlsxsuccessfully opened.
+[INFO ] 2023-01-12 12:52:41.314 [main] WebScrape - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+[INFO ] 2023-01-12 12:53:13.461 [main] WebScrape - Excel file 'GDN_Departures.xlsx' updated successfully.
+[INFO ] 2023-01-12 12:53:13.462 [main] WebScrape - Added 0 new flights to GDN airport Departures database.
+[INFO ] 2023-01-12 12:53:13.462 [main] WebScrape - Currently there are 141 flights in database.
+[INFO ] 2023-01-12 12:53:13.462 [main] WebScrape - Data for all airports updated successfully.
+[INFO ] 2023-01-12 12:53:13.466 [main] WebScrape - Process took about 0 minutes and 47 seconds.
