@@ -17,7 +17,7 @@ public class WebScrape {
     public List<String> getData(String url) throws Exception {
         List<String> output = new ArrayList<>();
 
-        WebDriver driver = new FirefoxDriver( new FirefoxOptions().addPreference("general.useragent.override","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.170").addArguments("--headless").setLogLevel(FirefoxDriverLogLevel.FATAL)); //.addArguments("--log-level=3")
+        WebDriver driver = new FirefoxDriver( new FirefoxOptions().addPreference("general.useragent.override","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36 OPR/60.0.3255.170").addArguments("--headless")); //.addArguments("--log-level=3")
         driver.get(url);
         Thread.sleep(4000);
         logger.info("Downloading data from website: '"+url+"'.");
