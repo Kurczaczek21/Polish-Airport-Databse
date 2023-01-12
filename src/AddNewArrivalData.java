@@ -68,7 +68,6 @@ public class AddNewArrivalData {
                 if (ele.contains(item) && !found && date.equals(lastDate)) {
                     check++;
                 } else if (item.equals("UNKNOWN")) {
-                    logger.error("UNKNOWN DATA !!!!");          // SCCC
                     check++;
                 }
             }
