@@ -46,15 +46,15 @@ public class UpdateAllAirportsData {
                     }
                 }
             };
-//            thread1.start();
-//            thread2.start();
+            thread1.start();
+            thread2.start();
 //
-//            thread1.join();
-//            thread2.join();
+            thread1.join();
+            thread2.join();
         }
 
-//        new AddNewArrivalData().appendArrivalsFromAirport("KRK");
-        new AddNewDeparturesData().appendDeparturesFromAirport("GDN");
+//        new AddNewArrivalData().appendArrivalsFromAirport("POZ");
+//        new AddNewDeparturesData().appendDeparturesFromAirport("GDN");
 
         logger.info("Data for all airports updated successfully.");     // Tu zwraca co i jak czy git ktore byly :)
         long finish = System.currentTimeMillis();

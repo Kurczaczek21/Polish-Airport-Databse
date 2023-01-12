@@ -67,10 +67,14 @@ public class AddNewArrivalData {
             for (String item : lastRowArray) {
                 if (ele.contains(item) && !found && date.equals(lastDate)) {
                     check++;
+                } else if (item.equals("UNKNOWN")) {
+                    logger.error("UNKNOWN DATA !!!!");          // SCCC
+                    check++;
                 }
             }
             if(check==lastRowArray.length){
                 found = true;
+                logger.error("Founded last flight in database.");       //sssssssssssss
                 continue;
             }
             if(!found){
@@ -171,6 +175,113 @@ public class AddNewArrivalData {
                 }
             }
             index += 1;
+        }
+
+        if(!found){
+            logger.error("Flight not in database, aadding all");
+            for (String ele : mainData) {
+                if (ele.contains(",")) {
+                    date = ele;
+                    continue;
+                }
+                if (ele.contains("Delayed")){continue;}
+
+
+                String[] lines = ele.split("\\r?\\n"); // Arrays.toString(lines)
+                String[] flightData;
+                String[] airportData;
+                String[] planeData;
+                if (lines.length == 4) {
+                    flightData = lines[0].split(" ");  // 0-> H , +" "+ 1-> AM/PM , 2-> flight number
+                    airportData = lines[1].split(" "); // 0 -> airport, 1-> shortname
+                    planeData = lines[2].split(" "); // 0-> airlines, 1-> model, 2-> tag !!!!!  2 od konca to model, ostatnie to ID
+                } else {
+                    flightData = (lines[0] + " " + lines[1]).split(" ");
+                    airportData = lines[2].split(" ");
+                    planeData = lines[3].split(" ");
+                }
+                if(planeData[0].equals("-") || !planeData[planeData.length-1].contains("(") ){
+                    continue;
+                }
+
+                Row row = sheet.createRow(index + 1);
+                for (int j = 0; j <= 12; j++) {
+
+                    Cell cell = row.createCell(j);
+                    if (cell.getColumnIndex() == 0) {
+                        cell.setCellValue(index + 1);
+                    } else if (cell.getColumnIndex() == 1) {
+                        cell.setCellValue(date);
+                    } else if (cell.getColumnIndex() == 2) {
+                        cell.setCellValue(flightData[0] + " " + flightData[1]);
+                        differenceTime1=flightData[0] + " " + flightData[1];
+                    } else if (cell.getColumnIndex() == 3) {
+                        if(flightData.length==2){
+                            cell.setCellValue("UNKNOWN");
+                        }else {
+                            cell.setCellValue(flightData[2]);
+                        }
+                    } else if (cell.getColumnIndex() == 4) {
+                        if(airportData.length ==2) {
+                            cell.setCellValue(airportData[0]);
+                        }else {
+                            cell.setCellValue(airportData[0]+" "+ airportData[1]);
+                        }
+                    } else if (cell.getColumnIndex() == 5) {
+                        cell.setCellValue(airportData[airportData.length-1]);
+                    } else if (cell.getColumnIndex() == 6) {
+                        String aircraft ="";
+                        for (int z = 0; z < planeData.length - 2; z++) {
+                            aircraft += planeData[z] + " ";
+                        }
+                        cell.setCellValue(aircraft);
+                    } else if (cell.getColumnIndex() == 7) {
+                        cell.setCellValue(planeData[planeData.length - 2]);
+                    } else if (cell.getColumnIndex() == 8) {
+                        cell.setCellValue(planeData[planeData.length - 1]);
+                    } else if (cell.getColumnIndex() == 9) {
+                        if (lines.length == 4) {
+                            if(lines[3].contains(":")) {
+                                cell.setCellValue(lines[3].replace("Landed ",""));
+                                differenceTime2=lines[3].replace("Landed ","");
+                                landed=true;
+                            }else {
+                                cell.setCellValue(lines[3]);
+                                landed=false;
+                            }
+                        } else {
+                            if(lines[4].contains(":")) {
+                                cell.setCellValue(lines[4].replace("Landed ",""));
+                                differenceTime2=lines[4].replace("Landed ","");
+                                landed=true;
+                            }else {
+                                cell.setCellValue(lines[4]);
+                                landed=false;
+                            }
+                        }
+                    }else if (cell.getColumnIndex() == 11) {
+                        if (landed) {
+                            d1 = formatTime.parse(differenceTime1);
+                            d2 = formatTime.parse(differenceTime2);
+                            long diff = d2.getTime() - d1.getTime();
+
+                            long diffMinutes = diff / (60 * 1000) % 60;
+                            long diffHours = diff / (60 * 60 * 1000) % 24;
+                            if (diffHours > 12 || diffHours < (-12)) {
+                                d1 = formatTimeDay.parse("10/05/2022 " + differenceTime1);
+                                d2 = formatTimeDay.parse("11/05/2022 " + differenceTime2);
+                                diff = d2.getTime() - d1.getTime();
+
+                                diffMinutes = diff / (60 * 1000) % 60;
+                                diffHours = diff / (60 * 60 * 1000) % 24;
+                            }
+                            cell.setCellValue(diffHours + " hours, " + diffMinutes + " minutes");
+
+                        }
+                    }
+                }
+                index += 1;
+            }
         }
 
         try (FileOutputStream outputStream = new FileOutputStream("DataBase\\"+airportName+"_Arrivals.xlsx")) {
