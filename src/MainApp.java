@@ -12,7 +12,7 @@ public class MainApp {
     CardLayout cl = new CardLayout();
 
     public MainApp() {
-        Color mainColor = Color.decode("#0174DF");     //#08298A
+        Color mainColor = Color.decode("#5CB3FF");     //#08298A #0174DF
         panelCont.setLayout(cl);
 
         JPanel helloPanel = new JPanel();
@@ -149,6 +149,7 @@ public class MainApp {
         selectAll.setBounds(700,350,200,50);
         selectAll.setFocusable(false);
         selectAll.setFont(new Font("SansSerif", Font.BOLD, 16));
+        selectAll.setBackground(Color.GREEN);
 
         JButton b3 = new JButton("Back");
         b3.setBounds(200,450,200,50);
