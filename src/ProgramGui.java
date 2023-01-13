@@ -1,10 +1,11 @@
-import org.apache.logging.log4j.LogManager;     // term 0 -> 19:00 27 stycznia
-import org.apache.logging.log4j.Logger;         // term 1 -> 20:00 ??? 6 lutego
+    // term 0 -> 19:00 27 stycznia
+        // term 1 -> 20:00 ??? 6 lutego
 import javax.swing.*;                           // term 2 -> 9:30 13 lutego
 import java.awt.*;                              // 16 stycznia 9:30 do 12 siedzi jak sa ludzie -> projekty
 import java.awt.event.ActionEvent;              // 23 stycznia -||-
 import java.awt.event.ActionListener;           // 25 stycznia 16:00 do 18:00 [termin 0]
-                                                // 30 stycznia 9:30 do 10:30
+import org.apache.log4j.Logger;
+    // 30 stycznia 9:30 do 10:30
                                                 // 1 lutego 14:30 do 17 [termin 1 (2 lub 6 lutego)]
 // King Of Sat
 
@@ -20,7 +21,7 @@ import java.awt.event.ActionListener;           // 25 stycznia 16:00 do 18:00 [t
 //
 public class ProgramGui {
 
-    private static final Logger logger= LogManager.getLogger(WebScrape.class);
+    private static final Logger logger = Logger.getLogger(ProgramGui.class);
     final static String HELLOSCREEN= "Card with hello screen message";
     final static String CHOOSEDATA= "Card with boxes to download data";
     public static void main(String[] args) throws Exception {

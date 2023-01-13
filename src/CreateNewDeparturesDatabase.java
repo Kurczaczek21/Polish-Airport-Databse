@@ -1,5 +1,4 @@
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import org.apache.log4j.Logger;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
@@ -13,7 +12,7 @@ import java.util.List;
 
 public class CreateNewDeparturesDatabase {
 
-    private static final Logger logger= LogManager.getLogger(WebScrape.class);
+    private static final Logger logger= Logger.getLogger(CreateNewDeparturesDatabase.class);
 
     public void appendDeparturesFromAirport(String airportName) throws Exception {
 

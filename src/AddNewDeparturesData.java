@@ -5,8 +5,7 @@ import java.nio.file.FileAlreadyExistsException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import org.apache.log4j.Logger;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
@@ -14,7 +13,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class AddNewDeparturesData {
 
-    private static final Logger logger= LogManager.getLogger(WebScrape.class);
+    private static final Logger logger= Logger.getLogger(AddNewDeparturesData.class);
 
     public void appendDeparturesFromAirport(String airportName) throws Exception {
         XSSFWorkbook workbook = null;

@@ -1,5 +1,4 @@
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import org.apache.log4j.Logger;
 import org.openqa.selenium.*;
 import org.openqa.selenium.bidi.log.JavascriptLogEntry;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -12,7 +11,7 @@ import java.util.List;
 import java.util.function.Function;
 
 public class WebScrape {
-    private static final Logger logger= LogManager.getLogger(WebScrape.class);
+    private static final Logger logger= Logger.getLogger(WebScrape.class);
 
     public List<String> getData(String url) throws Exception {
         List<String> output = new ArrayList<>();

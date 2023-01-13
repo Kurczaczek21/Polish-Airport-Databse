@@ -2,8 +2,10 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import org.apache.log4j.Logger;
 
 public class MainApp {
+    private static final Logger logger = Logger.getLogger(MainApp.class);
     JFrame frame = new JFrame("CardLayout demo");
     JPanel panelCont = new JPanel();
     JPanel panelFirst = new JPanel();
@@ -16,15 +18,10 @@ public class MainApp {
         Color mainColor = Color.decode("#0174DF");     //#08298A
         panelCont.setLayout(cl);
 
-        panelFirst.add(buttonOne);
-        panelSecond.add(buttonSecond);
-        panelFirst.setBackground(Color.BLUE);
-        panelSecond.setBackground(Color.GREEN);
-
-        JPanel topPanel = new JPanel();
-        topPanel.setBounds(0,0,1000,600);
-        topPanel.setBackground(mainColor);
-        topPanel.setLayout(null);
+        JPanel helloPanel = new JPanel();
+        helloPanel.setBounds(0,0,1000,600);
+        helloPanel.setBackground(mainColor);
+        helloPanel.setLayout(null);
 
         JLabel txtLabel = new JLabel();
         txtLabel.setText("Welcome to polish airports database");
@@ -56,11 +53,11 @@ public class MainApp {
         buttonLaabel.add(b1);
         buttonLaabel.add(b2);
 
-        topPanel.add(txtLabel);
-        topPanel.add(label);
-        topPanel.add(txtLabel2);
-        topPanel.add(txtLabel2);
-        topPanel.add(buttonLaabel);
+        helloPanel.add(txtLabel);
+        helloPanel.add(label);
+        helloPanel.add(txtLabel2);
+        helloPanel.add(txtLabel2);
+        helloPanel.add(buttonLaabel);
 
         txtLabel.setLocation(90,0);
         txtLabel.setSize(1000,60);
@@ -74,10 +71,41 @@ public class MainApp {
         buttonLaabel.setLocation(0,460);
         buttonLaabel.setSize(1000,100);
 
+        // Panel for downloading selected data via checkboxes
+
+        JPanel selectionPanel = new JPanel();
+        selectionPanel.setBounds(0,0,1000,600);
+        selectionPanel.setBackground(mainColor);
+        selectionPanel.setLayout(null);
+
+        JLabel txtLabel3 = new JLabel("Select airports to update:");
+        txtLabel3.setFont(new Font("Impact", Font.BOLD, 50));
+
+        JCheckBox checkBox = new JCheckBox();
+        checkBox.setText("Krakow");
+        checkBox.setBounds(750,40,200,50);
+        checkBox.setFocusable(false);
+        checkBox.setFont(new Font("SansSerif", Font.PLAIN, 16));
+
+        JLabel boxLabel = new JLabel();
+        boxLabel.add(checkBox);
 
 
-        panelCont.add(topPanel, "1");
-        panelCont.add(panelSecond, "2");
+        selectionPanel.add(txtLabel3);
+//        selectionPanel.add(buttonSecond);
+        selectionPanel.add(boxLabel);
+
+        txtLabel3.setLocation(90,0);
+        txtLabel3.setSize(1000,60);
+
+        boxLabel.setLocation(-300,60);
+        boxLabel.setSize(1000,200);
+
+        buttonSecond.setLocation(300,400);
+
+
+        panelCont.add(helloPanel, "1");
+        panelCont.add(selectionPanel, "2");
         cl.show(panelCont, "1");
 
         b2.addActionListener(new ActionListener() {
@@ -94,17 +122,17 @@ public class MainApp {
             }
         });
 
+
+
         frame.add(panelCont);
-//        frame.getContentPane().setBackground(mainColor);
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
         double width = screenSize.getWidth()/2;
         double height = screenSize.getHeight()/2;
-        System.out.println(width);
-        System.out.println(height);
         frame.setLocation(300,200);
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         frame.pack();
         frame.setSize(1000,600);
+        logger.info("Created gui");
         frame.setVisible(true);
 
     }
