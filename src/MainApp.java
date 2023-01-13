@@ -22,29 +22,22 @@ public class MainApp {
         panelSecond.setBackground(Color.GREEN);
 
         JPanel topPanel = new JPanel();
-        topPanel.setBackground(mainColor);
         topPanel.setBounds(0,0,1000,600);
+        topPanel.setBackground(mainColor);
+        topPanel.setLayout(null);
 
         JLabel txtLabel = new JLabel();
         txtLabel.setText("Welcome to polish airports database");
         txtLabel.setFont(new Font("Impact", Font.BOLD, 50));     // SansSerif
-        txtLabel.setHorizontalTextPosition(SwingConstants.CENTER);
 
         JLabel label = new JLabel();
         ImageIcon image2 = new ImageIcon("project_data/images/krkairp.jpg");
-        Image img = image2.getImage();
-        Image imgScaled = img.getScaledInstance(image2.getIconWidth(),image2.getIconHeight(),Image.SCALE_SMOOTH);
-        ImageIcon image3 = new ImageIcon(imgScaled);
-        label.setIcon(image3);
-        label.setHorizontalTextPosition(SwingConstants.CENTER);
-        label.setVerticalTextPosition(SwingConstants.CENTER);
-        label.setHorizontalAlignment(JLabel.CENTER);          //  TODO: add log4j
-
-
+        label.setIcon(image2);
 
         JLabel txtLabel2 = new JLabel("Select startup option:");
         txtLabel2.setFont(new Font("SansSerif", Font.BOLD, 25));
-        txtLabel2.setBounds(370,0,260,30);
+
+
         JButton b = new JButton("Update specific airports");
         b.setBounds(50,40,200,50);
         b.setFocusable(false);
@@ -57,20 +50,37 @@ public class MainApp {
         b2.setBounds(750,40,200,50);
         b2.setFocusable(false);
         b2.setFont(new Font("SansSerif", Font.PLAIN, 16));
-        topPanel.setLayout( new BorderLayout());
+
+        JLabel buttonLaabel = new JLabel();
+        buttonLaabel.add(b);
+        buttonLaabel.add(b1);
+        buttonLaabel.add(b2);
 
         topPanel.add(txtLabel);
         topPanel.add(label);
         topPanel.add(txtLabel2);
-        topPanel.add(b);
-        topPanel.add(b1);
-        topPanel.add(b2);
+        topPanel.add(txtLabel2);
+        topPanel.add(buttonLaabel);
+
+        txtLabel.setLocation(90,0);
+        txtLabel.setSize(1000,60);
+
+        label.setLocation(90,60);
+        label.setSize(900,400);
+
+        txtLabel2.setLocation(370,425);
+        txtLabel2.setSize(1000,100);
+
+        buttonLaabel.setLocation(0,460);
+        buttonLaabel.setSize(1000,100);
+
+
 
         panelCont.add(topPanel, "1");
         panelCont.add(panelSecond, "2");
         cl.show(panelCont, "1");
 
-        buttonOne.addActionListener(new ActionListener() {
+        b2.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent arg0) {
                 cl.show(panelCont, "2");
@@ -85,8 +95,16 @@ public class MainApp {
         });
 
         frame.add(panelCont);
-        frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+//        frame.getContentPane().setBackground(mainColor);
+        Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
+        double width = screenSize.getWidth()/2;
+        double height = screenSize.getHeight()/2;
+        System.out.println(width);
+        System.out.println(height);
+        frame.setLocation(300,200);
+        frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         frame.pack();
+        frame.setSize(1000,600);
         frame.setVisible(true);
 
     }
