@@ -6,16 +6,16 @@ public class UpdateAllAirportsData {
 
         long start = System.currentTimeMillis();
 
-        String airport1 = "KRK";
+        String airport1 = "KRK";//
         String airport2 = "BZG";
         String airport3 = "GDN";
-        String airport4 = "KTW";
+        String airport4 = "KTW";//
         String airport5 = "LCJ";     // lodz
         String airport6 = "LUZ";     // Lublin
         String airport7 = "SZY";     // Szymany - Olsztyn
         String airport8 = "POZ";
         String airport9 = "WMI";     // Warsaw Modlin
-        String airport10 = "WAW";
+        String airport10 = "WAW";//
         String airport11 = "RZE";
 
         String[] airports ={"KRK","BZG","GDN","KTW","LCJ","LUZ","SZY","POZ","WMI","WAW","RZE"};
