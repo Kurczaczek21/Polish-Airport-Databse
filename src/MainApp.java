@@ -208,103 +208,103 @@ public class MainApp {
         BufferedImage myPicture = ImageIO.read(new File("project_data/images/polska4.png"));
         JLabel picLabel = new JLabel(new ImageIcon(myPicture));
 
-        JButton b1 = new JButton(); //KRK
-        b1.setBounds(270,395,20,20);
-        b1.setFocusable(false);
-        b1.setFont(new Font("SansSerif", Font.PLAIN, 16));
-        b1.setBackground(Color.RED);
+        JButton krakow = new JButton(); //KRK
+        krakow.setBounds(270,395,20,20);
+        krakow.setFocusable(false);
+        krakow.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        krakow.setBackground(Color.RED);
 
-        JButton b2 = new JButton(); //kat
-        b2.setBounds(220,375,20,20);
-        b2.setFocusable(false);
-        b2.setFont(new Font("SansSerif", Font.PLAIN, 16));
-        b2.setBackground(Color.RED);
+        JButton katowice = new JButton(); //kat
+        katowice.setBounds(220,375,20,20);
+        katowice.setFocusable(false);
+        katowice.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        katowice.setBackground(Color.RED);
 
-        JButton b3 = new JButton(); // rzeszow
-        b3.setBounds(375,400,20,20);
-        b3.setFocusable(false);
-        b3.setFont(new Font("SansSerif", Font.PLAIN, 16));
-        b3.setBackground(Color.RED);
+        JButton rzeszow = new JButton(); // rzeszow
+        rzeszow.setBounds(375,400,20,20);
+        rzeszow.setFocusable(false);
+        rzeszow.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        rzeszow.setBackground(Color.RED);
 
-        JButton b4 = new JButton(); // lublin
-        b4.setBounds(395,305,20,20);
-        b4.setFocusable(false);
-        b4.setFont(new Font("SansSerif", Font.PLAIN, 16));
-        b4.setBackground(Color.RED);
+        JButton lublin = new JButton(); // lublin
+        lublin.setBounds(395,305,20,20);
+        lublin.setFocusable(false);
+        lublin.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        lublin.setBackground(Color.RED);
 
-        JButton b5 = new JButton(); // lodz
-        b5.setBounds(250,265,20,20);
-        b5.setFocusable(false);
-        b5.setFont(new Font("SansSerif", Font.PLAIN, 16));
-        b5.setBackground(Color.RED);
+        JButton lodz = new JButton(); // lodz
+        lodz.setBounds(250,265,20,20);
+        lodz.setFocusable(false);
+        lodz.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        lodz.setBackground(Color.RED);
 
-        JButton b6 = new JButton(); // waw
-        b6.setBounds(332,222,20,20);
-        b6.setFocusable(false);
-        b6.setFont(new Font("SansSerif", Font.PLAIN, 16));
-        b6.setBackground(Color.RED);
+        JButton warszawa = new JButton(); // waw
+        warszawa.setBounds(332,222,20,20);
+        warszawa.setFocusable(false);
+        warszawa.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        warszawa.setBackground(Color.RED);
 
-        JButton b7 = new JButton(); // modlin
-        b7.setBounds(300,190,20,20);
-        b7.setFocusable(false);
-        b7.setFont(new Font("SansSerif", Font.PLAIN, 16));
-        b7.setBackground(Color.RED);
+        JButton modlin = new JButton(); // modlin
+        modlin.setBounds(300,190,20,20);
+        modlin.setFocusable(false);
+        modlin.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        modlin.setBackground(Color.RED);
 
-        JButton b8 = new JButton(); // poznan
-        b8.setBounds(120,210,20,20);
-        b8.setFocusable(false);
-        b8.setFont(new Font("SansSerif", Font.PLAIN, 16));
-        b8.setBackground(Color.RED);
+        JButton poznan = new JButton(); // poznan
+        poznan.setBounds(120,210,20,20);
+        poznan.setFocusable(false);
+        poznan.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        poznan.setBackground(Color.RED);
 
-        JButton b9 = new JButton(); // bydgoszcz
-        b9.setBounds(195,150,20,20);
-        b9.setFocusable(false);
-        b9.setFont(new Font("SansSerif", Font.PLAIN, 16));
-        b9.setBackground(Color.RED);
+        JButton bydgoszcz = new JButton(); // bydgoszcz
+        bydgoszcz.setBounds(195,150,20,20);
+        bydgoszcz.setFocusable(false);
+        bydgoszcz.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        bydgoszcz.setBackground(Color.RED);
 
-        JButton b10 = new JButton(); // olsztyn
-        b10.setBounds(315,90,20,20);
-        b10.setFocusable(false);
-        b10.setFont(new Font("SansSerif", Font.PLAIN, 16));
-        b10.setBackground(Color.RED);
+        JButton olsztyn = new JButton(); // olsztyn
+        olsztyn.setBounds(315,90,20,20);
+        olsztyn.setFocusable(false);
+        olsztyn.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        olsztyn.setBackground(Color.RED);
 
-        JButton b11 = new JButton(); // olsztyn
-        b11.setBounds(215,40,20,20);
-        b11.setFocusable(false);
-        b11.setFont(new Font("SansSerif", Font.PLAIN, 16));
-        b11.setBackground(Color.RED);
+        JButton gdansk = new JButton(); // gdn
+        gdansk.setBounds(215,40,20,20);
+        gdansk.setFocusable(false);
+        gdansk.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        gdansk.setBackground(Color.RED);
 
-        picLabel.add(b1);
-        picLabel.add(b2);
-        picLabel.add(b3);
-        picLabel.add(b4);
-        picLabel.add(b5);
-        picLabel.add(b6);
-        picLabel.add(b7);
-        picLabel.add(b8);
-        picLabel.add(b9);
-        picLabel.add(b10);
-        picLabel.add(b11);
+        picLabel.add(krakow);
+        picLabel.add(katowice);
+        picLabel.add(rzeszow);
+        picLabel.add(lublin);
+        picLabel.add(lodz);
+        picLabel.add(warszawa);
+        picLabel.add(modlin);
+        picLabel.add(poznan);
+        picLabel.add(bydgoszcz);
+        picLabel.add(olsztyn);
+        picLabel.add(gdansk);
 
         JLabel menuLabel = new JLabel();
 
-        JButton airportsDep = new JButton("PLOT  Departures - airport graph"); // plot lotniska od liczby przylotow
-        airportsDep.setBounds(60,70,380,60);
-        airportsDep.setFocusable(false);
-        airportsDep.setFont(new Font("SansSerif", Font.PLAIN, 22));
+        JButton airportsArrivals = new JButton("Average daily arrivals by airport"); // plot lotniska od liczby przylotow
+        airportsArrivals.setBounds(60,70,380,60);
+        airportsArrivals.setFocusable(false);
+        airportsArrivals.setFont(new Font("SansSerif", Font.PLAIN, 22));
 
-        JButton airportsArr = new JButton("PLOT  Arrivals - airport graph"); // plot lotniska od liczby przylotow
-        airportsArr.setBounds(60,220,380,60);
-        airportsArr.setFocusable(false);
-        airportsArr.setFont(new Font("SansSerif", Font.PLAIN, 22));
+        JButton airportsDepartures = new JButton("Average daily departures by airport"); // plot lotniska od liczby przylotow
+        airportsDepartures.setBounds(60,220,380,60);
+        airportsDepartures.setFocusable(false);
+        airportsDepartures.setFont(new Font("SansSerif", Font.PLAIN, 22));
 
         JButton backButt2 = new JButton("Back");
         backButt2.setBounds(180,370,140,60);
         backButt2.setFocusable(false);
         backButt2.setFont(new Font("SansSerif", Font.PLAIN, 22));
 
-        menuLabel.add(airportsDep);
-        menuLabel.add(airportsArr);
+        menuLabel.add(airportsArrivals);
+        menuLabel.add(airportsDepartures);
         menuLabel.add(backButt2);
 
 
@@ -327,7 +327,7 @@ public class MainApp {
         airportPanel.setBackground(mainColor);
         airportPanel.setLayout(null);
 
-        JLabel txtLabel5 = new JLabel("Krakow - KRK");    // PO KLIKNIECIU ZMIEN  choosenAirport
+        JLabel txtLabel5 = new JLabel(choosenAirport);
         txtLabel5.setFont(new Font("Impact", Font.BOLD, 40));
 
         JLabel txtLabel6 = new JLabel("Select graph options");
@@ -579,6 +579,106 @@ public class MainApp {
             }
         });
 
+        // MAP BUTTONS
+
+        krakow.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                choosenAirport="KRK";
+                txtLabel5.setText("KRAKOW - KRK");
+                cl.show(panelCont, "4");
+            }
+        });
+
+        katowice.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                choosenAirport="KTW";
+                txtLabel5.setText("KATOWICE - KTW");
+                cl.show(panelCont, "4");
+            }
+        });
+
+        rzeszow.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                choosenAirport="RZE";
+                txtLabel5.setText("RZESZOW - RZE");
+                cl.show(panelCont, "4");
+            }
+        });
+
+        lublin.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                choosenAirport="LUZ";
+                txtLabel5.setText("LUBLIN - LUZ");
+                cl.show(panelCont, "4");
+            }
+        });
+
+        lodz.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                choosenAirport="LCJ";
+                txtLabel5.setText("LODZ - LCJ");
+                cl.show(panelCont, "4");
+            }
+        });
+
+        warszawa.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                choosenAirport="WAW";
+                txtLabel5.setText("WARSZAWA - WAW");
+                cl.show(panelCont, "4");
+            }
+        });
+
+        modlin.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                choosenAirport="WMI";
+                txtLabel5.setText("MODLIN - WMI");
+                cl.show(panelCont, "4");
+            }
+        });
+
+        poznan.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                choosenAirport="POZ";
+                txtLabel5.setText("POZNAN - POZ");
+                cl.show(panelCont, "4");
+            }
+        });
+
+        bydgoszcz.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                choosenAirport="BZG";
+                txtLabel5.setText("BYDGOSZCZ - BZG");
+                cl.show(panelCont, "4");
+            }
+        });
+
+        olsztyn.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                choosenAirport="SZY";
+                txtLabel5.setText("OLSZTYN - SZY");
+                cl.show(panelCont, "4");
+            }
+        });
+
+        gdansk.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                choosenAirport="GDN";
+                txtLabel5.setText("GDANSK - GDN");
+                cl.show(panelCont, "4");
+            }
+        });
 
         frame.add(panelCont);
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
