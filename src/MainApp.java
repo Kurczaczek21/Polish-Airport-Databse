@@ -2,6 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.ArrayList;
+
 import org.apache.log4j.Logger;
 
 public class MainApp {
@@ -41,7 +43,7 @@ public class MainApp {
         b1.setFocusable(false);
         b1.setFont(new Font("SansSerif", Font.PLAIN, 16));
         JButton b2 = new JButton("Update specific airports");
-        b2.setBounds(750,40,200,50);
+        b2.setBounds(750,40,210,50);
         b2.setFocusable(false);
         b2.setFont(new Font("SansSerif", Font.PLAIN, 16));
 
@@ -179,7 +181,6 @@ public class MainApp {
 
 
         selectionPanel.add(txtLabel3);
-//        selectionPanel.add(buttonSecond);
         selectionPanel.add(boxLabel);
 
         txtLabel3.setLocation(90,0);
@@ -197,7 +198,19 @@ public class MainApp {
         b.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent arg0) {
-                logger.info("Downloading data");
+
+                logger.info("Downloading all airports data.");
+                if(checkBox1.isSelected()){airportsToDownload.add("KRK");}
+                if (checkBox2.isSelected()) {airportsToDownload.add("WAW");}
+                if(checkBox3.isSelected()) {airportsToDownload.add("KTW");}
+                if(checkBox4.isSelected()){airportsToDownload.add("WMI");}
+                if(checkBox5.isSelected()){airportsToDownload.add("GDN");}
+                if(checkBox6.isSelected()){airportsToDownload.add("LUZ");}
+                if(checkBox7.isSelected()){airportsToDownload.add("BZG");}
+                if(checkBox8.isSelected()){airportsToDownload.add("LCJ");}
+                if(checkBox9.isSelected()){airportsToDownload.add("SZY");}
+                if(checkBox10.isSelected()){airportsToDownload.add("RZE");}
+                if(checkBox11.isSelected()){airportsToDownload.add("POZ");}
             }
         });
         b1.addActionListener(new ActionListener() {
@@ -224,23 +237,39 @@ public class MainApp {
         b4.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent arg0) {
+                ArrayList<String> airportsToDownload = new ArrayList<String>();
                 logger.info("Downloading SELECTED data");       // if selected || nic to nic nie pobieraj !
                                                                 // po kliku zmiana carda na pobieranie ...
                                                                 //  ; nowa klasa update airports i pobiera arrayliste stringow z nazwami, zwraca true po zakonczeniu i true zmienia carda na panela usera
                                                                 // i po wcisnieciu update [ktorykolwiek]
 
-                                                                // gdy offline internet to DISABLE buttony: pobierz 1 i pobierz 3 i ez ;)
-                System.out.println(checkBox1.getText()+" "+checkBox1.isSelected());
-                System.out.println(checkBox2.getText()+" "+checkBox2.isSelected());
-                System.out.println(checkBox3.getText()+" "+checkBox3.isSelected());
-                System.out.println(checkBox4.getText()+" "+checkBox4.isSelected());
-                System.out.println(checkBox5.getText()+" "+checkBox5.isSelected());
-                System.out.println(checkBox6.getText()+" "+checkBox6.isSelected());
-                System.out.println(checkBox7.getText()+" "+checkBox7.isSelected());
-                System.out.println(checkBox8.getText()+" "+checkBox8.isSelected());
-                System.out.println(checkBox9.getText()+" "+checkBox9.isSelected());
-                System.out.println(checkBox10.getText()+" "+checkBox10.isSelected());
-                System.out.println(checkBox11.getText()+" "+checkBox11.isSelected());
+                                                                //TODO gdy offline internet to DISABLE buttony: pobierz 1 i pobierz 3 i ez ;)
+                if(checkBox1.isSelected()){airportsToDownload.add("KRK");}
+                if (checkBox2.isSelected()) {airportsToDownload.add("WAW");}
+                if(checkBox3.isSelected()) {airportsToDownload.add("KTW");}
+                if(checkBox4.isSelected()){airportsToDownload.add("WMI");}
+                if(checkBox5.isSelected()){airportsToDownload.add("GDN");}
+                if(checkBox6.isSelected()){airportsToDownload.add("LUZ");}
+                if(checkBox7.isSelected()){airportsToDownload.add("BZG");}
+                if(checkBox8.isSelected()){airportsToDownload.add("LCJ");}
+                if(checkBox9.isSelected()){airportsToDownload.add("SZY");}
+                if(checkBox10.isSelected()){airportsToDownload.add("RZE");}
+                if(checkBox11.isSelected()){airportsToDownload.add("POZ");}
+
+                if(airportsToDownload.size()==0){
+                    logger.error("None of the airports selected.");
+                    String message = "Data selection error"
+                            + "None of the airports are selected.";
+                    JOptionPane.showMessageDialog(new JFrame(), message, "Error",
+                            JOptionPane.ERROR_MESSAGE);
+                }else {
+                    try {
+                        new UpdateAirports(airportsToDownload);
+                    } catch (Exception e) {
+                        logger.error("Data upload fail");
+                        throw new RuntimeException(e);
+                    }
+                }
             }
         });
 

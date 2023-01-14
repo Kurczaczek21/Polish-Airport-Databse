@@ -1,4 +1,7 @@
 import org.apache.log4j.Logger;
+
+import java.util.ArrayList;
+
 public class UpdateAllAirportsData {
     private static final Logger logger = Logger.getLogger(UpdateAllAirportsData.class);
 
@@ -18,14 +21,18 @@ public class UpdateAllAirportsData {
         String airport10 = "WAW";//
         String airport11 = "RZE";
 
+        ArrayList<String> air = new ArrayList<String>();
+        air.add("KRK");
+//        air = {"KRK","BZG","GDN","KTW","LCJ","LUZ","SZY","POZ","WMI","WAW","RZE"};
         String[] airports ={"KRK","BZG","GDN","KTW","LCJ","LUZ","SZY","POZ","WMI","WAW","RZE"};
 
         for(String airport:airports){
             Thread thread1 = new Thread() {
                 public void run() {
                     try {
+                        System.out.println(airport);
 //                    new CreateNewArrivalsDatabase().createArrivalsFromAirport(airport);
-                        new AddNewArrivalData().appendArrivalsFromAirport(airport);
+//                        new AddNewArrivalData().appendArrivalsFromAirport(airport);
                     } catch (Exception e) {
                         logger.info(airport+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in arr");
                         throw new RuntimeException(e);
@@ -37,7 +44,8 @@ public class UpdateAllAirportsData {
                 public void run() {
                     try {
 //                    new CreateNewDeparturesDatabase().appendDeparturesFromAirport(airport);
-                        new AddNewDeparturesData().appendDeparturesFromAirport(airport);
+//                        new AddNewDeparturesData().appendDeparturesFromAirport(airport);
+                        System.out.println(airport);
                     } catch (Exception e) {
                         logger.info(airport+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in dep");
                         throw new RuntimeException(e);
