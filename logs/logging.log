@@ -7915,3 +7915,307 @@ Scheduled
 2023-01-14 13:48:04 ERROR MainApp:297 - None of the airports selected.
 2023-01-14 13:48:06 INFO  MainApp:278 - Downloading SELECTED data
 2023-01-14 13:48:06 ERROR MainApp:297 - None of the airports selected.
+2023-01-14 17:41:19 INFO  MainApp:357 - Created gui
+2023-01-14 17:41:20 INFO  MainApp:224 - Downloading all airports data.
+2023-01-14 17:41:24 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 17:41:24 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 17:41:31 INFO  MainApp:278 - Downloading SELECTED data
+2023-01-14 17:41:35 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 17:41:35 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 17:41:47 INFO  MainApp:278 - Downloading SELECTED data
+2023-01-14 17:41:51 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 17:41:51 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 17:46:24 INFO  MainApp:357 - Created gui
+2023-01-14 17:46:29 INFO  MainApp:278 - Downloading SELECTED data
+2023-01-14 17:46:33 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 17:46:33 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 17:48:27 INFO  MainApp:357 - Created gui
+2023-01-14 17:48:35 INFO  MainApp:224 - Downloading all airports data.
+2023-01-14 17:48:39 INFO  UpdateAllAirportsData:18 - downloading Arrival data for KRK
+2023-01-14 17:48:39 INFO  UpdateAllAirportsData:30 - downloading Departure data for KRK
+2023-01-14 17:48:40 INFO  AddNewArrivalData:23 - File KRK_Arrivals.xlsx successfully opened.
+2023-01-14 17:48:40 INFO  AddNewDeparturesData:22 - File KRK_Departures.xlsxsuccessfully opened.
+2023-01-14 17:48:47 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+2023-01-14 17:48:47 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+2023-01-14 17:49:29 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-14 17:49:29 INFO  AddNewArrivalData:288 - Excel file 'KRK_Arrivals.xlsx' updated successfully.
+2023-01-14 17:49:29 INFO  AddNewArrivalData:289 - Added 16 new flights to KRK airport Arrivals database.
+2023-01-14 17:49:29 INFO  AddNewArrivalData:290 - Currently there are 504 flights in database.
+2023-01-14 17:49:31 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-14 17:49:31 INFO  AddNewDeparturesData:283 - Excel file 'KRK_Departures.xlsx' updated successfully.
+2023-01-14 17:49:31 INFO  AddNewDeparturesData:284 - Added 14 new flights to KRK airport Departures database.
+2023-01-14 17:49:31 INFO  AddNewDeparturesData:285 - Currently there are 497 flights in database.
+2023-01-14 17:49:31 INFO  UpdateAllAirportsData:18 - downloading Arrival data for WAW
+2023-01-14 17:49:31 INFO  UpdateAllAirportsData:30 - downloading Departure data for WAW
+2023-01-14 17:49:32 INFO  AddNewDeparturesData:22 - File WAW_Departures.xlsxsuccessfully opened.
+2023-01-14 17:49:32 INFO  AddNewArrivalData:23 - File WAW_Arrivals.xlsx successfully opened.
+2023-01-14 17:49:39 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/arrivals'.
+2023-01-14 17:49:39 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+2023-01-14 17:51:00 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-14 17:51:00 INFO  AddNewArrivalData:288 - Excel file 'WAW_Arrivals.xlsx' updated successfully.
+2023-01-14 17:51:00 INFO  AddNewArrivalData:289 - Added 119 new flights to WAW airport Arrivals database.
+2023-01-14 17:51:00 INFO  AddNewArrivalData:290 - Currently there are 1368 flights in database.
+2023-01-14 17:51:01 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-14 17:51:01 INFO  AddNewDeparturesData:283 - Excel file 'WAW_Departures.xlsx' updated successfully.
+2023-01-14 17:51:01 INFO  AddNewDeparturesData:284 - Added 155 new flights to WAW airport Departures database.
+2023-01-14 17:51:01 INFO  AddNewDeparturesData:285 - Currently there are 1402 flights in database.
+2023-01-14 17:51:01 INFO  UpdateAllAirportsData:18 - downloading Arrival data for KTW
+2023-01-14 17:51:01 INFO  UpdateAllAirportsData:30 - downloading Departure data for KTW
+2023-01-14 17:51:01 INFO  AddNewDeparturesData:22 - File KTW_Departures.xlsxsuccessfully opened.
+2023-01-14 17:51:01 INFO  AddNewArrivalData:23 - File KTW_Arrivals.xlsx successfully opened.
+2023-01-14 17:51:08 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/arrivals'.
+2023-01-14 17:51:08 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/departures'.
+2023-01-14 17:51:33 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-14 17:51:33 INFO  AddNewArrivalData:288 - Excel file 'KTW_Arrivals.xlsx' updated successfully.
+2023-01-14 17:51:33 INFO  AddNewArrivalData:289 - Added 33 new flights to KTW airport Arrivals database.
+2023-01-14 17:51:33 INFO  AddNewArrivalData:290 - Currently there are 274 flights in database.
+2023-01-14 17:51:34 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-14 17:51:34 INFO  AddNewDeparturesData:283 - Excel file 'KTW_Departures.xlsx' updated successfully.
+2023-01-14 17:51:34 INFO  AddNewDeparturesData:284 - Added 37 new flights to KTW airport Departures database.
+2023-01-14 17:51:34 INFO  AddNewDeparturesData:285 - Currently there are 277 flights in database.
+2023-01-14 17:51:34 INFO  UpdateAllAirportsData:18 - downloading Arrival data for WMI
+2023-01-14 17:51:34 INFO  UpdateAllAirportsData:30 - downloading Departure data for WMI
+2023-01-14 17:51:34 INFO  AddNewDeparturesData:22 - File WMI_Departures.xlsxsuccessfully opened.
+2023-01-14 17:51:34 INFO  AddNewArrivalData:23 - File WMI_Arrivals.xlsx successfully opened.
+2023-01-14 17:51:41 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/departures'.
+2023-01-14 17:51:41 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/arrivals'.
+2023-01-14 17:52:02 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-14 17:52:02 INFO  AddNewArrivalData:288 - Excel file 'WMI_Arrivals.xlsx' updated successfully.
+2023-01-14 17:52:02 INFO  AddNewArrivalData:289 - Added 17 new flights to WMI airport Arrivals database.
+2023-01-14 17:52:02 INFO  AddNewArrivalData:290 - Currently there are 165 flights in database.
+2023-01-14 17:52:03 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-14 17:52:03 INFO  AddNewDeparturesData:283 - Excel file 'WMI_Departures.xlsx' updated successfully.
+2023-01-14 17:52:03 INFO  AddNewDeparturesData:284 - Added 19 new flights to WMI airport Departures database.
+2023-01-14 17:52:03 INFO  AddNewDeparturesData:285 - Currently there are 164 flights in database.
+2023-01-14 17:52:03 INFO  UpdateAllAirportsData:30 - downloading Departure data for GDN
+2023-01-14 17:52:03 INFO  UpdateAllAirportsData:18 - downloading Arrival data for GDN
+2023-01-14 17:52:03 INFO  AddNewDeparturesData:22 - File GDN_Departures.xlsxsuccessfully opened.
+2023-01-14 17:52:03 INFO  AddNewArrivalData:23 - File GDN_Arrivals.xlsx successfully opened.
+2023-01-14 17:52:09 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+2023-01-14 17:52:09 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/arrivals'.
+2023-01-14 17:52:38 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-14 17:52:38 INFO  AddNewArrivalData:288 - Excel file 'GDN_Arrivals.xlsx' updated successfully.
+2023-01-14 17:52:38 INFO  AddNewArrivalData:289 - Added 32 new flights to GDN airport Arrivals database.
+2023-01-14 17:52:38 INFO  AddNewArrivalData:290 - Currently there are 402 flights in database.
+2023-01-14 17:52:39 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-14 17:52:39 INFO  AddNewDeparturesData:283 - Excel file 'GDN_Departures.xlsx' updated successfully.
+2023-01-14 17:52:39 INFO  AddNewDeparturesData:284 - Added 35 new flights to GDN airport Departures database.
+2023-01-14 17:52:39 INFO  AddNewDeparturesData:285 - Currently there are 305 flights in database.
+2023-01-14 17:52:39 INFO  UpdateAllAirportsData:18 - downloading Arrival data for LUZ
+2023-01-14 17:52:39 INFO  UpdateAllAirportsData:30 - downloading Departure data for LUZ
+2023-01-14 17:52:39 INFO  AddNewDeparturesData:22 - File LUZ_Departures.xlsxsuccessfully opened.
+2023-01-14 17:52:39 INFO  AddNewArrivalData:23 - File LUZ_Arrivals.xlsx successfully opened.
+2023-01-14 17:52:46 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/departures'.
+2023-01-14 17:52:46 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/arrivals'.
+2023-01-14 17:53:01 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-14 17:53:01 INFO  AddNewDeparturesData:283 - Excel file 'LUZ_Departures.xlsx' updated successfully.
+2023-01-14 17:53:01 INFO  AddNewDeparturesData:284 - Added 3 new flights to LUZ airport Departures database.
+2023-01-14 17:53:01 INFO  AddNewDeparturesData:285 - Currently there are 23 flights in database.
+2023-01-14 17:53:01 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-14 17:53:01 INFO  AddNewArrivalData:288 - Excel file 'LUZ_Arrivals.xlsx' updated successfully.
+2023-01-14 17:53:01 INFO  AddNewArrivalData:289 - Added 3 new flights to LUZ airport Arrivals database.
+2023-01-14 17:53:01 INFO  AddNewArrivalData:290 - Currently there are 24 flights in database.
+2023-01-14 17:53:01 INFO  UpdateAllAirportsData:18 - downloading Arrival data for BZG
+2023-01-14 17:53:01 INFO  UpdateAllAirportsData:30 - downloading Departure data for BZG
+2023-01-14 17:53:01 INFO  AddNewArrivalData:23 - File BZG_Arrivals.xlsx successfully opened.
+2023-01-14 17:53:01 INFO  AddNewDeparturesData:22 - File BZG_Departures.xlsxsuccessfully opened.
+2023-01-14 17:53:07 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+2023-01-14 17:53:07 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/arrivals'.
+2023-01-14 17:53:22 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-14 17:53:22 INFO  AddNewDeparturesData:283 - Excel file 'BZG_Departures.xlsx' updated successfully.
+2023-01-14 17:53:22 INFO  AddNewDeparturesData:284 - Added 0 new flights to BZG airport Departures database.
+2023-01-14 17:53:22 INFO  AddNewDeparturesData:285 - Currently there are 26 flights in database.
+2023-01-14 17:53:22 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-14 17:53:22 INFO  AddNewArrivalData:288 - Excel file 'BZG_Arrivals.xlsx' updated successfully.
+2023-01-14 17:53:22 INFO  AddNewArrivalData:289 - Added 0 new flights to BZG airport Arrivals database.
+2023-01-14 17:53:22 INFO  AddNewArrivalData:290 - Currently there are 25 flights in database.
+2023-01-14 17:53:22 INFO  UpdateAllAirportsData:18 - downloading Arrival data for LCJ
+2023-01-14 17:53:22 INFO  UpdateAllAirportsData:30 - downloading Departure data for LCJ
+2023-01-14 17:53:22 INFO  AddNewDeparturesData:22 - File LCJ_Departures.xlsxsuccessfully opened.
+2023-01-14 17:53:22 INFO  AddNewArrivalData:23 - File LCJ_Arrivals.xlsx successfully opened.
+2023-01-14 17:53:29 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/arrivals'.
+2023-01-14 17:53:29 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/departures'.
+2023-01-14 17:53:43 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-14 17:53:43 INFO  AddNewArrivalData:288 - Excel file 'LCJ_Arrivals.xlsx' updated successfully.
+2023-01-14 17:53:43 INFO  AddNewArrivalData:289 - Added 2 new flights to LCJ airport Arrivals database.
+2023-01-14 17:53:43 INFO  AddNewArrivalData:290 - Currently there are 17 flights in database.
+2023-01-14 17:53:43 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-14 17:53:43 INFO  AddNewDeparturesData:283 - Excel file 'LCJ_Departures.xlsx' updated successfully.
+2023-01-14 17:53:43 INFO  AddNewDeparturesData:284 - Added 2 new flights to LCJ airport Departures database.
+2023-01-14 17:53:43 INFO  AddNewDeparturesData:285 - Currently there are 19 flights in database.
+2023-01-14 17:53:43 INFO  UpdateAllAirportsData:18 - downloading Arrival data for SZY
+2023-01-14 17:53:43 INFO  UpdateAllAirportsData:30 - downloading Departure data for SZY
+2023-01-14 17:53:43 INFO  AddNewDeparturesData:22 - File SZY_Departures.xlsxsuccessfully opened.
+2023-01-14 17:53:43 INFO  AddNewArrivalData:23 - File SZY_Arrivals.xlsx successfully opened.
+2023-01-14 17:53:50 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/arrivals'.
+2023-01-14 17:53:50 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/departures'.
+2023-01-14 17:54:04 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-14 17:54:04 INFO  AddNewDeparturesData:283 - Excel file 'SZY_Departures.xlsx' updated successfully.
+2023-01-14 17:54:04 INFO  AddNewDeparturesData:284 - Added 1 new flights to SZY airport Departures database.
+2023-01-14 17:54:04 INFO  AddNewDeparturesData:285 - Currently there are 8 flights in database.
+2023-01-14 17:54:04 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-14 17:54:04 INFO  AddNewArrivalData:288 - Excel file 'SZY_Arrivals.xlsx' updated successfully.
+2023-01-14 17:54:04 INFO  AddNewArrivalData:289 - Added 1 new flights to SZY airport Arrivals database.
+2023-01-14 17:54:04 INFO  AddNewArrivalData:290 - Currently there are 8 flights in database.
+2023-01-14 17:54:04 INFO  UpdateAllAirportsData:18 - downloading Arrival data for RZE
+2023-01-14 17:54:04 INFO  UpdateAllAirportsData:30 - downloading Departure data for RZE
+2023-01-14 17:54:04 INFO  AddNewArrivalData:23 - File RZE_Arrivals.xlsx successfully opened.
+2023-01-14 17:54:04 INFO  AddNewDeparturesData:22 - File RZE_Departures.xlsxsuccessfully opened.
+2023-01-14 17:54:11 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/arrivals'.
+2023-01-14 17:54:11 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/departures'.
+2023-01-14 17:54:28 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-14 17:54:28 INFO  AddNewArrivalData:288 - Excel file 'RZE_Arrivals.xlsx' updated successfully.
+2023-01-14 17:54:28 INFO  AddNewArrivalData:289 - Added 10 new flights to RZE airport Arrivals database.
+2023-01-14 17:54:28 INFO  AddNewArrivalData:290 - Currently there are 71 flights in database.
+2023-01-14 17:54:28 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-14 17:54:28 INFO  AddNewDeparturesData:283 - Excel file 'RZE_Departures.xlsx' updated successfully.
+2023-01-14 17:54:28 INFO  AddNewDeparturesData:284 - Added 10 new flights to RZE airport Departures database.
+2023-01-14 17:54:28 INFO  AddNewDeparturesData:285 - Currently there are 73 flights in database.
+2023-01-14 17:54:28 INFO  UpdateAllAirportsData:18 - downloading Arrival data for POZ
+2023-01-14 17:54:28 INFO  UpdateAllAirportsData:30 - downloading Departure data for POZ
+2023-01-14 17:54:28 INFO  AddNewArrivalData:23 - File POZ_Arrivals.xlsx successfully opened.
+2023-01-14 17:54:28 INFO  AddNewDeparturesData:22 - File POZ_Departures.xlsxsuccessfully opened.
+2023-01-14 17:54:35 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/arrivals'.
+2023-01-14 17:54:35 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/departures'.
+2023-01-14 17:54:56 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-14 17:54:56 INFO  AddNewArrivalData:288 - Excel file 'POZ_Arrivals.xlsx' updated successfully.
+2023-01-14 17:54:56 INFO  AddNewArrivalData:289 - Added 13 new flights to POZ airport Arrivals database.
+2023-01-14 17:54:56 INFO  AddNewArrivalData:290 - Currently there are 149 flights in database.
+2023-01-14 17:54:57 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-14 17:54:57 INFO  AddNewDeparturesData:283 - Excel file 'POZ_Departures.xlsx' updated successfully.
+2023-01-14 17:54:57 INFO  AddNewDeparturesData:284 - Added 17 new flights to POZ airport Departures database.
+2023-01-14 17:54:57 INFO  AddNewDeparturesData:285 - Currently there are 157 flights in database.
+2023-01-14 17:54:57 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 17:54:57 INFO  UpdateAllAirportsData:47 - Process took about 6 minutes and 21 seconds.
+2023-01-14 17:55:22 INFO  MainApp:256 - Starting program
+2023-01-14 18:07:26 INFO  MainApp:367 - Created gui
+2023-01-14 18:08:13 INFO  MainApp:367 - Created gui
+2023-01-14 18:13:48 INFO  MainApp:375 - Created gui
+2023-01-14 18:14:06 INFO  MainApp:375 - Created gui
+2023-01-14 18:15:59 INFO  MainApp:375 - Created gui
+2023-01-14 18:16:12 INFO  MainApp:375 - Created gui
+2023-01-14 18:16:21 INFO  MainApp:375 - Created gui
+2023-01-14 18:16:34 INFO  MainApp:375 - Created gui
+2023-01-14 18:18:56 ERROR MainApp:393 - PROGRAM CRASHED!
+2023-01-14 18:19:30 ERROR MainApp:394 - PROGRAM CRASHED!
+2023-01-14 18:20:01 ERROR MainApp:394 - PROGRAM CRASHED!
+2023-01-14 18:20:21 INFO  MainApp:382 - Created gui
+2023-01-14 18:20:46 INFO  MainApp:382 - Created gui
+2023-01-14 18:21:11 INFO  MainApp:382 - Created gui
+2023-01-14 18:21:19 INFO  MainApp:382 - Created gui
+2023-01-14 18:21:37 INFO  MainApp:378 - Created gui
+2023-01-14 18:22:09 INFO  MainApp:378 - Created gui
+2023-01-14 18:22:21 INFO  MainApp:378 - Created gui
+2023-01-14 18:22:43 INFO  MainApp:378 - Created gui
+2023-01-14 18:25:46 INFO  MainApp:392 - Created gui
+2023-01-14 18:26:06 INFO  MainApp:392 - Created gui
+2023-01-14 18:26:22 INFO  MainApp:393 - Created gui
+2023-01-14 18:27:26 INFO  MainApp:393 - Created gui
+2023-01-14 18:28:07 INFO  MainApp:393 - Created gui
+2023-01-14 18:28:23 INFO  MainApp:388 - Created gui
+2023-01-14 18:28:33 INFO  MainApp:388 - Created gui
+2023-01-14 18:33:52 INFO  MainApp:388 - Created gui
+2023-01-14 18:35:37 INFO  MainApp:400 - Created gui
+2023-01-14 18:36:02 INFO  MainApp:400 - Created gui
+2023-01-14 18:36:11 INFO  MainApp:400 - Created gui
+2023-01-14 18:41:12 INFO  MainApp:400 - Created gui
+2023-01-14 18:44:09 INFO  MainApp:400 - Created gui
+2023-01-14 18:58:50 INFO  MainApp:400 - Created gui
+2023-01-14 19:00:38 INFO  MainApp:400 - Created gui
+2023-01-14 19:00:52 INFO  MainApp:400 - Created gui
+2023-01-14 19:02:52 INFO  MainApp:407 - Created gui
+2023-01-14 19:03:07 INFO  MainApp:407 - Created gui
+2023-01-14 19:04:03 INFO  MainApp:407 - Created gui
+2023-01-14 19:07:15 INFO  MainApp:414 - Created gui
+2023-01-14 19:07:31 INFO  MainApp:414 - Created gui
+2023-01-14 19:08:16 INFO  MainApp:421 - Created gui
+2023-01-14 19:08:29 INFO  MainApp:421 - Created gui
+2023-01-14 19:08:48 INFO  MainApp:421 - Created gui
+2023-01-14 19:09:35 INFO  MainApp:428 - Created gui
+2023-01-14 19:09:52 INFO  MainApp:428 - Created gui
+2023-01-14 19:09:58 INFO  MainApp:428 - Created gui
+2023-01-14 19:11:22 INFO  MainApp:434 - Created gui
+2023-01-14 19:11:30 INFO  MainApp:434 - Created gui
+2023-01-14 19:11:39 INFO  MainApp:435 - Created gui
+2023-01-14 19:11:59 INFO  MainApp:435 - Created gui
+2023-01-14 19:12:08 INFO  MainApp:435 - Created gui
+2023-01-14 19:12:20 INFO  MainApp:435 - Created gui
+2023-01-14 19:14:42 INFO  MainApp:442 - Created gui
+2023-01-14 19:15:47 INFO  MainApp:449 - Created gui
+2023-01-14 19:17:05 INFO  MainApp:456 - Created gui
+2023-01-14 19:17:12 INFO  MainApp:456 - Created gui
+2023-01-14 19:17:34 INFO  MainApp:456 - Created gui
+2023-01-14 19:18:24 INFO  MainApp:464 - Created gui
+2023-01-14 19:18:33 INFO  MainApp:464 - Created gui
+2023-01-14 19:18:52 INFO  MainApp:464 - Created gui
+2023-01-14 19:18:59 INFO  MainApp:464 - Created gui
+2023-01-14 19:19:07 INFO  MainApp:464 - Created gui
+2023-01-14 19:19:52 INFO  MainApp:471 - Created gui
+2023-01-14 19:20:03 INFO  MainApp:471 - Created gui
+2023-01-14 19:23:44 INFO  MainApp:489 - Created gui
+2023-01-14 19:23:59 INFO  MainApp:489 - Created gui
+2023-01-14 19:24:09 INFO  MainApp:490 - Created gui
+2023-01-14 19:25:28 INFO  MainApp:490 - Created gui
+2023-01-14 19:25:55 INFO  MainApp:490 - Created gui
+2023-01-14 19:25:56 INFO  MainApp:490 - Created gui
+2023-01-14 19:26:06 INFO  MainApp:490 - Created gui
+2023-01-14 19:26:18 INFO  MainApp:490 - Created gui
+2023-01-14 19:26:39 INFO  MainApp:490 - Created gui
+2023-01-14 19:28:04 INFO  MainApp:490 - Created gui
+2023-01-14 19:28:35 INFO  MainApp:490 - Created gui
+2023-01-14 19:28:54 INFO  MainApp:490 - Created gui
+2023-01-14 19:31:33 INFO  MainApp:490 - Created gui
+2023-01-14 19:31:49 INFO  MainApp:490 - Created gui
+2023-01-14 19:31:56 INFO  MainApp:490 - Created gui
+2023-01-14 19:32:22 INFO  MainApp:490 - Created gui
+2023-01-14 19:32:45 INFO  MainApp:490 - Created gui
+2023-01-14 19:33:00 INFO  MainApp:490 - Created gui
+2023-01-14 19:34:04 INFO  MainApp:496 - Created gui
+2023-01-14 19:34:35 INFO  MainApp:496 - Created gui
+2023-01-14 19:34:43 INFO  MainApp:496 - Created gui
+2023-01-14 19:34:58 INFO  MainApp:496 - Created gui
+2023-01-14 19:35:06 INFO  MainApp:496 - Created gui
+2023-01-14 19:35:13 INFO  MainApp:496 - Created gui
+2023-01-14 19:35:38 INFO  MainApp:504 - Created gui
+2023-01-14 19:36:22 INFO  MainApp:505 - Created gui
+2023-01-14 19:36:23 INFO  MainApp:390 - Starting program
+2023-01-14 19:36:29 INFO  MainApp:390 - Starting program
+2023-01-14 19:38:07 INFO  MainApp:500 - Created gui
+2023-01-14 19:42:06 INFO  MainApp:509 - Created gui
+2023-01-14 19:42:30 INFO  MainApp:510 - Created gui
+2023-01-14 19:42:47 INFO  MainApp:510 - Created gui
+2023-01-14 19:43:01 INFO  MainApp:510 - Created gui
+2023-01-14 19:43:07 INFO  MainApp:510 - Created gui
+2023-01-14 19:43:37 INFO  MainApp:510 - Created gui
+2023-01-14 19:43:46 INFO  MainApp:510 - Created gui
+2023-01-14 19:45:21 INFO  MainApp:517 - Created gui
+2023-01-14 19:45:40 INFO  MainApp:517 - Created gui
+2023-01-14 19:47:23 INFO  MainApp:517 - Created gui
+2023-01-14 19:51:08 INFO  MainApp:535 - Created gui
+2023-01-14 19:51:58 INFO  MainApp:538 - Created gui
+2023-01-14 19:56:49 INFO  MainApp:556 - Created gui
+2023-01-14 19:57:47 INFO  MainApp:556 - Created gui
+2023-01-14 19:58:25 INFO  MainApp:556 - Created gui
+2023-01-14 19:58:42 INFO  MainApp:556 - Created gui
+2023-01-14 19:58:56 INFO  MainApp:556 - Created gui
+2023-01-14 19:59:22 INFO  MainApp:556 - Created gui
+2023-01-14 19:59:35 INFO  MainApp:556 - Created gui
+2023-01-14 19:59:56 INFO  MainApp:556 - Created gui
+2023-01-14 20:00:06 INFO  MainApp:556 - Created gui
+2023-01-14 20:01:12 INFO  MainApp:556 - Created gui
+2023-01-14 20:02:20 INFO  MainApp:562 - Created gui
+2023-01-14 20:02:43 INFO  MainApp:562 - Created gui
+2023-01-14 20:02:52 INFO  MainApp:562 - Created gui
+2023-01-14 20:04:07 INFO  MainApp:567 - Created gui
+2023-01-14 20:04:16 INFO  MainApp:568 - Created gui
+2023-01-14 20:04:37 INFO  MainApp:568 - Created gui
+2023-01-14 20:04:55 INFO  MainApp:568 - Created gui
+2023-01-14 20:06:21 INFO  MainApp:574 - Created gui
+2023-01-14 20:06:31 INFO  MainApp:574 - Created gui
+2023-01-14 20:08:15 INFO  MainApp:580 - Created gui
+2023-01-14 20:08:42 INFO  MainApp:580 - Created gui
+2023-01-14 20:09:38 INFO  MainApp:586 - Created gui
+2023-01-14 20:10:38 INFO  MainApp:593 - Created gui
+2023-01-14 20:10:39 INFO  MainApp:453 - Starting program
+2023-01-14 20:10:45 INFO  MainApp:453 - Starting program
+2023-01-14 20:10:54 INFO  MainApp:593 - Created gui

@@ -15,10 +15,10 @@ public class UpdateAirports {
             Thread thread1 = new Thread() {
                 public void run() {
                     try {
-                        System.out.println(airports.get(tmp));
-//                        new AddNewArrivalData().appendArrivalsFromAirport(airports.get(tmp));
+                        logger.info("downloading Arrival data for "+airports.get(tmp));
+                        new AddNewArrivalData().appendArrivalsFromAirport(airports.get(tmp));
                     } catch (Exception e) {
-                        logger.info(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in arr");
+                        logger.info(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in Arrivals");
                         throw new RuntimeException(e);
                     }
                 }
@@ -27,17 +27,17 @@ public class UpdateAirports {
             Thread thread2 = new Thread() {
                 public void run() {
                     try {
-//                        new AddNewDeparturesData().appendDeparturesFromAirport(airports.get(tmp));
-                        System.out.println(airports.get(tmp));
+                        logger.info("downloading Departure data for "+airports.get(tmp));
+                        new AddNewDeparturesData().appendDeparturesFromAirport(airports.get(tmp));
                     } catch (Exception e) {
-                        logger.info(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in dep");
+                        logger.info(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in Departures");
                         throw new RuntimeException(e);
                     }
                 }
             };
             thread1.start();
             thread2.start();
-//
+
             thread1.join();
             thread2.join();
         }
