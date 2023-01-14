@@ -8,6 +8,7 @@ public class UpdateAirports {
     public UpdateAirports(ArrayList<String> airports) throws Exception {
 
         long start = System.currentTimeMillis();
+        Thread.sleep(4000);
 
         for (int i = 0; i < airports.size(); i++) {
             int tmp = i;

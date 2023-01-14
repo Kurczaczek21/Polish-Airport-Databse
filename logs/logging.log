@@ -7850,3 +7850,68 @@ Scheduled
 2023-01-14 13:33:18 INFO  MainApp:223 - Downloading all airports data.
 2023-01-14 13:34:29 INFO  MainApp:340 - Created gui
 2023-01-14 13:34:30 INFO  MainApp:223 - Downloading all airports data.
+2023-01-14 13:36:30 INFO  MainApp:340 - Created gui
+2023-01-14 13:36:33 INFO  MainApp:224 - Downloading all airports data.
+2023-01-14 13:36:33 INFO  UpdateAllAirportsData:44 - Data for all airports updated successfully.
+2023-01-14 13:36:33 INFO  UpdateAllAirportsData:46 - Process took about 0 minutes and 0 seconds.
+2023-01-14 13:36:53 INFO  MainApp:340 - Created gui
+2023-01-14 13:36:55 INFO  MainApp:224 - Downloading all airports data.
+2023-01-14 13:36:55 INFO  UpdateAllAirportsData:44 - Data for all airports updated successfully.
+2023-01-14 13:36:55 INFO  UpdateAllAirportsData:46 - Process took about 0 minutes and 0 seconds.
+2023-01-14 13:37:13 INFO  MainApp:341 - Created gui
+2023-01-14 13:37:14 INFO  MainApp:224 - Downloading all airports data.
+2023-01-14 13:37:17 INFO  UpdateAllAirportsData:44 - Data for all airports updated successfully.
+2023-01-14 13:37:17 INFO  UpdateAllAirportsData:46 - Process took about 0 minutes and 0 seconds.
+2023-01-14 13:38:36 INFO  MainApp:339 - Created gui
+2023-01-14 13:38:39 INFO  MainApp:276 - Downloading SELECTED data
+2023-01-14 13:38:39 ERROR MainApp:295 - None of the airports selected.
+2023-01-14 13:38:46 INFO  MainApp:276 - Downloading SELECTED data
+2023-01-14 13:38:48 INFO  MainApp:276 - Downloading SELECTED data
+2023-01-14 13:39:02 INFO  MainApp:339 - Created gui
+2023-01-14 13:39:08 INFO  MainApp:276 - Downloading SELECTED data
+2023-01-14 13:40:00 INFO  MainApp:351 - Created gui
+2023-01-14 13:40:02 INFO  MainApp:224 - Downloading all airports data.
+2023-01-14 13:40:02 INFO  UpdateAllAirportsData:44 - Data for all airports updated successfully.
+2023-01-14 13:40:02 INFO  UpdateAllAirportsData:46 - Process took about 0 minutes and 0 seconds.
+2023-01-14 13:40:24 INFO  MainApp:351 - Created gui
+2023-01-14 13:40:27 INFO  MainApp:224 - Downloading all airports data.
+2023-01-14 13:40:31 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 13:40:31 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 13:40:38 INFO  MainApp:254 - Starting program
+2023-01-14 13:40:47 INFO  MainApp:351 - Created gui
+2023-01-14 13:40:52 INFO  MainApp:276 - Downloading SELECTED data
+2023-01-14 13:40:52 ERROR MainApp:295 - None of the airports selected.
+2023-01-14 13:40:57 INFO  MainApp:336 - Selected all airports
+2023-01-14 13:40:58 INFO  MainApp:276 - Downloading SELECTED data
+2023-01-14 13:41:02 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 13:41:02 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 13:43:50 INFO  MainApp:355 - Created gui
+2023-01-14 13:43:55 INFO  MainApp:224 - Downloading all airports data.
+2023-01-14 13:43:59 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 13:43:59 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 13:44:19 INFO  MainApp:340 - Selected all airports
+2023-01-14 13:44:20 INFO  MainApp:278 - Downloading SELECTED data
+2023-01-14 13:44:24 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 13:44:24 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 13:44:35 INFO  MainApp:278 - Downloading SELECTED data
+2023-01-14 13:44:39 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 13:44:39 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 13:47:12 INFO  MainApp:357 - Created gui
+2023-01-14 13:47:19 INFO  MainApp:278 - Downloading SELECTED data
+2023-01-14 13:47:23 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 13:47:23 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 13:47:34 INFO  MainApp:357 - Created gui
+2023-01-14 13:47:38 INFO  MainApp:278 - Downloading SELECTED data
+2023-01-14 13:47:42 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 13:47:42 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 13:47:45 INFO  MainApp:342 - Selected all airports
+2023-01-14 13:47:46 INFO  MainApp:278 - Downloading SELECTED data
+2023-01-14 13:47:50 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 13:47:50 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 13:47:53 INFO  MainApp:224 - Downloading all airports data.
+2023-01-14 13:47:57 INFO  UpdateAllAirportsData:45 - Data for all airports updated successfully.
+2023-01-14 13:47:57 INFO  UpdateAllAirportsData:47 - Process took about 0 minutes and 4 seconds.
+2023-01-14 13:48:04 INFO  MainApp:278 - Downloading SELECTED data
+2023-01-14 13:48:04 ERROR MainApp:297 - None of the airports selected.
+2023-01-14 13:48:06 INFO  MainApp:278 - Downloading SELECTED data
+2023-01-14 13:48:06 ERROR MainApp:297 - None of the airports selected.

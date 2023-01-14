@@ -237,10 +237,12 @@ public class MainApp {
                 Thread thread1 = new Thread() {
                     public void run() {
                         try {
-                            doPoop();
+                            new UpdateAirports(airportsToDownload);
+                            b.setText("Update all airports");
+                            b.setEnabled(true);
+                            b2.setText("Update specific airports");
+                            b2.setEnabled(true);
                             JOptionPane.showMessageDialog(new JFrame(), "All airports successfully updated.", "Success", JOptionPane.INFORMATION_MESSAGE);
-                            b.setText("Updated");
-                            b2.setText("Updated");
                         } catch (Exception e) {
                         }
                     }
@@ -298,12 +300,27 @@ public class MainApp {
                     JOptionPane.showMessageDialog(new JFrame(), message, "Error",
                             JOptionPane.ERROR_MESSAGE);
                 }else {
-                    try {
-                        new UpdateAirports(airportsToDownload);
-                    } catch (Exception e) {
-                        logger.error("Data upload fail");
-                        throw new RuntimeException(e);
-                    }
+                    cl.show(panelCont, "1");
+                    b2.setEnabled(false);
+                    b2.setText("Updating...");
+                    b.setEnabled(false);
+                    b.setText("Updating...");
+                    Thread thread1 = new Thread() {
+                        public void run() {
+                            try {
+                                new UpdateAirports(airportsToDownload);
+                                b.setText("Update all airports");
+                                b.setEnabled(true);
+                                b2.setText("Update specific airports");
+                                b2.setEnabled(true);
+                                String msg;
+                                if(airportsToDownload.size()==11){msg="All airports successfully updated.";}else {msg=airportsToDownload.size()+" Selected airports successfully updated.";}
+                                JOptionPane.showMessageDialog(new JFrame(), msg, "Success", JOptionPane.INFORMATION_MESSAGE);
+                            } catch (Exception e) {
+                            }
+                        }
+                    };
+                    thread1.start();
                 }
             }
         });
@@ -341,12 +358,6 @@ public class MainApp {
         frame.setVisible(true);
 
     }
-
-    public void doPoop() throws InterruptedException {
-        Thread.sleep(4000);
-        System.out.println("elo");
-    }
-
     public static void main(String[] args) {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
