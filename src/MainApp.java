@@ -214,8 +214,11 @@ public class MainApp {
         b.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent arg0) {
-//                cl.show(panelCont, "3");
+                b2.setEnabled(false);
+                b2.setText("Updating...");
                 b.setEnabled(false);
+                b.setText("Updating...");
+
                 ArrayList<String> airportsToDownload = new ArrayList<String>();
 
                 logger.info("Downloading all airports data.");
@@ -230,18 +233,19 @@ public class MainApp {
                 airportsToDownload.add("SZY");
                 airportsToDownload.add("RZE");
                 airportsToDownload.add("POZ");
-                System.out.println("bramvle");
-                try {
-                    new UpdateAirports(airportsToDownload);
-                    Thread.sleep(5000);
-                } catch (Exception e) {
-                    logger.error("Data upload fail");
-                    throw new RuntimeException(e);
-                }
 
-//                b.setEnabled(true);
-                System.out.println("looped?");
-//                cl.show(panelCont, "1");
+                Thread thread1 = new Thread() {
+                    public void run() {
+                        try {
+                            doPoop();
+                            JOptionPane.showMessageDialog(new JFrame(), "All airports successfully updated.", "Success", JOptionPane.INFORMATION_MESSAGE);
+                            b.setText("Updated");
+                            b2.setText("Updated");
+                        } catch (Exception e) {
+                        }
+                    }
+                };
+                thread1.start();
             }
         });
         b1.addActionListener(new ActionListener() {
@@ -336,6 +340,11 @@ public class MainApp {
         logger.info("Created gui");
         frame.setVisible(true);
 
+    }
+
+    public void doPoop() throws InterruptedException {
+        Thread.sleep(4000);
+        System.out.println("elo");
     }
 
     public static void main(String[] args) {

@@ -15,7 +15,7 @@ public class UpdateAirports {
                 public void run() {
                     try {
                         System.out.println(airports.get(tmp));
-//                        new AddNewArrivalData().appendArrivalsFromAirport(airport);
+//                        new AddNewArrivalData().appendArrivalsFromAirport(airports.get(tmp));
                     } catch (Exception e) {
                         logger.info(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in arr");
                         throw new RuntimeException(e);
@@ -26,7 +26,7 @@ public class UpdateAirports {
             Thread thread2 = new Thread() {
                 public void run() {
                     try {
-//                        new AddNewDeparturesData().appendDeparturesFromAirport(airport);
+//                        new AddNewDeparturesData().appendDeparturesFromAirport(airports.get(tmp));
                         System.out.println(airports.get(tmp));
                     } catch (Exception e) {
                         logger.info(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in dep");
