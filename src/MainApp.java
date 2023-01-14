@@ -189,28 +189,59 @@ public class MainApp {
         boxLabel.setLocation(0,60);
         boxLabel.setSize(1000,540);
 
+        // DATA DOWNLOADING PANEL
+        JPanel downloadPanel = new JPanel();
+        downloadPanel.setBounds(0,0,1000,600);
+        downloadPanel.setBackground(mainColor);
+        downloadPanel.setLayout(null);
 
+        JLabel txtLabel4 = new JLabel("Updating data ...");
+        txtLabel4.setFont(new Font("Impact", Font.BOLD, 50));
+
+        downloadPanel.add(txtLabel4);
+
+        txtLabel4.setLocation(90,80);
+        txtLabel4.setSize(1000,60);
+
+
+        // adding Panels to cards
         panelCont.add(helloPanel, "1");
         panelCont.add(selectionPanel, "2");
+        panelCont.add(downloadPanel, "3");
         cl.show(panelCont, "1");
 
 
         b.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent arg0) {
+//                cl.show(panelCont, "3");
+                b.setEnabled(false);
+                ArrayList<String> airportsToDownload = new ArrayList<String>();
 
                 logger.info("Downloading all airports data.");
-                if(checkBox1.isSelected()){airportsToDownload.add("KRK");}
-                if (checkBox2.isSelected()) {airportsToDownload.add("WAW");}
-                if(checkBox3.isSelected()) {airportsToDownload.add("KTW");}
-                if(checkBox4.isSelected()){airportsToDownload.add("WMI");}
-                if(checkBox5.isSelected()){airportsToDownload.add("GDN");}
-                if(checkBox6.isSelected()){airportsToDownload.add("LUZ");}
-                if(checkBox7.isSelected()){airportsToDownload.add("BZG");}
-                if(checkBox8.isSelected()){airportsToDownload.add("LCJ");}
-                if(checkBox9.isSelected()){airportsToDownload.add("SZY");}
-                if(checkBox10.isSelected()){airportsToDownload.add("RZE");}
-                if(checkBox11.isSelected()){airportsToDownload.add("POZ");}
+                airportsToDownload.add("KRK");
+                airportsToDownload.add("WAW");
+                airportsToDownload.add("KTW");
+                airportsToDownload.add("WMI");
+                airportsToDownload.add("GDN");
+                airportsToDownload.add("LUZ");
+                airportsToDownload.add("BZG");
+                airportsToDownload.add("LCJ");
+                airportsToDownload.add("SZY");
+                airportsToDownload.add("RZE");
+                airportsToDownload.add("POZ");
+                System.out.println("bramvle");
+                try {
+                    new UpdateAirports(airportsToDownload);
+                    Thread.sleep(5000);
+                } catch (Exception e) {
+                    logger.error("Data upload fail");
+                    throw new RuntimeException(e);
+                }
+
+//                b.setEnabled(true);
+                System.out.println("looped?");
+//                cl.show(panelCont, "1");
             }
         });
         b1.addActionListener(new ActionListener() {
