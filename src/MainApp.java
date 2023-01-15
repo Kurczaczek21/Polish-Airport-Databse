@@ -698,14 +698,6 @@ public class MainApp {
         dayOfWeekButt.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent arg0) {
-//                graph1Frame.setTitle(dayOfWeekButt.getText());
-//                graph1Frame.setSize(800,600);
-//                if(!graph1Frame.isVisible()){
-//                    if(!isGraph1Displayed){graph1Frame.add( new Graph().ramka(choosenAirport,arrBox.isSelected(),false));}   //true -> delay graph
-//                    isGraph1Displayed=true;
-//                    graph1Frame.setVisible(true);
-//                    logger.info("Created plot "+dayOfWeekButt.getText());
-//                }
                 JFrame frame2 = new JFrame(dayOfWeekButt.getText());
                 frame2.setSize(800,600);
                 frame2.add( new Graph().ramka(choosenAirport,arrBox.isSelected(),false));  //true -> delay graph
@@ -714,6 +706,28 @@ public class MainApp {
 
             }
         });
+
+        delayByDayOfWeek.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                JFrame frame2 = new JFrame(dayOfWeekButt.getText());
+                frame2.setSize(800,600);
+                frame2.add( new Graph().ramka(choosenAirport,arrBox.isSelected(),true));  //true -> delay graph
+                frame2.setVisible(true);
+                logger.info("Created plot "+dayOfWeekButt.getText());
+
+            }
+        });
+
+        if(new CheckConnection().isInternetAvailable()){
+            logger.info("Connected to the internet");
+            goToPanelSpecificButton.setEnabled(true);
+            updateAllButton.setEnabled(true);
+        }else {
+            logger.error("No internet connection");
+            goToPanelSpecificButton.setEnabled(false);
+            updateAllButton.setEnabled(false);
+        }
 
         frame.add(panelCont);
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();

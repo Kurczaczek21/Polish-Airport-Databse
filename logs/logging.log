@@ -8496,3 +8496,184 @@ Scheduled
 2023-01-15 00:57:58 INFO  UpdateAllAirportsData:47 - Process took about 1 minutes and 23 seconds.
 2023-01-15 01:01:10 INFO  ProgramGui:114 - Helloscreen created
 2023-01-15 01:01:21 INFO  MainApp:462 - Starting program
+2023-01-15 14:13:23 INFO  MainApp:728 - Created gui
+2023-01-15 14:13:27 INFO  MainApp:462 - Starting program
+2023-01-15 14:13:37 INFO  Graph:61 - File: KRK_Departures.xlsx successfully opened.
+2023-01-15 14:13:37 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 14:13:41 INFO  Graph:61 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 14:13:41 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 14:15:10 INFO  MainApp:748 - Created gui
+2023-01-15 14:15:13 INFO  MainApp:462 - Starting program
+2023-01-15 14:15:19 INFO  Graph:61 - File: KRK_Departures.xlsx successfully opened.
+2023-01-15 14:15:20 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 14:15:37 INFO  Graph:61 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 14:15:37 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 14:16:47 INFO  MainApp:748 - Created gui
+2023-01-15 14:16:57 INFO  MainApp:462 - Starting program
+2023-01-15 14:17:04 INFO  Graph:61 - File: KRK_Departures.xlsx successfully opened.
+2023-01-15 14:17:04 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 14:17:13 INFO  Graph:61 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 14:17:13 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 14:46:37 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 14:46:37 INFO  MainApp:754 - Created gui
+2023-01-15 14:48:53 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 14:48:53 INFO  MainApp:739 - Connected to the internet
+2023-01-15 14:48:54 INFO  MainApp:758 - Created gui
+2023-01-15 14:49:47 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 14:49:47 ERROR CheckConnection:22 - No internet connection :java.net.UnknownHostException: google.com
+2023-01-15 14:49:47 ERROR CheckConnection:22 - No internet connection :java.net.UnknownHostException: amazon.com
+2023-01-15 14:49:47 ERROR CheckConnection:22 - No internet connection :java.net.UnknownHostException: facebook.com
+2023-01-15 14:49:47 ERROR CheckConnection:22 - No internet connection :java.net.UnknownHostException: apple.com
+2023-01-15 14:49:47 ERROR MainApp:743 - No internet connection
+2023-01-15 14:49:47 INFO  MainApp:758 - Created gui
+2023-01-15 15:00:30 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 15:00:31 INFO  MainApp:739 - Connected to the internet
+2023-01-15 15:00:31 INFO  MainApp:758 - Created gui
+2023-01-15 15:00:34 INFO  MainApp:462 - Starting program
+2023-01-15 15:00:44 INFO  Graph:68 - File: KRK_Departures.xlsx successfully opened.
+2023-01-15 15:00:44 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:00:48 INFO  Graph:68 - File: KRK_Departures.xlsx successfully opened.
+2023-01-15 15:00:48 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:01:13 INFO  Graph:68 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 15:01:13 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:01:36 INFO  Graph:68 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 15:01:36 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:01:39 INFO  Graph:68 - File: KRK_Departures.xlsx successfully opened.
+2023-01-15 15:01:40 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:02:03 INFO  Graph:68 - File: RZE_Departures.xlsx successfully opened.
+2023-01-15 15:02:03 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:02:08 INFO  Graph:68 - File: RZE_Departures.xlsx successfully opened.
+2023-01-15 15:02:08 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:02:16 INFO  Graph:68 - File: SZY_Departures.xlsx successfully opened.
+2023-01-15 15:02:19 INFO  Graph:68 - File: SZY_Departures.xlsx successfully opened.
+2023-01-15 15:02:21 INFO  Graph:68 - File: SZY_Departures.xlsx successfully opened.
+2023-01-15 15:02:28 INFO  Graph:68 - File: WAW_Departures.xlsx successfully opened.
+2023-01-15 15:02:28 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:02:39 INFO  Graph:68 - File: WAW_Departures.xlsx successfully opened.
+2023-01-15 15:02:39 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:02:43 INFO  Graph:68 - File: WAW_Departures.xlsx successfully opened.
+2023-01-15 15:02:43 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:03:23 INFO  Graph:68 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-15 15:03:30 INFO  Graph:68 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-15 15:05:23 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 15:05:24 INFO  MainApp:739 - Connected to the internet
+2023-01-15 15:05:24 INFO  MainApp:758 - Created gui
+2023-01-15 15:05:26 INFO  MainApp:462 - Starting program
+2023-01-15 15:05:33 INFO  Graph:68 - File: WMI_Departures.xlsx successfully opened.
+2023-01-15 15:05:33 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:05:40 INFO  Graph:68 - File: WMI_Arrivals.xlsx successfully opened.
+2023-01-15 15:05:40 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:05:52 INFO  Graph:68 - File: KTW_Arrivals.xlsx successfully opened.
+2023-01-15 15:05:52 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:05:55 INFO  Graph:68 - File: KTW_Arrivals.xlsx successfully opened.
+2023-01-15 15:05:55 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:06:07 INFO  Graph:68 - File: RZE_Arrivals.xlsx successfully opened.
+2023-01-15 15:06:07 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:06:11 INFO  Graph:68 - File: RZE_Arrivals.xlsx successfully opened.
+2023-01-15 15:06:11 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:06:18 INFO  Graph:68 - File: LUZ_Departures.xlsx successfully opened.
+2023-01-15 15:06:18 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:06:23 INFO  Graph:68 - File: LUZ_Departures.xlsx successfully opened.
+2023-01-15 15:06:23 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:06:31 INFO  Graph:68 - File: LCJ_Departures.xlsx successfully opened.
+2023-01-15 15:06:31 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:06:34 INFO  Graph:68 - File: LCJ_Departures.xlsx successfully opened.
+2023-01-15 15:06:35 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:06:42 INFO  Graph:68 - File: BZG_Departures.xlsx successfully opened.
+2023-01-15 15:06:42 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:06:45 INFO  Graph:68 - File: BZG_Departures.xlsx successfully opened.
+2023-01-15 15:06:45 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:06:48 INFO  Graph:68 - File: BZG_Departures.xlsx successfully opened.
+2023-01-15 15:06:48 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:06:56 INFO  Graph:68 - File: KTW_Departures.xlsx successfully opened.
+2023-01-15 15:06:56 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:06:59 INFO  Graph:68 - File: KTW_Departures.xlsx successfully opened.
+2023-01-15 15:06:59 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:07:16 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 15:07:16 INFO  MainApp:739 - Connected to the internet
+2023-01-15 15:07:17 INFO  MainApp:758 - Created gui
+2023-01-15 15:07:18 INFO  MainApp:462 - Starting program
+2023-01-15 15:07:25 INFO  Graph:68 - File: GDN_Departures.xlsx successfully opened.
+2023-01-15 15:07:25 INFO  Graph:68 - File: GDN_Departures.xlsx successfully opened.
+2023-01-15 15:07:28 INFO  Graph:68 - File: GDN_Departures.xlsx successfully opened.
+2023-01-15 15:07:31 INFO  Graph:68 - File: GDN_Arrivals.xlsx successfully opened.
+2023-01-15 15:07:31 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:07:33 INFO  Graph:68 - File: GDN_Arrivals.xlsx successfully opened.
+2023-01-15 15:07:33 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:07:39 INFO  Graph:68 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-15 15:07:41 INFO  Graph:68 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-15 15:07:43 INFO  Graph:68 - File: SZY_Departures.xlsx successfully opened.
+2023-01-15 15:07:44 INFO  Graph:68 - File: SZY_Departures.xlsx successfully opened.
+2023-01-15 15:15:19 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 15:15:19 INFO  MainApp:739 - Connected to the internet
+2023-01-15 15:15:19 INFO  MainApp:758 - Created gui
+2023-01-15 15:15:22 INFO  MainApp:462 - Starting program
+2023-01-15 15:15:28 INFO  Graph:68 - File: BZG_Departures.xlsx successfully opened.
+2023-01-15 15:15:28 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:15:35 INFO  Graph:68 - File: RZE_Departures.xlsx successfully opened.
+2023-01-15 15:15:35 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:15:42 INFO  Graph:68 - File: RZE_Arrivals.xlsx successfully opened.
+2023-01-15 15:15:42 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:15:46 INFO  Graph:68 - File: RZE_Departures.xlsx successfully opened.
+2023-01-15 15:15:46 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:15:51 INFO  Graph:68 - File: SZY_Departures.xlsx successfully opened.
+2023-01-15 15:15:51 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:15:55 INFO  Graph:68 - File: SZY_Departures.xlsx successfully opened.
+2023-01-15 15:15:55 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:16:00 INFO  Graph:68 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-15 15:16:00 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:16:03 INFO  Graph:68 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-15 15:16:03 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:16:09 INFO  Graph:68 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-15 15:16:09 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:16:12 INFO  Graph:68 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-15 15:16:12 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:16:19 INFO  Graph:68 - File: WAW_Arrivals.xlsx successfully opened.
+2023-01-15 15:16:19 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:16:32 INFO  Graph:68 - File: WAW_Departures.xlsx successfully opened.
+2023-01-15 15:16:32 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:17:01 INFO  Graph:68 - File: WAW_Arrivals.xlsx successfully opened.
+2023-01-15 15:17:01 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:17:05 INFO  Graph:68 - File: WAW_Arrivals.xlsx successfully opened.
+2023-01-15 15:17:05 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:20:57 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 15:20:57 INFO  MainApp:739 - Connected to the internet
+2023-01-15 15:20:58 INFO  MainApp:758 - Created gui
+2023-01-15 15:21:05 INFO  MainApp:522 - Downloading SELECTED data
+2023-01-15 15:21:05 ERROR MainApp:541 - None of the airports selected.
+2023-01-15 15:21:09 INFO  MainApp:462 - Starting program
+2023-01-15 15:21:22 INFO  Graph:68 - File: LCJ_Departures.xlsx successfully opened.
+2023-01-15 15:21:22 INFO  Graph:240 - Created "Average delay of Departures by day of week " graph.
+2023-01-15 15:21:22 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:21:27 INFO  Graph:68 - File: LCJ_Arrivals.xlsx successfully opened.
+2023-01-15 15:21:27 INFO  Graph:240 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 15:21:27 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:21:39 INFO  Graph:68 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 15:21:39 INFO  Graph:240 - Created "Number of Arrivals by day of week " graph.
+2023-01-15 15:21:39 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:21:43 INFO  Graph:68 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 15:21:43 INFO  Graph:240 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 15:21:43 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:21:47 INFO  Graph:68 - File: KRK_Departures.xlsx successfully opened.
+2023-01-15 15:21:47 INFO  Graph:240 - Created "Average delay of Departures by day of week " graph.
+2023-01-15 15:21:47 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:22:00 INFO  Graph:68 - File: WMI_Departures.xlsx successfully opened.
+2023-01-15 15:22:00 INFO  Graph:240 - Created "Number of Departures by day of week " graph.
+2023-01-15 15:22:00 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:22:03 INFO  Graph:68 - File: WMI_Departures.xlsx successfully opened.
+2023-01-15 15:22:03 INFO  Graph:240 - Created "Average delay of Departures by day of week " graph.
+2023-01-15 15:22:03 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:22:06 INFO  Graph:68 - File: WMI_Arrivals.xlsx successfully opened.
+2023-01-15 15:22:06 INFO  Graph:240 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 15:22:06 INFO  MainApp:733 - Created plot Number of flights by day of week
+2023-01-15 15:22:24 INFO  Graph:68 - File: WMI_Arrivals.xlsx successfully opened.
+2023-01-15 15:22:24 INFO  Graph:240 - Created "Number of Arrivals by day of week " graph.
+2023-01-15 15:22:24 INFO  MainApp:713 - Created plot Number of flights by day of week
+2023-01-15 15:25:48 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 15:25:48 INFO  MainApp:723 - Connected to the internet
+2023-01-15 15:25:48 INFO  MainApp:742 - Created gui
+2023-01-15 15:26:08 INFO  MainApp:462 - Starting program
+2023-01-15 15:26:54 INFO  MainApp:462 - Starting program
+2023-01-15 15:27:04 INFO  Graph:68 - File: WAW_Arrivals.xlsx successfully opened.
+2023-01-15 15:27:04 INFO  Graph:240 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 15:27:04 INFO  MainApp:717 - Created plot Number of flights by day of week
