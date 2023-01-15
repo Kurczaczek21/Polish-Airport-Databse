@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import org.apache.log4j.Logger;
 
 public class MainApp {
-    private static final Logger logger = Logger.getLogger(MainApp.class);
+    private static final Logger logger = Logger.getLogger(MainApp.class);       //TODO krk arrivals both columnes delay ==0 ? hours?
     JFrame frame = new JFrame("Poland Airports Statistics");
     JPanel panelCont = new JPanel();
     CardLayout cl = new CardLayout();
@@ -473,6 +473,7 @@ public class MainApp {
             @Override
             public void actionPerformed(ActionEvent arg0) {
                 cl.show(panelCont, "2");
+                logger.info("Switching to Selection panel");
             }
         });
 
@@ -480,6 +481,7 @@ public class MainApp {
             @Override
             public void actionPerformed(ActionEvent arg0) {
                 cl.show(panelCont, "1");
+                logger.info("Going back to Hello Panel");
             }
         });
 
@@ -487,6 +489,7 @@ public class MainApp {
             @Override
             public void actionPerformed(ActionEvent arg0) {
                 cl.show(panelCont, "1");
+                logger.info("Going back to Hello Panel");
             }
         });
 
@@ -494,6 +497,7 @@ public class MainApp {
             @Override
             public void actionPerformed(ActionEvent arg0) {
                 cl.show(panelCont, "3");
+                logger.info("Going back to Main Graph Panel");
             }
         });
 
@@ -607,6 +611,7 @@ public class MainApp {
                 choosenAirport="KRK";
                 txtLabel5.setText("KRAKOW - KRK");
                 cl.show(panelCont, "4");
+                logger.info("Choosen"+choosenAirport+" airport");
             }
         });
 
@@ -616,6 +621,7 @@ public class MainApp {
                 choosenAirport="KTW";
                 txtLabel5.setText("KATOWICE - KTW");
                 cl.show(panelCont, "4");
+                logger.info("Choosen"+choosenAirport+" airport");
             }
         });
 
@@ -625,6 +631,7 @@ public class MainApp {
                 choosenAirport="RZE";
                 txtLabel5.setText("RZESZOW - RZE");
                 cl.show(panelCont, "4");
+                logger.info("Choosen"+choosenAirport+" airport");
             }
         });
 
@@ -634,6 +641,7 @@ public class MainApp {
                 choosenAirport="LUZ";
                 txtLabel5.setText("LUBLIN - LUZ");
                 cl.show(panelCont, "4");
+                logger.info("Choosen"+choosenAirport+" airport");
             }
         });
 
@@ -643,6 +651,7 @@ public class MainApp {
                 choosenAirport="LCJ";
                 txtLabel5.setText("LODZ - LCJ");
                 cl.show(panelCont, "4");
+                logger.info("Choosen"+choosenAirport+" airport");
             }
         });
 
@@ -652,6 +661,7 @@ public class MainApp {
                 choosenAirport="WAW";
                 txtLabel5.setText("WARSZAWA - WAW");
                 cl.show(panelCont, "4");
+                logger.info("Choosen"+choosenAirport+" airport");
             }
         });
 
@@ -661,6 +671,7 @@ public class MainApp {
                 choosenAirport="WMI";
                 txtLabel5.setText("MODLIN - WMI");
                 cl.show(panelCont, "4");
+                logger.info("Choosen"+choosenAirport+" airport");
             }
         });
 
@@ -670,6 +681,7 @@ public class MainApp {
                 choosenAirport="POZ";
                 txtLabel5.setText("POZNAN - POZ");
                 cl.show(panelCont, "4");
+                logger.info("Choosen"+choosenAirport+" airport");
             }
         });
 
@@ -679,6 +691,7 @@ public class MainApp {
                 choosenAirport="BZG";
                 txtLabel5.setText("BYDGOSZCZ - BZG");
                 cl.show(panelCont, "4");
+                logger.info("Choosen"+choosenAirport+" airport");
             }
         });
 
@@ -688,6 +701,7 @@ public class MainApp {
                 choosenAirport="SZY";
                 txtLabel5.setText("OLSZTYN - SZY");
                 cl.show(panelCont, "4");
+                logger.info("Choosen"+choosenAirport+" airport");
             }
         });
 
@@ -697,6 +711,7 @@ public class MainApp {
                 choosenAirport="GDN";
                 txtLabel5.setText("GDANSK - GDN");
                 cl.show(panelCont, "4");
+                logger.info("Choosen"+choosenAirport+" airport");
             }
         });
 
@@ -820,7 +835,7 @@ public class MainApp {
         frame.pack();
         frame.setSize(1000,600);
         frame.setIconImage(new ImageIcon("project_data/images/plane_2.png").getImage());
-        logger.info("Created gui");
+        logger.info("Created Main Panel");
         frame.setVisible(true);
 
     }
@@ -829,6 +844,7 @@ public class MainApp {
             @Override
             public void run() {
                 try {
+                    logger.info("Program run");
                     new MainApp();
                 } catch (IOException e) {
                     logger.error("PROGRAM CRASHED!");

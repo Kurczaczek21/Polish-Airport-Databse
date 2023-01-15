@@ -9268,3 +9268,661 @@ Scheduled
 2023-01-15 18:13:44 INFO  AddNewArrivalData:290 - Currently there are 167 flights in database.
 2023-01-15 18:13:44 INFO  UpdateAirports:45 - Data for all airports updated successfully.
 2023-01-15 18:13:44 INFO  UpdateAirports:47 - Process took about 6 minutes and 58 seconds.
+2023-01-15 18:21:38 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 18:21:38 INFO  MainApp:803 - Connected to the internet
+2023-01-15 18:21:38 INFO  MainApp:823 - Created gui
+2023-01-15 18:22:11 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 18:22:11 INFO  MainApp:803 - Connected to the internet
+2023-01-15 18:22:11 INFO  MainApp:823 - Created gui
+2023-01-15 18:22:18 INFO  MainApp:467 - Starting program
+2023-01-15 18:22:40 INFO  MainApp:467 - Starting program
+2023-01-15 18:22:46 INFO  MainApp:596 - Selected all airports
+2023-01-15 18:22:48 INFO  MainApp:596 - Selected all airports
+2023-01-15 18:22:55 INFO  MainApp:527 - Downloading SELECTED data
+2023-01-15 18:22:59 INFO  UpdateAirports:18 - downloading Arrival data for KRK
+2023-01-15 18:22:59 INFO  UpdateAirports:30 - downloading Departure data for KRK
+2023-01-15 18:23:00 INFO  AddNewArrivalData:23 - File KRK_Arrivals.xlsx successfully opened.
+2023-01-15 18:23:00 INFO  AddNewDeparturesData:22 - File KRK_Departures.xlsxsuccessfully opened.
+2023-01-15 18:23:09 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+2023-01-15 18:23:10 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+2023-01-15 18:23:58 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-15 18:23:59 INFO  AddNewArrivalData:288 - Excel file 'KRK_Arrivals.xlsx' updated successfully.
+2023-01-15 18:23:59 INFO  AddNewArrivalData:289 - Added 12 new flights to KRK airport Arrivals database.
+2023-01-15 18:23:59 INFO  AddNewArrivalData:290 - Currently there are 583 flights in database.
+2023-01-15 18:24:01 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-15 18:24:01 INFO  AddNewDeparturesData:283 - Excel file 'KRK_Departures.xlsx' updated successfully.
+2023-01-15 18:24:01 INFO  AddNewDeparturesData:284 - Added 1 new flights to KRK airport Departures database.
+2023-01-15 18:24:01 INFO  AddNewDeparturesData:285 - Currently there are 572 flights in database.
+2023-01-15 18:24:01 INFO  UpdateAirports:45 - Data for all airports updated successfully.
+2023-01-15 18:24:01 INFO  UpdateAirports:47 - Process took about 1 minutes and 5 seconds.
+2023-01-15 18:25:28 INFO  MainApp:467 - Starting program
+2023-01-15 18:25:32 INFO  GraphByAllAirports:41 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 18:25:32 INFO  GraphByAllAirports:41 - File: BZG_Arrivals.xlsx successfully opened.
+2023-01-15 18:25:32 INFO  GraphByAllAirports:41 - File: GDN_Arrivals.xlsx successfully opened.
+2023-01-15 18:25:32 INFO  GraphByAllAirports:41 - File: KTW_Arrivals.xlsx successfully opened.
+2023-01-15 18:25:32 INFO  GraphByAllAirports:41 - File: LCJ_Arrivals.xlsx successfully opened.
+2023-01-15 18:25:32 INFO  GraphByAllAirports:41 - File: LUZ_Arrivals.xlsx successfully opened.
+2023-01-15 18:25:32 INFO  GraphByAllAirports:41 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-15 18:25:32 INFO  GraphByAllAirports:41 - File: POZ_Arrivals.xlsx successfully opened.
+2023-01-15 18:25:33 INFO  GraphByAllAirports:41 - File: WMI_Arrivals.xlsx successfully opened.
+2023-01-15 18:25:33 INFO  GraphByAllAirports:41 - File: WAW_Arrivals.xlsx successfully opened.
+2023-01-15 18:25:33 INFO  GraphByAllAirports:41 - File: RZE_Arrivals.xlsx successfully opened.
+2023-01-15 18:25:33 INFO  GraphByAllAirports:100 - Created "Number of Arrivals by airport " graph.
+2023-01-15 18:25:33 INFO  MainApp:759 - Created plot Daily arrivals by airport
+2023-01-15 18:25:39 INFO  GraphByAllAirports:41 - File: KRK_Departures.xlsx successfully opened.
+2023-01-15 18:25:39 INFO  GraphByAllAirports:41 - File: BZG_Departures.xlsx successfully opened.
+2023-01-15 18:25:39 INFO  GraphByAllAirports:41 - File: GDN_Departures.xlsx successfully opened.
+2023-01-15 18:25:39 INFO  GraphByAllAirports:41 - File: KTW_Departures.xlsx successfully opened.
+2023-01-15 18:25:39 INFO  GraphByAllAirports:41 - File: LCJ_Departures.xlsx successfully opened.
+2023-01-15 18:25:39 INFO  GraphByAllAirports:41 - File: LUZ_Departures.xlsx successfully opened.
+2023-01-15 18:25:39 INFO  GraphByAllAirports:41 - File: SZY_Departures.xlsx successfully opened.
+2023-01-15 18:25:39 INFO  GraphByAllAirports:41 - File: POZ_Departures.xlsx successfully opened.
+2023-01-15 18:25:39 INFO  GraphByAllAirports:41 - File: WMI_Departures.xlsx successfully opened.
+2023-01-15 18:25:39 INFO  GraphByAllAirports:41 - File: WAW_Departures.xlsx successfully opened.
+2023-01-15 18:25:39 INFO  GraphByAllAirports:41 - File: RZE_Departures.xlsx successfully opened.
+2023-01-15 18:25:39 INFO  GraphByAllAirports:100 - Created "Number of Departures by airport " graph.
+2023-01-15 18:25:39 INFO  MainApp:771 - Created plot Daily departures by airport
+2023-01-15 18:25:41 INFO  GraphByAllAirports:41 - File: KRK_Departures.xlsx successfully opened.
+2023-01-15 18:25:41 INFO  GraphByAllAirports:41 - File: BZG_Departures.xlsx successfully opened.
+2023-01-15 18:25:41 INFO  GraphByAllAirports:41 - File: GDN_Departures.xlsx successfully opened.
+2023-01-15 18:25:41 INFO  GraphByAllAirports:41 - File: KTW_Departures.xlsx successfully opened.
+2023-01-15 18:25:41 INFO  GraphByAllAirports:41 - File: LCJ_Departures.xlsx successfully opened.
+2023-01-15 18:25:41 INFO  GraphByAllAirports:41 - File: LUZ_Departures.xlsx successfully opened.
+2023-01-15 18:25:41 INFO  GraphByAllAirports:41 - File: SZY_Departures.xlsx successfully opened.
+2023-01-15 18:25:41 INFO  GraphByAllAirports:41 - File: POZ_Departures.xlsx successfully opened.
+2023-01-15 18:25:41 INFO  GraphByAllAirports:41 - File: WMI_Departures.xlsx successfully opened.
+2023-01-15 18:25:41 INFO  GraphByAllAirports:41 - File: WAW_Departures.xlsx successfully opened.
+2023-01-15 18:25:41 INFO  GraphByAllAirports:41 - File: RZE_Departures.xlsx successfully opened.
+2023-01-15 18:25:41 INFO  GraphByAllAirports:100 - Created "Average delay of Departures by airport " graph.
+2023-01-15 18:25:41 INFO  MainApp:795 - Created plot Daily departures by airport
+2023-01-15 18:26:31 INFO  MainApp:467 - Starting program
+2023-01-15 18:26:39 INFO  MainApp:527 - Downloading SELECTED data
+2023-01-15 18:26:39 ERROR MainApp:546 - None of the airports selected.
+2023-01-15 18:26:45 INFO  MainApp:467 - Starting program
+2023-01-15 18:26:49 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 18:26:49 INFO  GraphByDayOfWeek:236 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 18:26:49 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-15 18:27:19 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 18:27:19 INFO  GraphByDayOfWeek:236 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 18:27:19 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-15 18:27:30 INFO  MainApp:467 - Starting program
+2023-01-15 18:27:38 INFO  GraphByDayOfWeek:65 - File: KRK_Departures.xlsx successfully opened.
+2023-01-15 18:27:38 INFO  GraphByDayOfWeek:236 - Created "Average delay of Departures by day of week " graph.
+2023-01-15 18:27:38 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-15 18:27:41 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 18:27:41 INFO  GraphByDayOfWeek:236 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 18:27:41 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-15 18:28:12 INFO  MainApp:432 - Downloading all airports data.
+2023-01-15 18:28:16 INFO  UpdateAirports:18 - downloading Arrival data for KRK
+2023-01-15 18:28:16 INFO  UpdateAirports:30 - downloading Departure data for KRK
+2023-01-15 18:28:16 INFO  AddNewArrivalData:23 - File KRK_Arrivals.xlsx successfully opened.
+2023-01-15 18:28:16 INFO  AddNewDeparturesData:22 - File KRK_Departures.xlsxsuccessfully opened.
+2023-01-15 23:06:27 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 23:06:27 INFO  MainApp:803 - Connected to the internet
+2023-01-15 23:06:27 INFO  MainApp:823 - Created gui
+2023-01-15 23:06:30 INFO  MainApp:467 - Starting program
+2023-01-15 23:41:28 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 23:41:28 INFO  MainApp:803 - Connected to the internet
+2023-01-15 23:41:28 INFO  MainApp:823 - Created gui
+2023-01-15 23:41:31 INFO  MainApp:467 - Starting program
+2023-01-15 23:41:39 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 23:41:39 INFO  GraphByDayOfWeek:236 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 23:41:40 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-15 23:41:42 INFO  GraphByAirline:39 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 23:41:42 INFO  GraphByAirline:96 - Created "Average delay of Arrivals by airline " graph.
+2023-01-15 23:41:42 INFO  MainApp:746 - Created plot Average delay by airline
+2023-01-15 23:41:48 INFO  MainApp:432 - Downloading all airports data.
+2023-01-15 23:41:52 INFO  UpdateAirports:30 - downloading Departure data for KRK
+2023-01-15 23:41:52 INFO  UpdateAirports:18 - downloading Arrival data for KRK
+2023-01-15 23:41:52 INFO  AddNewDeparturesData:22 - File KRK_Departures.xlsxsuccessfully opened.
+2023-01-15 23:41:52 INFO  AddNewArrivalData:23 - File KRK_Arrivals.xlsx successfully opened.
+2023-01-15 23:42:03 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+2023-01-15 23:42:03 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+2023-01-15 23:42:52 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-15 23:42:53 INFO  AddNewDeparturesData:283 - Excel file 'KRK_Departures.xlsx' updated successfully.
+2023-01-15 23:42:53 INFO  AddNewDeparturesData:284 - Added 20 new flights to KRK airport Departures database.
+2023-01-15 23:42:53 INFO  AddNewDeparturesData:285 - Currently there are 592 flights in database.
+2023-01-15 23:42:54 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-15 23:42:54 INFO  AddNewArrivalData:288 - Excel file 'KRK_Arrivals.xlsx' updated successfully.
+2023-01-15 23:42:54 INFO  AddNewArrivalData:289 - Added 27 new flights to KRK airport Arrivals database.
+2023-01-15 23:42:54 INFO  AddNewArrivalData:290 - Currently there are 610 flights in database.
+2023-01-15 23:42:54 INFO  UpdateAirports:18 - downloading Arrival data for WAW
+2023-01-15 23:42:54 INFO  UpdateAirports:30 - downloading Departure data for WAW
+2023-01-15 23:42:54 INFO  AddNewArrivalData:23 - File WAW_Arrivals.xlsx successfully opened.
+2023-01-15 23:42:54 INFO  AddNewDeparturesData:22 - File WAW_Departures.xlsxsuccessfully opened.
+2023-01-15 23:43:03 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/arrivals'.
+2023-01-15 23:43:03 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+2023-01-15 23:44:30 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-15 23:44:30 INFO  AddNewDeparturesData:283 - Excel file 'WAW_Departures.xlsx' updated successfully.
+2023-01-15 23:44:30 INFO  AddNewDeparturesData:284 - Added 42 new flights to WAW airport Departures database.
+2023-01-15 23:44:30 INFO  AddNewDeparturesData:285 - Currently there are 1605 flights in database.
+2023-01-15 23:44:32 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-15 23:44:32 INFO  AddNewArrivalData:288 - Excel file 'WAW_Arrivals.xlsx' updated successfully.
+2023-01-15 23:44:32 INFO  AddNewArrivalData:289 - Added 57 new flights to WAW airport Arrivals database.
+2023-01-15 23:44:32 INFO  AddNewArrivalData:290 - Currently there are 1585 flights in database.
+2023-01-15 23:44:32 INFO  UpdateAirports:18 - downloading Arrival data for KTW
+2023-01-15 23:44:32 INFO  UpdateAirports:30 - downloading Departure data for KTW
+2023-01-15 23:44:32 INFO  AddNewDeparturesData:22 - File KTW_Departures.xlsxsuccessfully opened.
+2023-01-15 23:44:32 INFO  AddNewArrivalData:23 - File KTW_Arrivals.xlsx successfully opened.
+2023-01-15 23:44:40 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/departures'.
+2023-01-15 23:44:41 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/arrivals'.
+2023-01-15 23:45:07 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-15 23:45:07 INFO  AddNewDeparturesData:283 - Excel file 'KTW_Departures.xlsx' updated successfully.
+2023-01-15 23:45:07 INFO  AddNewDeparturesData:284 - Added 6 new flights to KTW airport Departures database.
+2023-01-15 23:45:07 INFO  AddNewDeparturesData:285 - Currently there are 317 flights in database.
+2023-01-15 23:45:09 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-15 23:45:09 INFO  AddNewArrivalData:288 - Excel file 'KTW_Arrivals.xlsx' updated successfully.
+2023-01-15 23:45:09 INFO  AddNewArrivalData:289 - Added 10 new flights to KTW airport Arrivals database.
+2023-01-15 23:45:09 INFO  AddNewArrivalData:290 - Currently there are 322 flights in database.
+2023-01-15 23:45:09 INFO  UpdateAirports:30 - downloading Departure data for WMI
+2023-01-15 23:45:09 INFO  UpdateAirports:18 - downloading Arrival data for WMI
+2023-01-15 23:45:09 INFO  AddNewDeparturesData:22 - File WMI_Departures.xlsxsuccessfully opened.
+2023-01-15 23:45:09 INFO  AddNewArrivalData:23 - File WMI_Arrivals.xlsx successfully opened.
+2023-01-15 23:45:17 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/departures'.
+2023-01-15 23:45:17 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/arrivals'.
+2023-01-15 23:45:38 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-15 23:45:38 INFO  AddNewDeparturesData:283 - Excel file 'WMI_Departures.xlsx' updated successfully.
+2023-01-15 23:45:38 INFO  AddNewDeparturesData:284 - Added 6 new flights to WMI airport Departures database.
+2023-01-15 23:45:38 INFO  AddNewDeparturesData:285 - Currently there are 189 flights in database.
+2023-01-15 23:45:38 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-15 23:45:38 INFO  AddNewArrivalData:288 - Excel file 'WMI_Arrivals.xlsx' updated successfully.
+2023-01-15 23:45:38 INFO  AddNewArrivalData:289 - Added 10 new flights to WMI airport Arrivals database.
+2023-01-15 23:45:38 INFO  AddNewArrivalData:290 - Currently there are 194 flights in database.
+2023-01-15 23:45:38 INFO  UpdateAirports:18 - downloading Arrival data for GDN
+2023-01-15 23:45:38 INFO  UpdateAirports:30 - downloading Departure data for GDN
+2023-01-15 23:45:38 INFO  AddNewDeparturesData:22 - File GDN_Departures.xlsxsuccessfully opened.
+2023-01-15 23:45:38 INFO  AddNewArrivalData:23 - File GDN_Arrivals.xlsx successfully opened.
+2023-01-15 23:45:46 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+2023-01-15 23:45:46 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/arrivals'.
+2023-01-15 23:46:15 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-15 23:46:15 INFO  AddNewDeparturesData:283 - Excel file 'GDN_Departures.xlsx' updated successfully.
+2023-01-15 23:46:15 INFO  AddNewDeparturesData:284 - Added 9 new flights to GDN airport Departures database.
+2023-01-15 23:46:15 INFO  AddNewDeparturesData:285 - Currently there are 358 flights in database.
+2023-01-15 23:46:15 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-15 23:46:15 INFO  AddNewArrivalData:288 - Excel file 'GDN_Arrivals.xlsx' updated successfully.
+2023-01-15 23:46:15 INFO  AddNewArrivalData:289 - Added 20 new flights to GDN airport Arrivals database.
+2023-01-15 23:46:15 INFO  AddNewArrivalData:290 - Currently there are 462 flights in database.
+2023-01-15 23:46:15 INFO  UpdateAirports:18 - downloading Arrival data for LUZ
+2023-01-15 23:46:15 INFO  UpdateAirports:30 - downloading Departure data for LUZ
+2023-01-15 23:46:15 INFO  AddNewArrivalData:23 - File LUZ_Arrivals.xlsx successfully opened.
+2023-01-15 23:46:15 INFO  AddNewDeparturesData:22 - File LUZ_Departures.xlsxsuccessfully opened.
+2023-01-15 23:46:23 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/departures'.
+2023-01-15 23:46:24 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/arrivals'.
+2023-01-15 23:46:38 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-15 23:46:38 INFO  AddNewDeparturesData:283 - Excel file 'LUZ_Departures.xlsx' updated successfully.
+2023-01-15 23:46:38 INFO  AddNewDeparturesData:284 - Added 1 new flights to LUZ airport Departures database.
+2023-01-15 23:46:38 INFO  AddNewDeparturesData:285 - Currently there are 26 flights in database.
+2023-01-15 23:46:39 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-15 23:46:39 INFO  AddNewArrivalData:288 - Excel file 'LUZ_Arrivals.xlsx' updated successfully.
+2023-01-15 23:46:39 INFO  AddNewArrivalData:289 - Added 1 new flights to LUZ airport Arrivals database.
+2023-01-15 23:46:39 INFO  AddNewArrivalData:290 - Currently there are 27 flights in database.
+2023-01-15 23:46:39 INFO  UpdateAirports:18 - downloading Arrival data for BZG
+2023-01-15 23:46:39 INFO  UpdateAirports:30 - downloading Departure data for BZG
+2023-01-15 23:46:39 INFO  AddNewArrivalData:23 - File BZG_Arrivals.xlsx successfully opened.
+2023-01-15 23:46:39 INFO  AddNewDeparturesData:22 - File BZG_Departures.xlsxsuccessfully opened.
+2023-01-15 23:46:47 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/arrivals'.
+2023-01-15 23:46:47 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+2023-01-15 23:47:01 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-15 23:47:01 INFO  AddNewArrivalData:288 - Excel file 'BZG_Arrivals.xlsx' updated successfully.
+2023-01-15 23:47:01 INFO  AddNewArrivalData:289 - Added 1 new flights to BZG airport Arrivals database.
+2023-01-15 23:47:01 INFO  AddNewArrivalData:290 - Currently there are 28 flights in database.
+2023-01-15 23:47:01 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-15 23:47:01 INFO  AddNewDeparturesData:283 - Excel file 'BZG_Departures.xlsx' updated successfully.
+2023-01-15 23:47:01 INFO  AddNewDeparturesData:284 - Added 1 new flights to BZG airport Departures database.
+2023-01-15 23:47:01 INFO  AddNewDeparturesData:285 - Currently there are 29 flights in database.
+2023-01-15 23:47:01 INFO  UpdateAirports:18 - downloading Arrival data for LCJ
+2023-01-15 23:47:01 INFO  UpdateAirports:30 - downloading Departure data for LCJ
+2023-01-15 23:47:01 INFO  AddNewDeparturesData:22 - File LCJ_Departures.xlsxsuccessfully opened.
+2023-01-15 23:47:01 INFO  AddNewArrivalData:23 - File LCJ_Arrivals.xlsx successfully opened.
+2023-01-15 23:47:10 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/arrivals'.
+2023-01-15 23:47:10 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/departures'.
+2023-01-15 23:47:24 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-15 23:47:24 INFO  AddNewDeparturesData:283 - Excel file 'LCJ_Departures.xlsx' updated successfully.
+2023-01-15 23:47:24 INFO  AddNewDeparturesData:284 - Added 0 new flights to LCJ airport Departures database.
+2023-01-15 23:47:24 INFO  AddNewDeparturesData:285 - Currently there are 23 flights in database.
+2023-01-15 23:47:24 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-15 23:47:24 INFO  AddNewArrivalData:288 - Excel file 'LCJ_Arrivals.xlsx' updated successfully.
+2023-01-15 23:47:24 INFO  AddNewArrivalData:289 - Added 0 new flights to LCJ airport Arrivals database.
+2023-01-15 23:47:24 INFO  AddNewArrivalData:290 - Currently there are 21 flights in database.
+2023-01-15 23:47:24 INFO  UpdateAirports:18 - downloading Arrival data for SZY
+2023-01-15 23:47:24 INFO  UpdateAirports:30 - downloading Departure data for SZY
+2023-01-15 23:47:24 INFO  AddNewDeparturesData:22 - File SZY_Departures.xlsxsuccessfully opened.
+2023-01-15 23:47:24 INFO  AddNewArrivalData:23 - File SZY_Arrivals.xlsx successfully opened.
+2023-01-15 23:47:32 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/arrivals'.
+2023-01-15 23:47:32 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/departures'.
+2023-01-15 23:47:46 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-15 23:47:46 INFO  AddNewArrivalData:288 - Excel file 'SZY_Arrivals.xlsx' updated successfully.
+2023-01-15 23:47:46 INFO  AddNewArrivalData:289 - Added 0 new flights to SZY airport Arrivals database.
+2023-01-15 23:47:46 INFO  AddNewArrivalData:290 - Currently there are 11 flights in database.
+2023-01-15 23:47:46 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-15 23:47:46 INFO  AddNewDeparturesData:283 - Excel file 'SZY_Departures.xlsx' updated successfully.
+2023-01-15 23:47:46 INFO  AddNewDeparturesData:284 - Added 1 new flights to SZY airport Departures database.
+2023-01-15 23:47:46 INFO  AddNewDeparturesData:285 - Currently there are 11 flights in database.
+2023-01-15 23:47:46 INFO  UpdateAirports:18 - downloading Arrival data for RZE
+2023-01-15 23:47:46 INFO  UpdateAirports:30 - downloading Departure data for RZE
+2023-01-15 23:47:46 INFO  AddNewArrivalData:23 - File RZE_Arrivals.xlsx successfully opened.
+2023-01-15 23:47:46 INFO  AddNewDeparturesData:22 - File RZE_Departures.xlsxsuccessfully opened.
+2023-01-15 23:47:53 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/arrivals'.
+2023-01-15 23:47:53 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/departures'.
+2023-01-15 23:48:12 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-15 23:48:12 INFO  AddNewDeparturesData:283 - Excel file 'RZE_Departures.xlsx' updated successfully.
+2023-01-15 23:48:12 INFO  AddNewDeparturesData:284 - Added 0 new flights to RZE airport Departures database.
+2023-01-15 23:48:12 INFO  AddNewDeparturesData:285 - Currently there are 82 flights in database.
+2023-01-15 23:48:12 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-15 23:48:12 INFO  AddNewArrivalData:288 - Excel file 'RZE_Arrivals.xlsx' updated successfully.
+2023-01-15 23:48:12 INFO  AddNewArrivalData:289 - Added 1 new flights to RZE airport Arrivals database.
+2023-01-15 23:48:12 INFO  AddNewArrivalData:290 - Currently there are 81 flights in database.
+2023-01-15 23:48:12 INFO  UpdateAirports:18 - downloading Arrival data for POZ
+2023-01-15 23:48:12 INFO  UpdateAirports:30 - downloading Departure data for POZ
+2023-01-15 23:48:12 INFO  AddNewDeparturesData:22 - File POZ_Departures.xlsxsuccessfully opened.
+2023-01-15 23:48:12 INFO  AddNewArrivalData:23 - File POZ_Arrivals.xlsx successfully opened.
+2023-01-15 23:48:20 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/departures'.
+2023-01-15 23:48:21 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/arrivals'.
+2023-01-15 23:48:42 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-15 23:48:42 INFO  AddNewDeparturesData:283 - Excel file 'POZ_Departures.xlsx' updated successfully.
+2023-01-15 23:48:42 INFO  AddNewDeparturesData:284 - Added 3 new flights to POZ airport Departures database.
+2023-01-15 23:48:42 INFO  AddNewDeparturesData:285 - Currently there are 177 flights in database.
+2023-01-15 23:48:44 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-15 23:48:44 INFO  AddNewArrivalData:288 - Excel file 'POZ_Arrivals.xlsx' updated successfully.
+2023-01-15 23:48:44 INFO  AddNewArrivalData:289 - Added 9 new flights to POZ airport Arrivals database.
+2023-01-15 23:48:44 INFO  AddNewArrivalData:290 - Currently there are 176 flights in database.
+2023-01-15 23:48:44 INFO  UpdateAirports:45 - Data for all airports updated successfully.
+2023-01-15 23:48:44 INFO  UpdateAirports:47 - Process took about 6 minutes and 56 seconds.
+2023-01-15 23:48:55 INFO  MainApp:467 - Starting program
+2023-01-15 23:49:04 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 23:49:04 INFO  GraphByDayOfWeek:236 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 23:49:04 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-15 23:49:19 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 23:49:19 INFO  GraphByDayOfWeek:236 - Created "Number of Arrivals by day of week " graph.
+2023-01-15 23:49:19 INFO  MainApp:710 - Created plot Number of flights by day of week
+2023-01-15 23:49:26 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 23:49:26 INFO  GraphByDayOfWeek:236 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 23:49:26 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-15 23:56:57 INFO  CheckConnection:11 - Checking internet connection
+2023-01-15 23:56:57 INFO  MainApp:803 - Connected to the internet
+2023-01-15 23:56:57 INFO  MainApp:823 - Created gui
+2023-01-15 23:56:59 INFO  MainApp:467 - Starting program
+2023-01-15 23:57:03 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 23:57:03 INFO  GraphByDayOfWeek:236 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 23:57:04 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-15 23:57:10 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 23:57:10 INFO  GraphByDayOfWeek:236 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 23:57:10 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-15 23:57:13 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 23:57:13 INFO  GraphByDayOfWeek:236 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 23:57:13 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-15 23:57:31 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-15 23:57:31 INFO  GraphByDayOfWeek:236 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-15 23:57:31 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-16 00:00:51 INFO  CheckConnection:11 - Checking internet connection
+2023-01-16 00:00:51 INFO  MainApp:803 - Connected to the internet
+2023-01-16 00:00:51 INFO  MainApp:823 - Created gui
+2023-01-16 00:00:52 INFO  MainApp:467 - Starting program
+2023-01-16 00:00:57 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:00:57 INFO  GraphByDayOfWeek:236 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-16 00:00:57 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-16 00:01:36 INFO  CheckConnection:11 - Checking internet connection
+2023-01-16 00:01:36 INFO  MainApp:803 - Connected to the internet
+2023-01-16 00:01:36 INFO  MainApp:823 - Created gui
+2023-01-16 00:01:37 INFO  MainApp:467 - Starting program
+2023-01-16 00:01:40 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:01:40 INFO  GraphByDayOfWeek:236 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-16 00:01:40 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-16 00:05:48 INFO  CheckConnection:11 - Checking internet connection
+2023-01-16 00:05:48 INFO  MainApp:803 - Connected to the internet
+2023-01-16 00:05:48 INFO  MainApp:823 - Created gui
+2023-01-16 00:05:49 INFO  MainApp:467 - Starting program
+2023-01-16 00:05:51 INFO  MainApp:467 - Starting program
+2023-01-16 00:05:54 INFO  GraphByDayOfWeek:65 - File: KRK_Departures.xlsx successfully opened.
+2023-01-16 00:05:54 INFO  GraphByDayOfWeek:232 - Created "Average delay of Departures by day of week " graph.
+2023-01-16 00:05:54 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-16 00:06:04 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:06:04 INFO  GraphByDayOfWeek:232 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-16 00:06:04 INFO  MainApp:722 - Created plot Number of flights by day of week
+2023-01-16 00:16:33 INFO  MainApp:847 - Program run
+2023-01-16 00:16:33 INFO  CheckConnection:11 - Checking internet connection
+2023-01-16 00:16:33 INFO  MainApp:818 - Connected to the internet
+2023-01-16 00:16:33 INFO  MainApp:838 - Created Main Panel
+2023-01-16 00:16:34 INFO  MainApp:467 - Starting program
+2023-01-16 00:16:36 INFO  MainApp:492 - Going back to Hello Panel
+2023-01-16 00:16:37 INFO  MainApp:467 - Starting program
+2023-01-16 00:16:40 INFO  GraphByAllAirports:41 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:16:40 INFO  GraphByAllAirports:41 - File: BZG_Arrivals.xlsx successfully opened.
+2023-01-16 00:16:40 INFO  GraphByAllAirports:41 - File: GDN_Arrivals.xlsx successfully opened.
+2023-01-16 00:16:40 INFO  GraphByAllAirports:41 - File: KTW_Arrivals.xlsx successfully opened.
+2023-01-16 00:16:40 INFO  GraphByAllAirports:41 - File: LCJ_Arrivals.xlsx successfully opened.
+2023-01-16 00:16:40 INFO  GraphByAllAirports:41 - File: LUZ_Arrivals.xlsx successfully opened.
+2023-01-16 00:16:40 INFO  GraphByAllAirports:41 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-16 00:16:40 INFO  GraphByAllAirports:41 - File: POZ_Arrivals.xlsx successfully opened.
+2023-01-16 00:16:40 INFO  GraphByAllAirports:41 - File: WMI_Arrivals.xlsx successfully opened.
+2023-01-16 00:16:40 INFO  GraphByAllAirports:41 - File: WAW_Arrivals.xlsx successfully opened.
+2023-01-16 00:16:40 INFO  GraphByAllAirports:41 - File: RZE_Arrivals.xlsx successfully opened.
+2023-01-16 00:16:40 INFO  GraphByAllAirports:100 - Created "Number of Arrivals by airport " graph.
+2023-01-16 00:16:40 INFO  MainApp:774 - Created plot Daily arrivals by airport
+2023-01-16 00:16:57 INFO  GraphByAllAirports:41 - File: KRK_Departures.xlsx successfully opened.
+2023-01-16 00:16:57 INFO  GraphByAllAirports:41 - File: BZG_Departures.xlsx successfully opened.
+2023-01-16 00:16:57 INFO  GraphByAllAirports:41 - File: GDN_Departures.xlsx successfully opened.
+2023-01-16 00:16:57 INFO  GraphByAllAirports:41 - File: KTW_Departures.xlsx successfully opened.
+2023-01-16 00:16:58 INFO  GraphByAllAirports:41 - File: LCJ_Departures.xlsx successfully opened.
+2023-01-16 00:16:58 INFO  GraphByAllAirports:41 - File: LUZ_Departures.xlsx successfully opened.
+2023-01-16 00:16:58 INFO  GraphByAllAirports:41 - File: SZY_Departures.xlsx successfully opened.
+2023-01-16 00:16:58 INFO  GraphByAllAirports:41 - File: POZ_Departures.xlsx successfully opened.
+2023-01-16 00:16:58 INFO  GraphByAllAirports:41 - File: WMI_Departures.xlsx successfully opened.
+2023-01-16 00:16:58 INFO  GraphByAllAirports:41 - File: WAW_Departures.xlsx successfully opened.
+2023-01-16 00:16:58 INFO  GraphByAllAirports:41 - File: RZE_Departures.xlsx successfully opened.
+2023-01-16 00:16:58 INFO  GraphByAllAirports:100 - Created "Number of Departures by airport " graph.
+2023-01-16 00:16:58 INFO  MainApp:786 - Created plot Daily departures by airport
+2023-01-16 00:17:02 INFO  GraphByAllAirports:41 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:17:02 INFO  GraphByAllAirports:41 - File: BZG_Arrivals.xlsx successfully opened.
+2023-01-16 00:17:02 INFO  GraphByAllAirports:41 - File: GDN_Arrivals.xlsx successfully opened.
+2023-01-16 00:17:02 INFO  GraphByAllAirports:41 - File: KTW_Arrivals.xlsx successfully opened.
+2023-01-16 00:17:02 INFO  GraphByAllAirports:41 - File: LCJ_Arrivals.xlsx successfully opened.
+2023-01-16 00:17:02 INFO  GraphByAllAirports:41 - File: LUZ_Arrivals.xlsx successfully opened.
+2023-01-16 00:17:02 INFO  GraphByAllAirports:41 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-16 00:17:02 INFO  GraphByAllAirports:41 - File: POZ_Arrivals.xlsx successfully opened.
+2023-01-16 00:17:02 INFO  GraphByAllAirports:41 - File: WMI_Arrivals.xlsx successfully opened.
+2023-01-16 00:17:02 INFO  GraphByAllAirports:41 - File: WAW_Arrivals.xlsx successfully opened.
+2023-01-16 00:17:02 INFO  GraphByAllAirports:41 - File: RZE_Arrivals.xlsx successfully opened.
+2023-01-16 00:17:02 INFO  GraphByAllAirports:100 - Created "Average delay of Arrivals by airport " graph.
+2023-01-16 00:17:02 INFO  MainApp:798 - Created plot Average arrival delay by airport
+2023-01-16 00:17:05 INFO  GraphByAllAirports:41 - File: KRK_Departures.xlsx successfully opened.
+2023-01-16 00:17:05 INFO  GraphByAllAirports:41 - File: BZG_Departures.xlsx successfully opened.
+2023-01-16 00:17:05 INFO  GraphByAllAirports:41 - File: GDN_Departures.xlsx successfully opened.
+2023-01-16 00:17:05 INFO  GraphByAllAirports:41 - File: KTW_Departures.xlsx successfully opened.
+2023-01-16 00:17:05 INFO  GraphByAllAirports:41 - File: LCJ_Departures.xlsx successfully opened.
+2023-01-16 00:17:05 INFO  GraphByAllAirports:41 - File: LUZ_Departures.xlsx successfully opened.
+2023-01-16 00:17:05 INFO  GraphByAllAirports:41 - File: SZY_Departures.xlsx successfully opened.
+2023-01-16 00:17:05 INFO  GraphByAllAirports:41 - File: POZ_Departures.xlsx successfully opened.
+2023-01-16 00:17:05 INFO  GraphByAllAirports:41 - File: WMI_Departures.xlsx successfully opened.
+2023-01-16 00:17:05 INFO  GraphByAllAirports:41 - File: WAW_Departures.xlsx successfully opened.
+2023-01-16 00:17:05 INFO  GraphByAllAirports:41 - File: RZE_Departures.xlsx successfully opened.
+2023-01-16 00:17:05 INFO  GraphByAllAirports:100 - Created "Average delay of Departures by airport " graph.
+2023-01-16 00:17:05 INFO  MainApp:810 - Created plot Daily departures by airport
+2023-01-16 00:17:11 INFO  MainApp:664 - ChoosenWAW airport
+2023-01-16 00:17:13 INFO  GraphByAirline:39 - File: WAW_Departures.xlsx successfully opened.
+2023-01-16 00:17:13 INFO  GraphByAirline:96 - Created "Average delay of Departures by airline " graph.
+2023-01-16 00:17:13 INFO  MainApp:761 - Created plot Average delay by airline
+2023-01-16 00:17:44 INFO  GraphByAirline:39 - File: WAW_Arrivals.xlsx successfully opened.
+2023-01-16 00:17:44 INFO  GraphByAirline:96 - Created "Average delay of Arrivals by airline " graph.
+2023-01-16 00:17:44 INFO  MainApp:761 - Created plot Average delay by airline
+2023-01-16 00:17:58 INFO  MainApp:500 - Going back to Main Graph Panel
+2023-01-16 00:17:59 INFO  MainApp:614 - ChoosenKRK airport
+2023-01-16 00:18:01 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:18:01 INFO  GraphByDayOfWeek:223 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-16 00:18:01 INFO  MainApp:737 - Created plot Number of flights by day of week
+2023-01-16 00:18:08 INFO  GraphByAirline:39 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:18:08 INFO  GraphByAirline:96 - Created "Average delay of Arrivals by airline " graph.
+2023-01-16 00:18:08 INFO  MainApp:761 - Created plot Average delay by airline
+2023-01-16 00:23:39 INFO  MainApp:847 - Program run
+2023-01-16 00:23:39 INFO  CheckConnection:11 - Checking internet connection
+2023-01-16 00:23:39 INFO  MainApp:818 - Connected to the internet
+2023-01-16 00:23:39 INFO  MainApp:838 - Created Main Panel
+2023-01-16 00:23:41 INFO  MainApp:432 - Downloading all airports data.
+2023-01-16 00:23:45 INFO  UpdateAirports:18 - downloading Arrival data for KRK
+2023-01-16 00:23:45 INFO  UpdateAirports:30 - downloading Departure data for KRK
+2023-01-16 00:23:46 INFO  AddNewArrivalData:23 - File KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:23:46 INFO  AddNewDeparturesData:22 - File KRK_Departures.xlsxsuccessfully opened.
+2023-01-16 00:23:53 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+2023-01-16 00:23:53 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+2023-01-16 00:24:33 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-16 00:24:33 INFO  AddNewDeparturesData:283 - Excel file 'KRK_Departures.xlsx' updated successfully.
+2023-01-16 00:24:33 INFO  AddNewDeparturesData:284 - Added 0 new flights to KRK airport Departures database.
+2023-01-16 00:24:33 INFO  AddNewDeparturesData:285 - Currently there are 592 flights in database.
+2023-01-16 00:24:35 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-16 00:24:35 INFO  AddNewArrivalData:288 - Excel file 'KRK_Arrivals.xlsx' updated successfully.
+2023-01-16 00:24:35 INFO  AddNewArrivalData:289 - Added 1 new flights to KRK airport Arrivals database.
+2023-01-16 00:24:35 INFO  AddNewArrivalData:290 - Currently there are 611 flights in database.
+2023-01-16 00:24:35 INFO  UpdateAirports:30 - downloading Departure data for WAW
+2023-01-16 00:24:35 INFO  UpdateAirports:18 - downloading Arrival data for WAW
+2023-01-16 00:24:35 INFO  AddNewArrivalData:23 - File WAW_Arrivals.xlsx successfully opened.
+2023-01-16 00:24:35 INFO  AddNewDeparturesData:22 - File WAW_Departures.xlsxsuccessfully opened.
+2023-01-16 00:24:42 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+2023-01-16 00:24:42 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/arrivals'.
+2023-01-16 00:25:53 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-16 00:25:53 INFO  AddNewDeparturesData:283 - Excel file 'WAW_Departures.xlsx' updated successfully.
+2023-01-16 00:25:53 INFO  AddNewDeparturesData:284 - Added 0 new flights to WAW airport Departures database.
+2023-01-16 00:25:53 INFO  AddNewDeparturesData:285 - Currently there are 1605 flights in database.
+2023-01-16 00:25:55 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-16 00:25:55 INFO  AddNewArrivalData:288 - Excel file 'WAW_Arrivals.xlsx' updated successfully.
+2023-01-16 00:25:55 INFO  AddNewArrivalData:289 - Added 0 new flights to WAW airport Arrivals database.
+2023-01-16 00:25:55 INFO  AddNewArrivalData:290 - Currently there are 1585 flights in database.
+2023-01-16 00:25:55 INFO  UpdateAirports:18 - downloading Arrival data for KTW
+2023-01-16 00:25:55 INFO  UpdateAirports:30 - downloading Departure data for KTW
+2023-01-16 00:25:55 INFO  AddNewDeparturesData:22 - File KTW_Departures.xlsxsuccessfully opened.
+2023-01-16 00:25:55 INFO  AddNewArrivalData:23 - File KTW_Arrivals.xlsx successfully opened.
+2023-01-16 00:26:02 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/arrivals'.
+2023-01-16 00:26:02 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/departures'.
+2023-01-16 00:26:25 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-16 00:26:25 INFO  AddNewDeparturesData:283 - Excel file 'KTW_Departures.xlsx' updated successfully.
+2023-01-16 00:26:25 INFO  AddNewDeparturesData:284 - Added 0 new flights to KTW airport Departures database.
+2023-01-16 00:26:25 INFO  AddNewDeparturesData:285 - Currently there are 317 flights in database.
+2023-01-16 00:26:26 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-16 00:26:26 INFO  AddNewArrivalData:288 - Excel file 'KTW_Arrivals.xlsx' updated successfully.
+2023-01-16 00:26:26 INFO  AddNewArrivalData:289 - Added 2 new flights to KTW airport Arrivals database.
+2023-01-16 00:26:26 INFO  AddNewArrivalData:290 - Currently there are 324 flights in database.
+2023-01-16 00:26:26 INFO  UpdateAirports:18 - downloading Arrival data for WMI
+2023-01-16 00:26:26 INFO  UpdateAirports:30 - downloading Departure data for WMI
+2023-01-16 00:26:26 INFO  AddNewDeparturesData:22 - File WMI_Departures.xlsxsuccessfully opened.
+2023-01-16 00:26:26 INFO  AddNewArrivalData:23 - File WMI_Arrivals.xlsx successfully opened.
+2023-01-16 00:26:33 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/departures'.
+2023-01-16 00:26:33 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/arrivals'.
+2023-01-16 00:26:54 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-16 00:26:54 INFO  AddNewDeparturesData:283 - Excel file 'WMI_Departures.xlsx' updated successfully.
+2023-01-16 00:26:54 INFO  AddNewDeparturesData:284 - Added 0 new flights to WMI airport Departures database.
+2023-01-16 00:26:54 INFO  AddNewDeparturesData:285 - Currently there are 189 flights in database.
+2023-01-16 00:26:54 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-16 00:26:54 INFO  AddNewArrivalData:288 - Excel file 'WMI_Arrivals.xlsx' updated successfully.
+2023-01-16 00:26:54 INFO  AddNewArrivalData:289 - Added 1 new flights to WMI airport Arrivals database.
+2023-01-16 00:26:54 INFO  AddNewArrivalData:290 - Currently there are 195 flights in database.
+2023-01-16 00:26:54 INFO  UpdateAirports:18 - downloading Arrival data for GDN
+2023-01-16 00:26:54 INFO  UpdateAirports:30 - downloading Departure data for GDN
+2023-01-16 00:26:54 INFO  AddNewDeparturesData:22 - File GDN_Departures.xlsxsuccessfully opened.
+2023-01-16 00:26:54 INFO  AddNewArrivalData:23 - File GDN_Arrivals.xlsx successfully opened.
+2023-01-16 00:27:01 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+2023-01-16 00:27:02 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/arrivals'.
+2023-01-16 00:27:28 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-16 00:27:28 INFO  AddNewDeparturesData:283 - Excel file 'GDN_Departures.xlsx' updated successfully.
+2023-01-16 00:27:28 INFO  AddNewDeparturesData:284 - Added 0 new flights to GDN airport Departures database.
+2023-01-16 00:27:28 INFO  AddNewDeparturesData:285 - Currently there are 358 flights in database.
+2023-01-16 00:27:30 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-16 00:27:30 INFO  AddNewArrivalData:288 - Excel file 'GDN_Arrivals.xlsx' updated successfully.
+2023-01-16 00:27:30 INFO  AddNewArrivalData:289 - Added 2 new flights to GDN airport Arrivals database.
+2023-01-16 00:27:30 INFO  AddNewArrivalData:290 - Currently there are 464 flights in database.
+2023-01-16 00:27:30 INFO  UpdateAirports:18 - downloading Arrival data for LUZ
+2023-01-16 00:27:30 INFO  UpdateAirports:30 - downloading Departure data for LUZ
+2023-01-16 00:27:30 INFO  AddNewArrivalData:23 - File LUZ_Arrivals.xlsx successfully opened.
+2023-01-16 00:27:30 INFO  AddNewDeparturesData:22 - File LUZ_Departures.xlsxsuccessfully opened.
+2023-01-16 00:27:37 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/arrivals'.
+2023-01-16 00:27:37 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/departures'.
+2023-01-16 00:27:51 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-16 00:27:51 INFO  AddNewArrivalData:288 - Excel file 'LUZ_Arrivals.xlsx' updated successfully.
+2023-01-16 00:27:51 INFO  AddNewArrivalData:289 - Added 0 new flights to LUZ airport Arrivals database.
+2023-01-16 00:27:51 INFO  AddNewArrivalData:290 - Currently there are 27 flights in database.
+2023-01-16 00:27:51 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-16 00:27:51 INFO  AddNewDeparturesData:283 - Excel file 'LUZ_Departures.xlsx' updated successfully.
+2023-01-16 00:27:51 INFO  AddNewDeparturesData:284 - Added 0 new flights to LUZ airport Departures database.
+2023-01-16 00:27:51 INFO  AddNewDeparturesData:285 - Currently there are 26 flights in database.
+2023-01-16 00:27:51 INFO  UpdateAirports:18 - downloading Arrival data for BZG
+2023-01-16 00:27:51 INFO  UpdateAirports:30 - downloading Departure data for BZG
+2023-01-16 00:27:51 INFO  AddNewDeparturesData:22 - File BZG_Departures.xlsxsuccessfully opened.
+2023-01-16 00:27:51 INFO  AddNewArrivalData:23 - File BZG_Arrivals.xlsx successfully opened.
+2023-01-16 00:27:59 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+2023-01-16 00:27:59 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/arrivals'.
+2023-01-16 00:28:13 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-16 00:28:13 INFO  AddNewArrivalData:288 - Excel file 'BZG_Arrivals.xlsx' updated successfully.
+2023-01-16 00:28:13 INFO  AddNewArrivalData:289 - Added 0 new flights to BZG airport Arrivals database.
+2023-01-16 00:28:13 INFO  AddNewArrivalData:290 - Currently there are 28 flights in database.
+2023-01-16 00:28:13 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-16 00:28:13 INFO  AddNewDeparturesData:283 - Excel file 'BZG_Departures.xlsx' updated successfully.
+2023-01-16 00:28:13 INFO  AddNewDeparturesData:284 - Added 0 new flights to BZG airport Departures database.
+2023-01-16 00:28:13 INFO  AddNewDeparturesData:285 - Currently there are 29 flights in database.
+2023-01-16 00:28:13 INFO  UpdateAirports:18 - downloading Arrival data for LCJ
+2023-01-16 00:28:13 INFO  UpdateAirports:30 - downloading Departure data for LCJ
+2023-01-16 00:28:13 INFO  AddNewArrivalData:23 - File LCJ_Arrivals.xlsx successfully opened.
+2023-01-16 00:28:13 INFO  AddNewDeparturesData:22 - File LCJ_Departures.xlsxsuccessfully opened.
+2023-01-16 00:28:19 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/arrivals'.
+2023-01-16 00:28:19 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/departures'.
+2023-01-16 00:28:34 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-16 00:28:34 INFO  AddNewDeparturesData:283 - Excel file 'LCJ_Departures.xlsx' updated successfully.
+2023-01-16 00:28:34 INFO  AddNewDeparturesData:284 - Added 0 new flights to LCJ airport Departures database.
+2023-01-16 00:28:34 INFO  AddNewDeparturesData:285 - Currently there are 23 flights in database.
+2023-01-16 00:28:34 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-16 00:28:34 INFO  AddNewArrivalData:288 - Excel file 'LCJ_Arrivals.xlsx' updated successfully.
+2023-01-16 00:28:34 INFO  AddNewArrivalData:289 - Added 0 new flights to LCJ airport Arrivals database.
+2023-01-16 00:28:34 INFO  AddNewArrivalData:290 - Currently there are 21 flights in database.
+2023-01-16 00:28:34 INFO  UpdateAirports:18 - downloading Arrival data for SZY
+2023-01-16 00:28:34 INFO  UpdateAirports:30 - downloading Departure data for SZY
+2023-01-16 00:28:34 INFO  AddNewArrivalData:23 - File SZY_Arrivals.xlsx successfully opened.
+2023-01-16 00:28:34 INFO  AddNewDeparturesData:22 - File SZY_Departures.xlsxsuccessfully opened.
+2023-01-16 00:28:40 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/departures'.
+2023-01-16 00:28:40 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/arrivals'.
+2023-01-16 00:28:54 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-16 00:28:54 INFO  AddNewArrivalData:288 - Excel file 'SZY_Arrivals.xlsx' updated successfully.
+2023-01-16 00:28:54 INFO  AddNewArrivalData:289 - Added 0 new flights to SZY airport Arrivals database.
+2023-01-16 00:28:54 INFO  AddNewArrivalData:290 - Currently there are 11 flights in database.
+2023-01-16 00:28:54 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-16 00:28:54 INFO  AddNewDeparturesData:283 - Excel file 'SZY_Departures.xlsx' updated successfully.
+2023-01-16 00:28:54 INFO  AddNewDeparturesData:284 - Added 0 new flights to SZY airport Departures database.
+2023-01-16 00:28:54 INFO  AddNewDeparturesData:285 - Currently there are 11 flights in database.
+2023-01-16 00:28:54 INFO  UpdateAirports:30 - downloading Departure data for RZE
+2023-01-16 00:28:54 INFO  UpdateAirports:18 - downloading Arrival data for RZE
+2023-01-16 00:28:54 INFO  AddNewDeparturesData:22 - File RZE_Departures.xlsxsuccessfully opened.
+2023-01-16 00:28:54 INFO  AddNewArrivalData:23 - File RZE_Arrivals.xlsx successfully opened.
+2023-01-16 00:29:01 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/departures'.
+2023-01-16 00:29:01 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/arrivals'.
+2023-01-16 00:29:17 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-16 00:29:17 INFO  AddNewDeparturesData:283 - Excel file 'RZE_Departures.xlsx' updated successfully.
+2023-01-16 00:29:17 INFO  AddNewDeparturesData:284 - Added 0 new flights to RZE airport Departures database.
+2023-01-16 00:29:17 INFO  AddNewDeparturesData:285 - Currently there are 82 flights in database.
+2023-01-16 00:29:17 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-16 00:29:17 INFO  AddNewArrivalData:288 - Excel file 'RZE_Arrivals.xlsx' updated successfully.
+2023-01-16 00:29:17 INFO  AddNewArrivalData:289 - Added 0 new flights to RZE airport Arrivals database.
+2023-01-16 00:29:17 INFO  AddNewArrivalData:290 - Currently there are 81 flights in database.
+2023-01-16 00:29:17 INFO  UpdateAirports:18 - downloading Arrival data for POZ
+2023-01-16 00:29:17 INFO  UpdateAirports:30 - downloading Departure data for POZ
+2023-01-16 00:29:17 INFO  AddNewArrivalData:23 - File POZ_Arrivals.xlsx successfully opened.
+2023-01-16 00:29:17 INFO  AddNewDeparturesData:22 - File POZ_Departures.xlsxsuccessfully opened.
+2023-01-16 00:29:24 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/departures'.
+2023-01-16 00:29:24 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/arrivals'.
+2023-01-16 00:29:44 ERROR AddNewDeparturesData:72 - Founded last flight in database.
+2023-01-16 00:29:44 INFO  AddNewDeparturesData:283 - Excel file 'POZ_Departures.xlsx' updated successfully.
+2023-01-16 00:29:44 INFO  AddNewDeparturesData:284 - Added 0 new flights to POZ airport Departures database.
+2023-01-16 00:29:44 INFO  AddNewDeparturesData:285 - Currently there are 177 flights in database.
+2023-01-16 00:29:45 ERROR AddNewArrivalData:75 - Founded last flight in database.
+2023-01-16 00:29:45 INFO  AddNewArrivalData:288 - Excel file 'POZ_Arrivals.xlsx' updated successfully.
+2023-01-16 00:29:45 INFO  AddNewArrivalData:289 - Added 0 new flights to POZ airport Arrivals database.
+2023-01-16 00:29:45 INFO  AddNewArrivalData:290 - Currently there are 176 flights in database.
+2023-01-16 00:29:45 INFO  UpdateAirports:45 - Data for all airports updated successfully.
+2023-01-16 00:29:45 INFO  UpdateAirports:47 - Process took about 6 minutes and 4 seconds.
+2023-01-16 00:29:57 INFO  MainApp:476 - Switching to Selection panel
+2023-01-16 00:30:00 INFO  MainApp:600 - Selected all airports
+2023-01-16 00:30:03 INFO  MainApp:484 - Going back to Hello Panel
+2023-01-16 00:30:05 INFO  MainApp:467 - Starting program
+2023-01-16 00:30:10 INFO  GraphByAllAirports:41 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:30:10 INFO  GraphByAllAirports:41 - File: BZG_Arrivals.xlsx successfully opened.
+2023-01-16 00:30:10 INFO  GraphByAllAirports:41 - File: GDN_Arrivals.xlsx successfully opened.
+2023-01-16 00:30:10 INFO  GraphByAllAirports:41 - File: KTW_Arrivals.xlsx successfully opened.
+2023-01-16 00:30:10 INFO  GraphByAllAirports:41 - File: LCJ_Arrivals.xlsx successfully opened.
+2023-01-16 00:30:10 INFO  GraphByAllAirports:41 - File: LUZ_Arrivals.xlsx successfully opened.
+2023-01-16 00:30:10 INFO  GraphByAllAirports:41 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-16 00:30:10 INFO  GraphByAllAirports:41 - File: POZ_Arrivals.xlsx successfully opened.
+2023-01-16 00:30:10 INFO  GraphByAllAirports:41 - File: WMI_Arrivals.xlsx successfully opened.
+2023-01-16 00:30:10 INFO  GraphByAllAirports:41 - File: WAW_Arrivals.xlsx successfully opened.
+2023-01-16 00:30:10 INFO  GraphByAllAirports:41 - File: RZE_Arrivals.xlsx successfully opened.
+2023-01-16 00:30:10 INFO  GraphByAllAirports:100 - Created "Number of Arrivals by airport " graph.
+2023-01-16 00:30:10 INFO  MainApp:774 - Created plot Daily arrivals by airport
+2023-01-16 00:30:11 INFO  GraphByAllAirports:41 - File: KRK_Departures.xlsx successfully opened.
+2023-01-16 00:30:11 INFO  GraphByAllAirports:41 - File: BZG_Departures.xlsx successfully opened.
+2023-01-16 00:30:11 INFO  GraphByAllAirports:41 - File: GDN_Departures.xlsx successfully opened.
+2023-01-16 00:30:11 INFO  GraphByAllAirports:41 - File: KTW_Departures.xlsx successfully opened.
+2023-01-16 00:30:11 INFO  GraphByAllAirports:41 - File: LCJ_Departures.xlsx successfully opened.
+2023-01-16 00:30:11 INFO  GraphByAllAirports:41 - File: LUZ_Departures.xlsx successfully opened.
+2023-01-16 00:30:11 INFO  GraphByAllAirports:41 - File: SZY_Departures.xlsx successfully opened.
+2023-01-16 00:30:11 INFO  GraphByAllAirports:41 - File: POZ_Departures.xlsx successfully opened.
+2023-01-16 00:30:11 INFO  GraphByAllAirports:41 - File: WMI_Departures.xlsx successfully opened.
+2023-01-16 00:30:12 INFO  GraphByAllAirports:41 - File: WAW_Departures.xlsx successfully opened.
+2023-01-16 00:30:12 INFO  GraphByAllAirports:41 - File: RZE_Departures.xlsx successfully opened.
+2023-01-16 00:30:12 INFO  GraphByAllAirports:100 - Created "Number of Departures by airport " graph.
+2023-01-16 00:30:12 INFO  MainApp:786 - Created plot Daily departures by airport
+2023-01-16 00:30:24 INFO  MainApp:614 - ChoosenKRK airport
+2023-01-16 00:30:27 INFO  GraphByDayOfWeek:65 - File: KRK_Departures.xlsx successfully opened.
+2023-01-16 00:30:27 INFO  GraphByDayOfWeek:223 - Created "Average delay of Departures by day of week " graph.
+2023-01-16 00:30:27 INFO  MainApp:737 - Created plot Number of flights by day of week
+2023-01-16 00:30:33 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:30:33 INFO  GraphByDayOfWeek:223 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-16 00:30:33 INFO  MainApp:737 - Created plot Number of flights by day of week
+2023-01-16 00:31:01 INFO  MainApp:500 - Going back to Main Graph Panel
+2023-01-16 00:31:03 INFO  MainApp:704 - ChoosenSZY airport
+2023-01-16 00:31:03 INFO  GraphByDayOfWeek:65 - File: SZY_Departures.xlsx successfully opened.
+2023-01-16 00:31:03 INFO  GraphByDayOfWeek:223 - Created "Number of Departures by day of week " graph.
+2023-01-16 00:31:03 INFO  MainApp:725 - Created plot Number of flights by day of week
+2023-01-16 00:31:09 INFO  MainApp:500 - Going back to Main Graph Panel
+2023-01-16 00:31:10 INFO  MainApp:714 - ChoosenGDN airport
+2023-01-16 00:31:11 INFO  MainApp:500 - Going back to Main Graph Panel
+2023-01-16 00:31:13 INFO  MainApp:624 - ChoosenKTW airport
+2023-01-16 00:31:15 INFO  GraphByAirline:39 - File: KTW_Departures.xlsx successfully opened.
+2023-01-16 00:31:15 INFO  GraphByAirline:96 - Created "Number of Departures by airline " graph.
+2023-01-16 00:31:15 INFO  MainApp:749 - Created plot Number of flights by airline
+2023-01-16 00:35:28 INFO  MainApp:847 - Program run
+2023-01-16 00:35:28 INFO  CheckConnection:11 - Checking internet connection
+2023-01-16 00:35:28 INFO  MainApp:818 - Connected to the internet
+2023-01-16 00:35:29 INFO  MainApp:838 - Created Main Panel
+2023-01-16 00:35:31 INFO  MainApp:467 - Starting program
+2023-01-16 00:35:32 INFO  MainApp:614 - ChoosenKRK airport
+2023-01-16 00:35:36 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:35:36 INFO  GraphByDayOfWeek:223 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-16 00:35:36 INFO  MainApp:737 - Created plot Number of flights by day of week
+2023-01-16 00:35:47 INFO  MainApp:500 - Going back to Main Graph Panel
+2023-01-16 00:35:51 INFO  MainApp:664 - ChoosenWAW airport
+2023-01-16 00:35:52 INFO  GraphByDayOfWeek:65 - File: WAW_Arrivals.xlsx successfully opened.
+2023-01-16 00:35:52 INFO  GraphByDayOfWeek:223 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-16 00:35:52 INFO  MainApp:737 - Created plot Number of flights by day of week
+2023-01-16 00:35:55 INFO  MainApp:500 - Going back to Main Graph Panel
+2023-01-16 00:36:00 INFO  MainApp:614 - ChoosenKRK airport
+2023-01-16 00:36:01 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:36:01 INFO  GraphByDayOfWeek:223 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-16 00:36:01 INFO  MainApp:737 - Created plot Number of flights by day of week
+2023-01-16 00:38:08 INFO  MainApp:847 - Program run
+2023-01-16 00:38:09 INFO  CheckConnection:11 - Checking internet connection
+2023-01-16 00:38:09 INFO  MainApp:818 - Connected to the internet
+2023-01-16 00:38:09 INFO  MainApp:838 - Created Main Panel
+2023-01-16 00:38:10 INFO  MainApp:467 - Starting program
+2023-01-16 00:38:11 INFO  MainApp:614 - ChoosenKRK airport
+2023-01-16 00:38:14 INFO  GraphByDayOfWeek:65 - File: KRK_Departures.xlsx successfully opened.
+2023-01-16 00:38:14 INFO  GraphByDayOfWeek:223 - Created "Average delay of Departures by day of week " graph.
+2023-01-16 00:38:14 INFO  MainApp:737 - Created plot Number of flights by day of week
+2023-01-16 00:38:20 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:38:20 INFO  GraphByDayOfWeek:223 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-16 00:38:20 INFO  MainApp:737 - Created plot Number of flights by day of week
+2023-01-16 00:39:41 INFO  MainApp:847 - Program run
+2023-01-16 00:39:41 INFO  CheckConnection:11 - Checking internet connection
+2023-01-16 00:39:41 INFO  MainApp:818 - Connected to the internet
+2023-01-16 00:39:41 INFO  MainApp:838 - Created Main Panel
+2023-01-16 00:39:42 INFO  MainApp:467 - Starting program
+2023-01-16 00:39:43 INFO  MainApp:614 - ChoosenKRK airport
+2023-01-16 00:39:47 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:39:47 INFO  GraphByDayOfWeek:235 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-16 00:39:47 INFO  MainApp:737 - Created plot Number of flights by day of week
+2023-01-16 00:42:17 INFO  MainApp:847 - Program run
+2023-01-16 00:42:17 INFO  CheckConnection:11 - Checking internet connection
+2023-01-16 00:42:17 INFO  MainApp:818 - Connected to the internet
+2023-01-16 00:42:17 INFO  MainApp:838 - Created Main Panel
+2023-01-16 00:42:18 INFO  MainApp:467 - Starting program
+2023-01-16 00:42:19 INFO  MainApp:614 - ChoosenKRK airport
+2023-01-16 00:42:21 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:42:21 INFO  GraphByDayOfWeek:235 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-16 00:42:21 INFO  MainApp:737 - Created plot Number of flights by day of week
+2023-01-16 00:45:26 INFO  MainApp:847 - Program run
+2023-01-16 00:45:27 INFO  CheckConnection:11 - Checking internet connection
+2023-01-16 00:45:27 INFO  MainApp:818 - Connected to the internet
+2023-01-16 00:45:27 INFO  MainApp:838 - Created Main Panel
+2023-01-16 00:45:27 INFO  MainApp:467 - Starting program
+2023-01-16 00:45:29 INFO  MainApp:614 - ChoosenKRK airport
+2023-01-16 00:45:30 INFO  GraphByDayOfWeek:65 - File: KRK_Departures.xlsx successfully opened.
+2023-01-16 00:45:30 INFO  GraphByDayOfWeek:235 - Created "Average delay of Departures by day of week " graph.
+2023-01-16 00:45:30 INFO  MainApp:737 - Created plot Number of flights by day of week
+2023-01-16 00:45:32 INFO  GraphByDayOfWeek:65 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-16 00:45:32 INFO  GraphByDayOfWeek:235 - Created "Average delay of Arrivals by day of week " graph.
+2023-01-16 00:45:32 INFO  MainApp:737 - Created plot Number of flights by day of week
+2023-01-16 00:46:02 INFO  MainApp:500 - Going back to Main Graph Panel
+2023-01-16 00:46:06 INFO  MainApp:492 - Going back to Hello Panel

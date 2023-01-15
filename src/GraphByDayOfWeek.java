@@ -69,9 +69,6 @@ public class GraphByDayOfWeek {
         }
         XSSFSheet sheet = workbook.getSheet("Main Data");
         int lastRowNum = sheet.getLastRowNum();
-        // TODO logging button press
-        //TODO komentarze
-        //TODO kolory back guzikow
 
         String lastDay = "Friday";
 
@@ -160,15 +157,17 @@ public class GraphByDayOfWeek {
             }
         }
 
+        System.out.println(mondayDelay);
+        System.out.println(mondayFlights);
 
-        System.out.println(mondays);
-        System.out.println(tuesdays);
-        System.out.println(wednesdays);
-        System.out.println(thursdays);
-        System.out.println(fridays);
-        System.out.println(saturdays);
-        System.out.println(sundays);
+        System.out.println(tuesdayDelay);
+        System.out.println(tuesdayFlights);
 
+        System.out.println(wednesdayDelay);
+        System.out.println(wednesdayFlights);
+
+        System.out.println(fridayDelay);
+        System.out.println(fridayFlights);
 
         if(!isDelayGraph){   // BY NUMBER OF FLIGHTS
             if(mondays!=0) {
