@@ -13,10 +13,17 @@ import org.apache.log4j.Logger;
 public class MainApp {
     private static final Logger logger = Logger.getLogger(MainApp.class);
     JFrame frame = new JFrame("Poland Airports Statistics");
+    JFrame graph1Frame =new JFrame();
     JPanel panelCont = new JPanel();
 
     CardLayout cl = new CardLayout();
     String choosenAirport;
+    Boolean isGraphDepDisplayed = false;
+    Boolean isGraphArrDisplayed = false;
+    Boolean isGraph1Displayed = false;
+    Boolean isGraph2Displayed = false;
+    Boolean isGraph3Displayed = false;
+    Boolean isGraph4Displayed = false;
 
     public MainApp() throws IOException {
         Color mainColor = Color.decode("#5CB3FF");     //#08298A #0174DF
@@ -340,6 +347,7 @@ public class MainApp {
         depBox.setBounds(250,10,150,50);
         depBox.setFocusable(false);
         depBox.setFont(new Font("SansSerif", Font.PLAIN, 19));
+        depBox.setSelected(true);
 
         JCheckBox arrBox = new JCheckBox();
         arrBox.setText("Arrivals");
@@ -396,11 +404,12 @@ public class MainApp {
 
 
         // adding Panels to cards
+
         panelCont.add(helloPanel, "1");
         panelCont.add(selectionPanel, "2");
         panelCont.add(mainPanel, "3");
         panelCont.add(airportPanel, "4");
-        cl.show(panelCont, "4");
+        cl.show(panelCont, "1");
 
 
         updateAllButton.addActionListener(new ActionListener() {
@@ -488,6 +497,8 @@ public class MainApp {
             public void actionPerformed(ActionEvent arg0) {
                 if(arrBox.isSelected()&&depBox.isSelected()){
                     depBox.setSelected(false);
+                }else if(!arrBox.isSelected()&&!depBox.isSelected()){
+                    depBox.setSelected(true);
                 }
             }
         });
@@ -497,6 +508,8 @@ public class MainApp {
             public void actionPerformed(ActionEvent arg0) {
                 if(arrBox.isSelected()&&depBox.isSelected()){
                     arrBox.setSelected(false);
+                }else if(!arrBox.isSelected()&&!depBox.isSelected()){
+                    arrBox.setSelected(true);
                 }
             }
         });
@@ -578,6 +591,8 @@ public class MainApp {
                 logger.info("Selected all airports");
             }
         });
+
+
 
         // MAP BUTTONS
 
@@ -677,6 +692,26 @@ public class MainApp {
                 choosenAirport="GDN";
                 txtLabel5.setText("GDANSK - GDN");
                 cl.show(panelCont, "4");
+            }
+        });
+
+        dayOfWeekButt.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+//                graph1Frame.setTitle(dayOfWeekButt.getText());
+//                graph1Frame.setSize(800,600);
+//                if(!graph1Frame.isVisible()){
+//                    if(!isGraph1Displayed){graph1Frame.add( new Graph().ramka(choosenAirport,arrBox.isSelected(),false));}   //true -> delay graph
+//                    isGraph1Displayed=true;
+//                    graph1Frame.setVisible(true);
+//                    logger.info("Created plot "+dayOfWeekButt.getText());
+//                }
+                JFrame frame2 = new JFrame(dayOfWeekButt.getText());
+                frame2.setSize(800,600);
+                frame2.add( new Graph().ramka(choosenAirport,arrBox.isSelected(),false));  //true -> delay graph
+                frame2.setVisible(true);
+                logger.info("Created plot "+dayOfWeekButt.getText());
+
             }
         });
 
