@@ -46,6 +46,7 @@ public class MainApp {
         txtLabel2.setFont(new Font("SansSerif", Font.BOLD, 25));
 
 
+
         JButton updateAllButton = new JButton("Update all airports");
         updateAllButton.setBounds(50,40,200,50);
         updateAllButton.setFocusable(false);
@@ -295,23 +296,35 @@ public class MainApp {
 
         JLabel menuLabel = new JLabel();
 
-        JButton airportsArrivals = new JButton("Average daily arrivals by airport"); // plot lotniska od liczby przylotow
-        airportsArrivals.setBounds(60,70,380,60);
+        JButton airportsArrivals = new JButton("Daily arrivals by airport");
+        airportsArrivals.setBounds(60,40,380,60);
         airportsArrivals.setFocusable(false);
         airportsArrivals.setFont(new Font("SansSerif", Font.PLAIN, 22));
 
-        JButton airportsDepartures = new JButton("Average daily departures by airport"); // plot lotniska od liczby przylotow
-        airportsDepartures.setBounds(60,220,380,60);
+        JButton airportsDepartures = new JButton("Daily departures by airport");
+        airportsDepartures.setBounds(60,120,380,60);
         airportsDepartures.setFocusable(false);
         airportsDepartures.setFont(new Font("SansSerif", Font.PLAIN, 22));
 
+        JButton airportsDeparturesDelay = new JButton("Average departure delay by airport");
+        airportsDeparturesDelay.setBounds(60,200,380,60);
+        airportsDeparturesDelay.setFocusable(false);
+        airportsDeparturesDelay.setFont(new Font("SansSerif", Font.PLAIN, 22));
+
+        JButton airportsArrivalsDelay = new JButton("Average arrival delay by airport");
+        airportsArrivalsDelay.setBounds(60,280,380,60);
+        airportsArrivalsDelay.setFocusable(false);
+        airportsArrivalsDelay.setFont(new Font("SansSerif", Font.PLAIN, 22));
+
         JButton backButt2 = new JButton("Back");
-        backButt2.setBounds(180,370,140,60);
+        backButt2.setBounds(180,360,140,60);
         backButt2.setFocusable(false);
         backButt2.setFont(new Font("SansSerif", Font.PLAIN, 22));
 
         menuLabel.add(airportsArrivals);
         menuLabel.add(airportsDepartures);
+        menuLabel.add(airportsDeparturesDelay);
+        menuLabel.add(airportsArrivalsDelay);
         menuLabel.add(backButt2);
 
 
@@ -719,12 +732,88 @@ public class MainApp {
             }
         });
 
+        airlineFlights.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                JFrame frame2 = new JFrame(airlineFlights.getText());
+                frame2.setSize(800,600);
+                frame2.add( new AirportsGraphs().ramka(choosenAirport,arrBox.isSelected(),false));  //true -> delay graph
+                frame2.setVisible(true);
+                logger.info("Created plot "+airlineFlights.getText());
+
+            }
+        });
+
+        delayByAirline.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                JFrame frame2 = new JFrame(delayByAirline.getText());
+                frame2.setSize(800,600);
+                frame2.add( new AirportsGraphs().ramka(choosenAirport,arrBox.isSelected(),true));  //true -> delay graph
+                frame2.setVisible(true);
+                logger.info("Created plot "+delayByAirline.getText());
+
+            }
+        });
+
+        // ALL AIRPORTS GRAPHS
+        airportsArrivals.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                JFrame frame2 = new JFrame(airportsArrivals.getText());
+                frame2.setSize(800,600);
+                frame2.add( new AllAirportsGraph().ramka(true,false));
+                frame2.setVisible(true);
+                logger.info("Created plot "+airportsArrivals.getText());
+
+            }
+        });
+
+        airportsDepartures.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                JFrame frame2 = new JFrame(airportsDepartures.getText());
+                frame2.setSize(800,600);
+                frame2.add( new AllAirportsGraph().ramka(false,false));
+                frame2.setVisible(true);
+                logger.info("Created plot "+airportsDepartures.getText());
+
+            }
+        });
+
+        airportsArrivalsDelay.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                JFrame frame2 = new JFrame(airportsArrivalsDelay.getText());
+                frame2.setSize(800,600);
+                frame2.add( new AllAirportsGraph().ramka(true,true));
+                frame2.setVisible(true);
+                logger.info("Created plot "+airportsArrivalsDelay.getText());
+
+            }
+        });
+
+        airportsDeparturesDelay.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                JFrame frame2 = new JFrame(airportsDepartures.getText());
+                frame2.setSize(800,600);
+                frame2.add( new AllAirportsGraph().ramka(false,true));
+                frame2.setVisible(true);
+                logger.info("Created plot "+airportsDepartures.getText());
+
+            }
+        });
+
+
+
         if(new CheckConnection().isInternetAvailable()){
             logger.info("Connected to the internet");
             goToPanelSpecificButton.setEnabled(true);
             updateAllButton.setEnabled(true);
         }else {
             logger.error("No internet connection");
+            JOptionPane.showMessageDialog(new JFrame(), "No internet connection, data update not available", "Error", JOptionPane.ERROR_MESSAGE);
             goToPanelSpecificButton.setEnabled(false);
             updateAllButton.setEnabled(false);
         }
