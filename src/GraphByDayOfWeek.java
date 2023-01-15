@@ -4,10 +4,8 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.jfree.chart.ChartFactory;
-import org.jfree.chart.ChartFrame;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
-import org.jfree.chart.axis.CategoryLabelPositions;
 import org.jfree.chart.axis.NumberAxis;
 import org.jfree.chart.labels.ItemLabelAnchor;
 import org.jfree.chart.labels.ItemLabelPosition;
@@ -20,11 +18,10 @@ import org.jfree.ui.TextAnchor;
 
 import java.awt.*;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
-public class Graph {
-    private static final Logger logger= Logger.getLogger(Graph.class);
+public class GraphByDayOfWeek {
+    private static final Logger logger= Logger.getLogger(GraphByDayOfWeek.class);
     public ChartPanel ramka(String airport, Boolean isArrivals, Boolean isDelayGraph) {
 
         int mondayFlights=0;
@@ -72,8 +69,6 @@ public class Graph {
         }
         XSSFSheet sheet = workbook.getSheet("Main Data");
         int lastRowNum = sheet.getLastRowNum();
-        //TODO grafy wszytskie
-        // TODO wyswitel dane -> openfile w lotnisku i zaznaczona opcja -> ez
         // TODO logging button press
         //TODO komentarze
         //TODO kolory back guzikow

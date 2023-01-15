@@ -18,12 +18,11 @@ import org.jfree.ui.TextAnchor;
 
 import java.awt.*;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.HashMap;
 
-public class AirportsGraphs {
-    private static final Logger logger= Logger.getLogger(AirportsGraphs.class);
+public class GraphByAirline {
+    private static final Logger logger= Logger.getLogger(GraphByAirline.class);
     public ChartPanel ramka(String airport, Boolean isArrivals, Boolean isDelayGraph) {
 
         HashMap<String, Integer> airlineNumber = new HashMap<String, Integer>();

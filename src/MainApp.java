@@ -13,17 +13,9 @@ import org.apache.log4j.Logger;
 public class MainApp {
     private static final Logger logger = Logger.getLogger(MainApp.class);
     JFrame frame = new JFrame("Poland Airports Statistics");
-    JFrame graph1Frame =new JFrame();
     JPanel panelCont = new JPanel();
-
     CardLayout cl = new CardLayout();
     String choosenAirport;
-    Boolean isGraphDepDisplayed = false;
-    Boolean isGraphArrDisplayed = false;
-    Boolean isGraph1Displayed = false;
-    Boolean isGraph2Displayed = false;
-    Boolean isGraph3Displayed = false;
-    Boolean isGraph4Displayed = false;
 
     public MainApp() throws IOException {
         Color mainColor = Color.decode("#5CB3FF");     //#08298A #0174DF
@@ -713,7 +705,7 @@ public class MainApp {
             public void actionPerformed(ActionEvent arg0) {
                 JFrame frame2 = new JFrame(dayOfWeekButt.getText());
                 frame2.setSize(800,600);
-                frame2.add( new Graph().ramka(choosenAirport,arrBox.isSelected(),false));  //true -> delay graph
+                frame2.add( new GraphByDayOfWeek().ramka(choosenAirport,arrBox.isSelected(),false));  //true -> delay graph
                 frame2.setVisible(true);
                 logger.info("Created plot "+dayOfWeekButt.getText());
 
@@ -725,7 +717,7 @@ public class MainApp {
             public void actionPerformed(ActionEvent arg0) {
                 JFrame frame2 = new JFrame(dayOfWeekButt.getText());
                 frame2.setSize(800,600);
-                frame2.add( new Graph().ramka(choosenAirport,arrBox.isSelected(),true));  //true -> delay graph
+                frame2.add( new GraphByDayOfWeek().ramka(choosenAirport,arrBox.isSelected(),true));  //true -> delay graph
                 frame2.setVisible(true);
                 logger.info("Created plot "+dayOfWeekButt.getText());
 
@@ -737,7 +729,7 @@ public class MainApp {
             public void actionPerformed(ActionEvent arg0) {
                 JFrame frame2 = new JFrame(airlineFlights.getText());
                 frame2.setSize(800,600);
-                frame2.add( new AirportsGraphs().ramka(choosenAirport,arrBox.isSelected(),false));  //true -> delay graph
+                frame2.add( new GraphByAirline().ramka(choosenAirport,arrBox.isSelected(),false));  //true -> delay graph
                 frame2.setVisible(true);
                 logger.info("Created plot "+airlineFlights.getText());
 
@@ -749,7 +741,7 @@ public class MainApp {
             public void actionPerformed(ActionEvent arg0) {
                 JFrame frame2 = new JFrame(delayByAirline.getText());
                 frame2.setSize(800,600);
-                frame2.add( new AirportsGraphs().ramka(choosenAirport,arrBox.isSelected(),true));  //true -> delay graph
+                frame2.add( new GraphByAirline().ramka(choosenAirport,arrBox.isSelected(),true));  //true -> delay graph
                 frame2.setVisible(true);
                 logger.info("Created plot "+delayByAirline.getText());
 
@@ -762,7 +754,7 @@ public class MainApp {
             public void actionPerformed(ActionEvent arg0) {
                 JFrame frame2 = new JFrame(airportsArrivals.getText());
                 frame2.setSize(800,600);
-                frame2.add( new AllAirportsGraph().ramka(true,false));
+                frame2.add( new GraphByAllAirports().ramka(true,false));
                 frame2.setVisible(true);
                 logger.info("Created plot "+airportsArrivals.getText());
 
@@ -774,7 +766,7 @@ public class MainApp {
             public void actionPerformed(ActionEvent arg0) {
                 JFrame frame2 = new JFrame(airportsDepartures.getText());
                 frame2.setSize(800,600);
-                frame2.add( new AllAirportsGraph().ramka(false,false));
+                frame2.add( new GraphByAllAirports().ramka(false,false));
                 frame2.setVisible(true);
                 logger.info("Created plot "+airportsDepartures.getText());
 
@@ -786,7 +778,7 @@ public class MainApp {
             public void actionPerformed(ActionEvent arg0) {
                 JFrame frame2 = new JFrame(airportsArrivalsDelay.getText());
                 frame2.setSize(800,600);
-                frame2.add( new AllAirportsGraph().ramka(true,true));
+                frame2.add( new GraphByAllAirports().ramka(true,true));
                 frame2.setVisible(true);
                 logger.info("Created plot "+airportsArrivalsDelay.getText());
 
@@ -798,7 +790,7 @@ public class MainApp {
             public void actionPerformed(ActionEvent arg0) {
                 JFrame frame2 = new JFrame(airportsDepartures.getText());
                 frame2.setSize(800,600);
-                frame2.add( new AllAirportsGraph().ramka(false,true));
+                frame2.add( new GraphByAllAirports().ramka(false,true));
                 frame2.setVisible(true);
                 logger.info("Created plot "+airportsDepartures.getText());
 
@@ -839,8 +831,8 @@ public class MainApp {
                 try {
                     new MainApp();
                 } catch (IOException e) {
-                    System.out.println(e);
                     logger.error("PROGRAM CRASHED!");
+                    logger.error(e);
                 }
             }
         });

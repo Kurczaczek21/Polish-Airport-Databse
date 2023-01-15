@@ -3,7 +3,7 @@ import org.apache.log4j.Logger;
 import java.util.ArrayList;
 
 public class UpdateAirports {
-    private static final Logger logger = Logger.getLogger(UpdateAllAirportsData.class);
+    private static final Logger logger = Logger.getLogger(UpdateAirports.class);
 
     public UpdateAirports(ArrayList<String> airports) throws Exception {
 

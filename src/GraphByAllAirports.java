@@ -21,13 +21,10 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.HashMap;
 
-public class AllAirportsGraph {
-    private static final Logger logger= Logger.getLogger(AllAirportsGraph.class);
+public class GraphByAllAirports {
+    private static final Logger logger= Logger.getLogger(GraphByAllAirports.class);
 
     public ChartPanel ramka(Boolean isArrivals, Boolean isDelayGraph) {
-
-        HashMap<String, Integer> airlineNumber = new HashMap<String, Integer>();
-        HashMap<String, Integer> airlineDelays = new HashMap<String, Integer>();
 
         DefaultCategoryDataset dataset = new DefaultCategoryDataset();
         String manuever = "Departures";
