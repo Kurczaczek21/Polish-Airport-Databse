@@ -12,29 +12,25 @@ public class UpdateAirports {
 
         for (int i = 0; i < airports.size(); i++) {
             int tmp = i;
-            Thread thread1 = new Thread() {
-                public void run() {
-                    try {
-                        logger.info("downloading Arrival data for "+airports.get(tmp));
-                        new AddNewArrivalData().appendArrivalsFromAirport(airports.get(tmp));
-                    } catch (Exception e) {
-                        logger.info(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in Arrivals");
-                        throw new RuntimeException(e);
-                    }
+            Thread thread1 = new Thread(() -> {
+                try {
+                    logger.info("downloading Arrival data for "+airports.get(tmp));
+                    new AddNewArrivalData().appendArrivalsFromAirport(airports.get(tmp));
+                } catch (Exception e) {
+                    logger.info(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in Arrivals");
+                    throw new RuntimeException(e);
                 }
-            };
+            });
 
-            Thread thread2 = new Thread() {
-                public void run() {
-                    try {
-                        logger.info("downloading Departure data for "+airports.get(tmp));
-                        new AddNewDeparturesData().appendDeparturesFromAirport(airports.get(tmp));
-                    } catch (Exception e) {
-                        logger.info(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in Departures");
-                        throw new RuntimeException(e);
-                    }
+            Thread thread2 = new Thread(() -> {
+                try {
+                    logger.info("downloading Departure data for "+airports.get(tmp));
+                    new AddNewDeparturesData().appendDeparturesFromAirport(airports.get(tmp));
+                } catch (Exception e) {
+                    logger.info(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in Departures");
+                    throw new RuntimeException(e);
                 }
-            };
+            });
             thread1.start();
             thread2.start();
 
@@ -42,7 +38,7 @@ public class UpdateAirports {
             thread2.join();
         }
 
-        logger.info("Data for all airports updated successfully.");     // Tu zwraca co i jak czy git ktore byly :)
+        logger.info("Data for all airports updated successfully.");
         long finish = System.currentTimeMillis();
         logger.info("Process took about "+ (finish - start)/60000L +" minutes and "+ ((finish - start)%60000L)/1000L+" seconds.");
 

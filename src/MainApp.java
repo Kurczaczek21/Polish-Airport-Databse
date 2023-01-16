@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import org.apache.log4j.Logger;
 
 public class MainApp {
-    private static final Logger logger = Logger.getLogger(MainApp.class);       //TODO krk arrivals both columnes delay ==0 ? hours?
+    private static final Logger logger = Logger.getLogger(MainApp.class);
     JFrame frame = new JFrame("Poland Airports Statistics");
     JPanel panelCont = new JPanel();
     CardLayout cl = new CardLayout();
