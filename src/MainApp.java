@@ -48,6 +48,7 @@ public class MainApp {
         startProgramButton.setBounds(350,40,300,50);
         startProgramButton.setFocusable(false);
         startProgramButton.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        startProgramButton.setBackground(Color.GRAY);
 
         JButton goToPanelSpecificButton = new JButton("Update specific airports");
         goToPanelSpecificButton.setBounds(750,40,210,50);
@@ -158,17 +159,18 @@ public class MainApp {
         selectAll.setBounds(700,350,200,50);
         selectAll.setFocusable(false);
         selectAll.setFont(new Font("SansSerif", Font.BOLD, 16));
-        selectAll.setBackground(Color.GREEN);
 
         JButton backButton = new JButton("Back");
         backButton.setBounds(200,450,200,50);
         backButton.setFocusable(false);
-        backButton.setFont(new Font("SansSerif", Font.PLAIN, 16));
+        backButton.setFont(new Font("SansSerif", Font.BOLD, 16));
+        backButton.setBackground(Color.GRAY);
 
         JButton downloadSelectedButton = new JButton("Start update");
         downloadSelectedButton.setBounds(600,450,200,50);
         downloadSelectedButton.setFocusable(false);
         downloadSelectedButton.setFont(new Font("SansSerif", Font.BOLD, 16));
+        downloadSelectedButton.setBackground(Color.GRAY);
 
         JLabel boxLabel = new JLabel();
         boxLabel.add(checkBox1);
@@ -311,7 +313,8 @@ public class MainApp {
         JButton backButt2 = new JButton("Back");
         backButt2.setBounds(180,360,140,60);
         backButt2.setFocusable(false);
-        backButt2.setFont(new Font("SansSerif", Font.PLAIN, 22));
+        backButt2.setFont(new Font("SansSerif", Font.BOLD, 22));
+        backButt2.setBackground(Color.GRAY);
 
         menuLabel.add(airportsArrivals);
         menuLabel.add(airportsDepartures);
@@ -363,7 +366,8 @@ public class MainApp {
         JButton backButt3 = new JButton("Back");
         backButt3.setBounds(70,400,140,60);
         backButt3.setFocusable(false);
-        backButt3.setFont(new Font("SansSerif", Font.PLAIN, 22));   //TODO bold andd grey BACK butts
+        backButt3.setFont(new Font("SansSerif", Font.BOLD, 22));
+        backButt3.setBackground(Color.GRAY);
 
         JButton dayOfWeekButt = new JButton("Number of flights by day of week");
         dayOfWeekButt.setBounds(50,150,400,60);

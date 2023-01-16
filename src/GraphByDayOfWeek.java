@@ -157,18 +157,6 @@ public class GraphByDayOfWeek {
             }
         }
 
-        System.out.println(mondayDelay);
-        System.out.println(mondayFlights);
-
-        System.out.println(tuesdayDelay);
-        System.out.println(tuesdayFlights);
-
-        System.out.println(wednesdayDelay);
-        System.out.println(wednesdayFlights);
-
-        System.out.println(fridayDelay);
-        System.out.println(fridayFlights);
-
         if(!isDelayGraph){   // BY NUMBER OF FLIGHTS
             if(mondays!=0) {
                 dataset.setValue(mondayFlights / mondays, "Flights", "Monday");
