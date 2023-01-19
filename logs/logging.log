@@ -11050,3 +11050,29 @@ Scheduled
 2023-01-18 21:58:07 INFO  AddNewDeparturesData:285 - Currently there are 231 flights in database.
 2023-01-18 21:58:07 INFO  UpdateAirports:41 - Data for all airports updated successfully.
 2023-01-18 21:58:07 INFO  UpdateAirports:43 - Process took about 6 minutes and 10 seconds.
+2023-01-19 12:49:21 INFO  MainApp:851 - Program run
+2023-01-19 12:49:22 INFO  CheckConnection:11 - Checking internet connection
+2023-01-19 12:49:22 INFO  MainApp:822 - Connected to the internet
+2023-01-19 12:49:22 INFO  MainApp:842 - Created Main Panel
+2023-01-19 12:49:31 INFO  MainApp:480 - Switching to Selection panel
+2023-01-19 12:49:33 INFO  MainApp:604 - Selected all airports
+2023-01-19 12:49:34 INFO  MainApp:488 - Going back to Hello Panel
+2023-01-19 12:49:35 INFO  MainApp:471 - Starting program
+2023-01-19 12:49:39 INFO  GraphByAllAirports:41 - File: KRK_Arrivals.xlsx successfully opened.
+2023-01-19 12:49:39 INFO  GraphByAllAirports:41 - File: BZG_Arrivals.xlsx successfully opened.
+2023-01-19 12:49:40 INFO  GraphByAllAirports:41 - File: GDN_Arrivals.xlsx successfully opened.
+2023-01-19 12:49:40 INFO  GraphByAllAirports:41 - File: KTW_Arrivals.xlsx successfully opened.
+2023-01-19 12:49:40 INFO  GraphByAllAirports:41 - File: LCJ_Arrivals.xlsx successfully opened.
+2023-01-19 12:49:40 INFO  GraphByAllAirports:41 - File: LUZ_Arrivals.xlsx successfully opened.
+2023-01-19 12:49:40 INFO  GraphByAllAirports:41 - File: SZY_Arrivals.xlsx successfully opened.
+2023-01-19 12:49:40 INFO  GraphByAllAirports:41 - File: POZ_Arrivals.xlsx successfully opened.
+2023-01-19 12:49:40 INFO  GraphByAllAirports:41 - File: WMI_Arrivals.xlsx successfully opened.
+2023-01-19 12:49:40 INFO  GraphByAllAirports:41 - File: WAW_Arrivals.xlsx successfully opened.
+2023-01-19 12:49:40 INFO  GraphByAllAirports:41 - File: RZE_Arrivals.xlsx successfully opened.
+2023-01-19 12:49:40 INFO  GraphByAllAirports:100 - Created "Number of Arrivals by airport " graph.
+2023-01-19 12:49:41 INFO  MainApp:778 - Created plot Daily arrivals by airport
+2023-01-19 12:49:47 INFO  MainApp:618 - ChoosenKRK airport
+2023-01-19 12:49:51 INFO  GraphByAirline:39 - File: KRK_Departures.xlsx successfully opened.
+2023-01-19 12:49:51 INFO  GraphByAirline:96 - Created "Average delay of Departures by airline " graph.
+2023-01-19 12:49:51 INFO  MainApp:765 - Created plot Average delay by airline
+2023-01-19 12:49:54 INFO  MainApp:504 - Going back to Main Graph Panel
