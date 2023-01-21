@@ -41,8 +41,10 @@ public class WebScrape {
         Thread.sleep(4000);
 
         WebElement button = driver.findElement(By.xpath("//button[text()='Load earlier flights']"));
-        button.click();
-        Thread.sleep(4000);
+        if(button.isDisplayed()) {
+            button.click();
+            Thread.sleep(4000);
+        }
 
         if(button.isDisplayed()) {
             button.click();

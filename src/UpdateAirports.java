@@ -17,7 +17,7 @@ public class UpdateAirports {
                     logger.info("downloading Arrival data for "+airports.get(tmp));
                     new AddNewArrivalData().appendArrivalsFromAirport(airports.get(tmp));
                 } catch (Exception e) {
-                    logger.info(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in Arrivals");
+                    logger.error(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in Arrivals");
                     throw new RuntimeException(e);
                 }
             });
@@ -27,7 +27,7 @@ public class UpdateAirports {
                     logger.info("downloading Departure data for "+airports.get(tmp));
                     new AddNewDeparturesData().appendDeparturesFromAirport(airports.get(tmp));
                 } catch (Exception e) {
-                    logger.info(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in Departures");
+                    logger.error(airports.get(tmp)+"XXXXXXXXXXXXXXXXXXXX CRASHED !!! in Departures");
                     throw new RuntimeException(e);
                 }
             });
