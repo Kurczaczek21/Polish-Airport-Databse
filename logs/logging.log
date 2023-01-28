@@ -11050,6 +11050,175 @@ Scheduled
 2023-01-18 21:58:07 INFO  AddNewDeparturesData:285 - Currently there are 231 flights in database.
 2023-01-18 21:58:07 INFO  UpdateAirports:41 - Data for all airports updated successfully.
 2023-01-18 21:58:07 INFO  UpdateAirports:43 - Process took about 6 minutes and 10 seconds.
+2023-01-24 00:55:13 INFO  MainApp:851 - Program run
+2023-01-24 00:55:14 INFO  CheckConnection:11 - Checking internet connection
+2023-01-24 00:55:14 INFO  MainApp:822 - Connected to the internet
+2023-01-24 00:55:14 INFO  MainApp:842 - Created Main Panel
+2023-01-24 00:56:06 INFO  MainApp:436 - Downloading all airports data.
+2023-01-24 00:56:10 INFO  UpdateAirports:17 - downloading Arrival data for KRK
+2023-01-24 00:56:10 INFO  UpdateAirports:27 - downloading Departure data for KRK
+2023-01-24 00:56:11 INFO  AddNewDeparturesData:22 - File KRK_Departures.xlsxsuccessfully opened.
+2023-01-24 00:56:11 INFO  AddNewArrivalData:23 - File KRK_Arrivals.xlsx successfully opened.
+2023-01-24 00:56:21 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+2023-01-24 00:56:21 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+2023-01-24 00:57:03 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-24 00:57:03 INFO  AddNewDeparturesData:283 - Excel file 'KRK_Departures.xlsx' updated successfully.
+2023-01-24 00:57:03 INFO  AddNewDeparturesData:284 - Added 112 new flights to KRK airport Departures database.
+2023-01-24 00:57:03 INFO  AddNewDeparturesData:285 - Currently there are 866 flights in database.
+2023-01-24 00:57:05 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-24 00:57:05 INFO  AddNewArrivalData:288 - Excel file 'KRK_Arrivals.xlsx' updated successfully.
+2023-01-24 00:57:05 INFO  AddNewArrivalData:289 - Added 132 new flights to KRK airport Arrivals database.
+2023-01-24 00:57:05 INFO  AddNewArrivalData:290 - Currently there are 830 flights in database.
+2023-01-24 00:57:05 INFO  UpdateAirports:17 - downloading Arrival data for WAW
+2023-01-24 00:57:05 INFO  UpdateAirports:27 - downloading Departure data for WAW
+2023-01-24 00:57:05 INFO  AddNewDeparturesData:22 - File WAW_Departures.xlsxsuccessfully opened.
+2023-01-24 00:57:05 INFO  AddNewArrivalData:23 - File WAW_Arrivals.xlsx successfully opened.
+2023-01-24 00:57:12 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/arrivals'.
+2023-01-24 00:57:12 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+2023-01-24 00:58:27 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-24 00:58:27 INFO  AddNewDeparturesData:283 - Excel file 'WAW_Departures.xlsx' updated successfully.
+2023-01-24 00:58:27 INFO  AddNewDeparturesData:284 - Added 291 new flights to WAW airport Departures database.
+2023-01-24 00:58:27 INFO  AddNewDeparturesData:285 - Currently there are 2387 flights in database.
+2023-01-24 00:58:32 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-24 00:58:32 INFO  AddNewArrivalData:288 - Excel file 'WAW_Arrivals.xlsx' updated successfully.
+2023-01-24 00:58:32 INFO  AddNewArrivalData:289 - Added 302 new flights to WAW airport Arrivals database.
+2023-01-24 00:58:32 INFO  AddNewArrivalData:290 - Currently there are 2385 flights in database.
+2023-01-24 00:58:32 INFO  UpdateAirports:17 - downloading Arrival data for KTW
+2023-01-24 00:58:32 INFO  UpdateAirports:27 - downloading Departure data for KTW
+2023-01-24 00:58:32 INFO  AddNewArrivalData:23 - File KTW_Arrivals.xlsx successfully opened.
+2023-01-24 00:58:32 INFO  AddNewDeparturesData:22 - File KTW_Departures.xlsxsuccessfully opened.
+2023-01-24 00:58:39 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/departures'.
+2023-01-24 00:58:39 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/arrivals'.
+2023-01-24 00:59:03 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-24 00:59:03 INFO  AddNewDeparturesData:283 - Excel file 'KTW_Departures.xlsx' updated successfully.
+2023-01-24 00:59:03 INFO  AddNewDeparturesData:284 - Added 54 new flights to KTW airport Departures database.
+2023-01-24 00:59:03 INFO  AddNewDeparturesData:285 - Currently there are 458 flights in database.
+2023-01-24 00:59:03 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-24 00:59:03 INFO  AddNewArrivalData:288 - Excel file 'KTW_Arrivals.xlsx' updated successfully.
+2023-01-24 00:59:03 INFO  AddNewArrivalData:289 - Added 56 new flights to KTW airport Arrivals database.
+2023-01-24 00:59:03 INFO  AddNewArrivalData:290 - Currently there are 465 flights in database.
+2023-01-24 00:59:03 INFO  UpdateAirports:17 - downloading Arrival data for WMI
+2023-01-24 00:59:03 INFO  UpdateAirports:27 - downloading Departure data for WMI
+2023-01-24 00:59:03 INFO  AddNewArrivalData:23 - File WMI_Arrivals.xlsx successfully opened.
+2023-01-24 00:59:03 INFO  AddNewDeparturesData:22 - File WMI_Departures.xlsxsuccessfully opened.
+2023-01-24 00:59:10 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/departures'.
+2023-01-24 00:59:10 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/arrivals'.
+2023-01-24 00:59:31 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-24 00:59:31 INFO  AddNewDeparturesData:283 - Excel file 'WMI_Departures.xlsx' updated successfully.
+2023-01-24 00:59:31 INFO  AddNewDeparturesData:284 - Added 39 new flights to WMI airport Departures database.
+2023-01-24 00:59:31 INFO  AddNewDeparturesData:285 - Currently there are 284 flights in database.
+2023-01-24 00:59:31 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-24 00:59:31 INFO  AddNewArrivalData:288 - Excel file 'WMI_Arrivals.xlsx' updated successfully.
+2023-01-24 00:59:31 INFO  AddNewArrivalData:289 - Added 44 new flights to WMI airport Arrivals database.
+2023-01-24 00:59:31 INFO  AddNewArrivalData:290 - Currently there are 292 flights in database.
+2023-01-24 00:59:31 INFO  UpdateAirports:17 - downloading Arrival data for GDN
+2023-01-24 00:59:31 INFO  UpdateAirports:27 - downloading Departure data for GDN
+2023-01-24 00:59:31 INFO  AddNewDeparturesData:22 - File GDN_Departures.xlsxsuccessfully opened.
+2023-01-24 00:59:31 INFO  AddNewArrivalData:23 - File GDN_Arrivals.xlsx successfully opened.
+2023-01-24 00:59:38 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/arrivals'.
+2023-01-24 00:59:39 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+2023-01-24 01:00:06 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-24 01:00:06 INFO  AddNewDeparturesData:283 - Excel file 'GDN_Departures.xlsx' updated successfully.
+2023-01-24 01:00:06 INFO  AddNewDeparturesData:284 - Added 75 new flights to GDN airport Departures database.
+2023-01-24 01:00:06 INFO  AddNewDeparturesData:285 - Currently there are 558 flights in database.
+2023-01-24 01:00:07 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-24 01:00:07 INFO  AddNewArrivalData:288 - Excel file 'GDN_Arrivals.xlsx' updated successfully.
+2023-01-24 01:00:07 INFO  AddNewArrivalData:289 - Added 86 new flights to GDN airport Arrivals database.
+2023-01-24 01:00:07 INFO  AddNewArrivalData:290 - Currently there are 625 flights in database.
+2023-01-24 01:00:07 INFO  UpdateAirports:17 - downloading Arrival data for LUZ
+2023-01-24 01:00:07 INFO  UpdateAirports:27 - downloading Departure data for LUZ
+2023-01-24 01:00:07 INFO  AddNewDeparturesData:22 - File LUZ_Departures.xlsxsuccessfully opened.
+2023-01-24 01:00:07 INFO  AddNewArrivalData:23 - File LUZ_Arrivals.xlsx successfully opened.
+2023-01-24 01:00:14 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/departures'.
+2023-01-24 01:00:14 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/arrivals'.
+2023-01-24 01:00:28 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-24 01:00:28 INFO  AddNewDeparturesData:283 - Excel file 'LUZ_Departures.xlsx' updated successfully.
+2023-01-24 01:00:28 INFO  AddNewDeparturesData:284 - Added 4 new flights to LUZ airport Departures database.
+2023-01-24 01:00:28 INFO  AddNewDeparturesData:285 - Currently there are 35 flights in database.
+2023-01-24 01:00:28 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-24 01:00:28 INFO  AddNewArrivalData:288 - Excel file 'LUZ_Arrivals.xlsx' updated successfully.
+2023-01-24 01:00:28 INFO  AddNewArrivalData:289 - Added 4 new flights to LUZ airport Arrivals database.
+2023-01-24 01:00:28 INFO  AddNewArrivalData:290 - Currently there are 36 flights in database.
+2023-01-24 01:00:28 INFO  UpdateAirports:17 - downloading Arrival data for BZG
+2023-01-24 01:00:28 INFO  UpdateAirports:27 - downloading Departure data for BZG
+2023-01-24 01:00:28 INFO  AddNewDeparturesData:22 - File BZG_Departures.xlsxsuccessfully opened.
+2023-01-24 01:00:28 INFO  AddNewArrivalData:23 - File BZG_Arrivals.xlsx successfully opened.
+2023-01-24 01:00:35 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/arrivals'.
+2023-01-24 01:00:35 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+2023-01-24 01:00:49 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-24 01:00:49 INFO  AddNewArrivalData:288 - Excel file 'BZG_Arrivals.xlsx' updated successfully.
+2023-01-24 01:00:49 INFO  AddNewArrivalData:289 - Added 4 new flights to BZG airport Arrivals database.
+2023-01-24 01:00:49 INFO  AddNewArrivalData:290 - Currently there are 39 flights in database.
+2023-01-24 01:00:49 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-24 01:00:49 INFO  AddNewDeparturesData:283 - Excel file 'BZG_Departures.xlsx' updated successfully.
+2023-01-24 01:00:49 INFO  AddNewDeparturesData:284 - Added 5 new flights to BZG airport Departures database.
+2023-01-24 01:00:49 INFO  AddNewDeparturesData:285 - Currently there are 41 flights in database.
+2023-01-24 01:00:49 INFO  UpdateAirports:17 - downloading Arrival data for LCJ
+2023-01-24 01:00:49 INFO  UpdateAirports:27 - downloading Departure data for LCJ
+2023-01-24 01:00:49 INFO  AddNewArrivalData:23 - File LCJ_Arrivals.xlsx successfully opened.
+2023-01-24 01:00:49 INFO  AddNewDeparturesData:22 - File LCJ_Departures.xlsxsuccessfully opened.
+2023-01-24 01:00:56 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/departures'.
+2023-01-24 01:00:56 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/arrivals'.
+2023-01-24 01:01:10 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-24 01:01:10 INFO  AddNewDeparturesData:283 - Excel file 'LCJ_Departures.xlsx' updated successfully.
+2023-01-24 01:01:10 INFO  AddNewDeparturesData:284 - Added 3 new flights to LCJ airport Departures database.
+2023-01-24 01:01:10 INFO  AddNewDeparturesData:285 - Currently there are 32 flights in database.
+2023-01-24 01:01:10 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-24 01:01:10 INFO  AddNewArrivalData:288 - Excel file 'LCJ_Arrivals.xlsx' updated successfully.
+2023-01-24 01:01:10 INFO  AddNewArrivalData:289 - Added 5 new flights to LCJ airport Arrivals database.
+2023-01-24 01:01:10 INFO  AddNewArrivalData:290 - Currently there are 33 flights in database.
+2023-01-24 01:01:10 INFO  UpdateAirports:17 - downloading Arrival data for SZY
+2023-01-24 01:01:10 INFO  UpdateAirports:27 - downloading Departure data for SZY
+2023-01-24 01:01:10 INFO  AddNewArrivalData:23 - File SZY_Arrivals.xlsx successfully opened.
+2023-01-24 01:01:10 INFO  AddNewDeparturesData:22 - File SZY_Departures.xlsxsuccessfully opened.
+2023-01-24 01:01:17 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/arrivals'.
+2023-01-24 01:01:17 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/departures'.
+2023-01-24 01:01:31 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-24 01:01:31 INFO  AddNewArrivalData:288 - Excel file 'SZY_Arrivals.xlsx' updated successfully.
+2023-01-24 01:01:31 INFO  AddNewArrivalData:289 - Added 3 new flights to SZY airport Arrivals database.
+2023-01-24 01:01:31 INFO  AddNewArrivalData:290 - Currently there are 15 flights in database.
+2023-01-24 01:01:31 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-24 01:01:31 INFO  AddNewDeparturesData:283 - Excel file 'SZY_Departures.xlsx' updated successfully.
+2023-01-24 01:01:31 INFO  AddNewDeparturesData:284 - Added 3 new flights to SZY airport Departures database.
+2023-01-24 01:01:31 INFO  AddNewDeparturesData:285 - Currently there are 15 flights in database.
+2023-01-24 01:01:31 INFO  UpdateAirports:17 - downloading Arrival data for RZE
+2023-01-24 01:01:31 INFO  UpdateAirports:27 - downloading Departure data for RZE
+2023-01-24 01:01:31 INFO  AddNewArrivalData:23 - File RZE_Arrivals.xlsx successfully opened.
+2023-01-24 01:01:31 INFO  AddNewDeparturesData:22 - File RZE_Departures.xlsxsuccessfully opened.
+2023-01-24 01:01:38 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/arrivals'.
+2023-01-24 01:01:38 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/departures'.
+2023-01-24 01:01:54 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-24 01:01:54 INFO  AddNewDeparturesData:283 - Excel file 'RZE_Departures.xlsx' updated successfully.
+2023-01-24 01:01:54 INFO  AddNewDeparturesData:284 - Added 9 new flights to RZE airport Departures database.
+2023-01-24 01:01:54 INFO  AddNewDeparturesData:285 - Currently there are 127 flights in database.
+2023-01-24 01:01:54 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-24 01:01:54 INFO  AddNewArrivalData:288 - Excel file 'RZE_Arrivals.xlsx' updated successfully.
+2023-01-24 01:01:54 INFO  AddNewArrivalData:289 - Added 11 new flights to RZE airport Arrivals database.
+2023-01-24 01:01:54 INFO  AddNewArrivalData:290 - Currently there are 115 flights in database.
+2023-01-24 01:01:54 INFO  UpdateAirports:17 - downloading Arrival data for POZ
+2023-01-24 01:01:54 INFO  UpdateAirports:27 - downloading Departure data for POZ
+2023-01-24 01:01:54 INFO  AddNewArrivalData:23 - File POZ_Arrivals.xlsx successfully opened.
+2023-01-24 01:01:54 INFO  AddNewDeparturesData:22 - File POZ_Departures.xlsxsuccessfully opened.
+2023-01-24 01:02:00 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/arrivals'.
+2023-01-24 01:02:00 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/departures'.
+2023-01-24 01:02:21 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-24 01:02:21 INFO  AddNewDeparturesData:283 - Excel file 'POZ_Departures.xlsx' updated successfully.
+2023-01-24 01:02:21 INFO  AddNewDeparturesData:284 - Added 35 new flights to POZ airport Departures database.
+2023-01-24 01:02:21 INFO  AddNewDeparturesData:285 - Currently there are 266 flights in database.
+2023-01-24 01:02:21 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-24 01:02:21 INFO  AddNewArrivalData:288 - Excel file 'POZ_Arrivals.xlsx' updated successfully.
+2023-01-24 01:02:21 INFO  AddNewArrivalData:289 - Added 41 new flights to POZ airport Arrivals database.
+2023-01-24 01:02:21 INFO  AddNewArrivalData:290 - Currently there are 269 flights in database.
+2023-01-24 01:02:21 INFO  UpdateAirports:41 - Data for all airports updated successfully.
+2023-01-24 01:02:21 INFO  UpdateAirports:43 - Process took about 6 minutes and 15 seconds.
+2023-01-24 01:08:51 INFO  MainApp:471 - Starting program
+2023-01-24 01:08:52 INFO  MainApp:618 - ChoosenKRK airport
+2023-01-24 01:08:55 INFO  GraphByAirline:39 - File: KRK_Departures.xlsx successfully opened.
+2023-01-24 01:08:55 INFO  GraphByAirline:96 - Created "Number of Departures by airline " graph.
+2023-01-24 01:08:55 INFO  MainApp:753 - Created plot Number of flights by airline
+2023-01-24 01:09:13 INFO  GraphByAirline:39 - File: KRK_Departures.xlsx successfully opened.
+2023-01-24 01:09:13 INFO  GraphByAirline:96 - Created "Average delay of Departures by airline " graph.
+2023-01-24 01:09:13 INFO  MainApp:765 - Created plot Average delay by airline
 2023-01-19 12:49:21 INFO  MainApp:851 - Program run
 2023-01-19 12:49:22 INFO  CheckConnection:11 - Checking internet connection
 2023-01-19 12:49:22 INFO  MainApp:822 - Connected to the internet
@@ -11261,3 +11430,325 @@ Scheduled
 2023-01-21 14:31:58 INFO  AddNewArrivalData:290 - Currently there are 264 flights in database.
 2023-01-21 14:31:58 INFO  UpdateAirports:41 - Data for all airports updated successfully.
 2023-01-21 14:31:58 INFO  UpdateAirports:43 - Process took about 2 minutes and 45 seconds.
+2023-01-26 14:11:19 INFO  MainApp:851 - Program run
+2023-01-26 14:11:20 INFO  CheckConnection:11 - Checking internet connection
+2023-01-26 14:11:20 INFO  MainApp:822 - Connected to the internet
+2023-01-26 14:11:20 INFO  MainApp:842 - Created Main Panel
+2023-01-26 14:11:23 INFO  MainApp:436 - Downloading all airports data.
+2023-01-26 14:11:27 INFO  UpdateAirports:17 - downloading Arrival data for KRK
+2023-01-26 14:11:27 INFO  UpdateAirports:27 - downloading Departure data for KRK
+2023-01-26 14:11:28 INFO  AddNewArrivalData:23 - File KRK_Arrivals.xlsx successfully opened.
+2023-01-26 14:11:28 INFO  AddNewDeparturesData:22 - File KRK_Departures.xlsxsuccessfully opened.
+2023-01-26 14:11:36 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+2023-01-26 14:11:36 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+2023-01-26 14:12:07 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-26 14:12:08 INFO  AddNewArrivalData:288 - Excel file 'KRK_Arrivals.xlsx' updated successfully.
+2023-01-26 14:12:08 INFO  AddNewArrivalData:289 - Added 69 new flights to KRK airport Arrivals database.
+2023-01-26 14:12:08 INFO  AddNewArrivalData:290 - Currently there are 899 flights in database.
+2023-01-26 14:12:10 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-26 14:12:10 INFO  AddNewDeparturesData:283 - Excel file 'KRK_Departures.xlsx' updated successfully.
+2023-01-26 14:12:10 INFO  AddNewDeparturesData:284 - Added 79 new flights to KRK airport Departures database.
+2023-01-26 14:12:10 INFO  AddNewDeparturesData:285 - Currently there are 945 flights in database.
+2023-01-26 14:12:10 INFO  UpdateAirports:17 - downloading Arrival data for WAW
+2023-01-26 14:12:10 INFO  UpdateAirports:27 - downloading Departure data for WAW
+2023-01-26 14:12:10 INFO  AddNewArrivalData:23 - File WAW_Arrivals.xlsx successfully opened.
+2023-01-26 14:12:10 INFO  AddNewDeparturesData:22 - File WAW_Departures.xlsxsuccessfully opened.
+2023-01-26 14:12:17 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+2023-01-26 14:12:17 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/arrivals'.
+2023-01-26 14:13:23 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-26 14:13:23 INFO  AddNewArrivalData:288 - Excel file 'WAW_Arrivals.xlsx' updated successfully.
+2023-01-26 14:13:23 INFO  AddNewArrivalData:289 - Added 246 new flights to WAW airport Arrivals database.
+2023-01-26 14:13:23 INFO  AddNewArrivalData:290 - Currently there are 2631 flights in database.
+2023-01-26 14:13:23 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-26 14:13:24 INFO  AddNewDeparturesData:283 - Excel file 'WAW_Departures.xlsx' updated successfully.
+2023-01-26 14:13:24 INFO  AddNewDeparturesData:284 - Added 242 new flights to WAW airport Departures database.
+2023-01-26 14:13:24 INFO  AddNewDeparturesData:285 - Currently there are 2629 flights in database.
+2023-01-26 14:13:24 INFO  UpdateAirports:17 - downloading Arrival data for KTW
+2023-01-26 14:13:24 INFO  UpdateAirports:27 - downloading Departure data for KTW
+2023-01-26 14:13:24 INFO  AddNewDeparturesData:22 - File KTW_Departures.xlsxsuccessfully opened.
+2023-01-26 14:13:24 INFO  AddNewArrivalData:23 - File KTW_Arrivals.xlsx successfully opened.
+2023-01-26 14:13:30 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/arrivals'.
+2023-01-26 14:13:30 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/departures'.
+2023-01-26 14:13:53 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-26 14:13:53 INFO  AddNewArrivalData:288 - Excel file 'KTW_Arrivals.xlsx' updated successfully.
+2023-01-26 14:13:53 INFO  AddNewArrivalData:289 - Added 44 new flights to KTW airport Arrivals database.
+2023-01-26 14:13:53 INFO  AddNewArrivalData:290 - Currently there are 509 flights in database.
+2023-01-26 14:13:54 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-26 14:13:54 INFO  AddNewDeparturesData:283 - Excel file 'KTW_Departures.xlsx' updated successfully.
+2023-01-26 14:13:54 INFO  AddNewDeparturesData:284 - Added 50 new flights to KTW airport Departures database.
+2023-01-26 14:13:54 INFO  AddNewDeparturesData:285 - Currently there are 508 flights in database.
+2023-01-26 14:13:54 INFO  UpdateAirports:17 - downloading Arrival data for WMI
+2023-01-26 14:13:54 INFO  UpdateAirports:27 - downloading Departure data for WMI
+2023-01-26 14:13:54 INFO  AddNewDeparturesData:22 - File WMI_Departures.xlsxsuccessfully opened.
+2023-01-26 14:13:54 INFO  AddNewArrivalData:23 - File WMI_Arrivals.xlsx successfully opened.
+2023-01-26 14:14:01 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/arrivals'.
+2023-01-26 14:14:01 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/departures'.
+2023-01-26 14:14:20 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-26 14:14:20 INFO  AddNewArrivalData:288 - Excel file 'WMI_Arrivals.xlsx' updated successfully.
+2023-01-26 14:14:20 INFO  AddNewArrivalData:289 - Added 23 new flights to WMI airport Arrivals database.
+2023-01-26 14:14:20 INFO  AddNewArrivalData:290 - Currently there are 315 flights in database.
+2023-01-26 14:14:20 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-26 14:14:20 INFO  AddNewDeparturesData:283 - Excel file 'WMI_Departures.xlsx' updated successfully.
+2023-01-26 14:14:20 INFO  AddNewDeparturesData:284 - Added 27 new flights to WMI airport Departures database.
+2023-01-26 14:14:20 INFO  AddNewDeparturesData:285 - Currently there are 311 flights in database.
+2023-01-26 14:14:20 INFO  UpdateAirports:17 - downloading Arrival data for GDN
+2023-01-26 14:14:20 INFO  UpdateAirports:27 - downloading Departure data for GDN
+2023-01-26 14:14:20 INFO  AddNewDeparturesData:22 - File GDN_Departures.xlsxsuccessfully opened.
+2023-01-26 14:14:20 INFO  AddNewArrivalData:23 - File GDN_Arrivals.xlsx successfully opened.
+2023-01-26 14:14:27 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/arrivals'.
+2023-01-26 14:14:27 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+2023-01-26 14:14:52 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-26 14:14:53 INFO  AddNewArrivalData:288 - Excel file 'GDN_Arrivals.xlsx' updated successfully.
+2023-01-26 14:14:53 INFO  AddNewArrivalData:289 - Added 53 new flights to GDN airport Arrivals database.
+2023-01-26 14:14:53 INFO  AddNewArrivalData:290 - Currently there are 678 flights in database.
+2023-01-26 14:14:54 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-26 14:14:54 INFO  AddNewDeparturesData:283 - Excel file 'GDN_Departures.xlsx' updated successfully.
+2023-01-26 14:14:54 INFO  AddNewDeparturesData:284 - Added 57 new flights to GDN airport Departures database.
+2023-01-26 14:14:54 INFO  AddNewDeparturesData:285 - Currently there are 615 flights in database.
+2023-01-26 14:14:54 INFO  UpdateAirports:17 - downloading Arrival data for LUZ
+2023-01-26 14:14:54 INFO  UpdateAirports:27 - downloading Departure data for LUZ
+2023-01-26 14:14:54 INFO  AddNewDeparturesData:22 - File LUZ_Departures.xlsxsuccessfully opened.
+2023-01-26 14:14:54 INFO  AddNewArrivalData:23 - File LUZ_Arrivals.xlsx successfully opened.
+2023-01-26 14:15:00 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/arrivals'.
+2023-01-26 14:15:02 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/departures'.
+2023-01-26 14:15:14 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-26 14:15:14 INFO  AddNewArrivalData:288 - Excel file 'LUZ_Arrivals.xlsx' updated successfully.
+2023-01-26 14:15:14 INFO  AddNewArrivalData:289 - Added 2 new flights to LUZ airport Arrivals database.
+2023-01-26 14:15:14 INFO  AddNewArrivalData:290 - Currently there are 38 flights in database.
+2023-01-26 14:15:15 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-26 14:15:15 INFO  AddNewDeparturesData:283 - Excel file 'LUZ_Departures.xlsx' updated successfully.
+2023-01-26 14:15:15 INFO  AddNewDeparturesData:284 - Added 2 new flights to LUZ airport Departures database.
+2023-01-26 14:15:15 INFO  AddNewDeparturesData:285 - Currently there are 37 flights in database.
+2023-01-26 14:15:15 INFO  UpdateAirports:17 - downloading Arrival data for BZG
+2023-01-26 14:15:15 INFO  UpdateAirports:27 - downloading Departure data for BZG
+2023-01-26 14:15:15 INFO  AddNewDeparturesData:22 - File BZG_Departures.xlsxsuccessfully opened.
+2023-01-26 14:15:15 INFO  AddNewArrivalData:23 - File BZG_Arrivals.xlsx successfully opened.
+2023-01-26 14:15:22 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/arrivals'.
+2023-01-26 14:15:22 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+2023-01-26 14:15:37 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-26 14:15:37 INFO  AddNewDeparturesData:283 - Excel file 'BZG_Departures.xlsx' updated successfully.
+2023-01-26 14:15:37 INFO  AddNewDeparturesData:284 - Added 3 new flights to BZG airport Departures database.
+2023-01-26 14:15:37 INFO  AddNewDeparturesData:285 - Currently there are 44 flights in database.
+2023-01-26 14:15:37 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-26 14:15:37 INFO  AddNewArrivalData:288 - Excel file 'BZG_Arrivals.xlsx' updated successfully.
+2023-01-26 14:15:37 INFO  AddNewArrivalData:289 - Added 3 new flights to BZG airport Arrivals database.
+2023-01-26 14:15:37 INFO  AddNewArrivalData:290 - Currently there are 42 flights in database.
+2023-01-26 14:15:37 INFO  UpdateAirports:17 - downloading Arrival data for LCJ
+2023-01-26 14:15:37 INFO  UpdateAirports:27 - downloading Departure data for LCJ
+2023-01-26 14:15:37 INFO  AddNewDeparturesData:22 - File LCJ_Departures.xlsxsuccessfully opened.
+2023-01-26 14:15:37 INFO  AddNewArrivalData:23 - File LCJ_Arrivals.xlsx successfully opened.
+2023-01-26 14:15:43 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/departures'.
+2023-01-26 14:15:43 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/arrivals'.
+2023-01-26 14:15:57 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-26 14:15:57 INFO  AddNewDeparturesData:283 - Excel file 'LCJ_Departures.xlsx' updated successfully.
+2023-01-26 14:15:57 INFO  AddNewDeparturesData:284 - Added 2 new flights to LCJ airport Departures database.
+2023-01-26 14:15:57 INFO  AddNewDeparturesData:285 - Currently there are 34 flights in database.
+2023-01-26 14:15:57 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-26 14:15:57 INFO  AddNewArrivalData:288 - Excel file 'LCJ_Arrivals.xlsx' updated successfully.
+2023-01-26 14:15:57 INFO  AddNewArrivalData:289 - Added 4 new flights to LCJ airport Arrivals database.
+2023-01-26 14:15:57 INFO  AddNewArrivalData:290 - Currently there are 37 flights in database.
+2023-01-26 14:15:57 INFO  UpdateAirports:17 - downloading Arrival data for SZY
+2023-01-26 14:15:57 INFO  UpdateAirports:27 - downloading Departure data for SZY
+2023-01-26 14:15:57 INFO  AddNewArrivalData:23 - File SZY_Arrivals.xlsx successfully opened.
+2023-01-26 14:15:57 INFO  AddNewDeparturesData:22 - File SZY_Departures.xlsxsuccessfully opened.
+2023-01-26 14:16:04 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/arrivals'.
+2023-01-26 14:16:04 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/departures'.
+2023-01-26 14:16:18 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-26 14:16:18 INFO  AddNewArrivalData:288 - Excel file 'SZY_Arrivals.xlsx' updated successfully.
+2023-01-26 14:16:18 INFO  AddNewArrivalData:289 - Added 2 new flights to SZY airport Arrivals database.
+2023-01-26 14:16:18 INFO  AddNewArrivalData:290 - Currently there are 17 flights in database.
+2023-01-26 14:16:18 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-26 14:16:18 INFO  AddNewDeparturesData:283 - Excel file 'SZY_Departures.xlsx' updated successfully.
+2023-01-26 14:16:18 INFO  AddNewDeparturesData:284 - Added 2 new flights to SZY airport Departures database.
+2023-01-26 14:16:18 INFO  AddNewDeparturesData:285 - Currently there are 17 flights in database.
+2023-01-26 14:16:18 INFO  UpdateAirports:17 - downloading Arrival data for RZE
+2023-01-26 14:16:18 INFO  UpdateAirports:27 - downloading Departure data for RZE
+2023-01-26 14:16:18 INFO  AddNewArrivalData:23 - File RZE_Arrivals.xlsx successfully opened.
+2023-01-26 14:16:18 INFO  AddNewDeparturesData:22 - File RZE_Departures.xlsxsuccessfully opened.
+2023-01-26 14:16:25 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/arrivals'.
+2023-01-26 14:16:25 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/departures'.
+2023-01-26 14:16:41 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-26 14:16:41 INFO  AddNewArrivalData:288 - Excel file 'RZE_Arrivals.xlsx' updated successfully.
+2023-01-26 14:16:41 INFO  AddNewArrivalData:289 - Added 14 new flights to RZE airport Arrivals database.
+2023-01-26 14:16:41 INFO  AddNewArrivalData:290 - Currently there are 129 flights in database.
+2023-01-26 14:16:41 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-26 14:16:41 INFO  AddNewDeparturesData:283 - Excel file 'RZE_Departures.xlsx' updated successfully.
+2023-01-26 14:16:41 INFO  AddNewDeparturesData:284 - Added 15 new flights to RZE airport Departures database.
+2023-01-26 14:16:41 INFO  AddNewDeparturesData:285 - Currently there are 142 flights in database.
+2023-01-26 14:16:41 INFO  UpdateAirports:17 - downloading Arrival data for POZ
+2023-01-26 14:16:41 INFO  UpdateAirports:27 - downloading Departure data for POZ
+2023-01-26 14:16:41 INFO  AddNewDeparturesData:22 - File POZ_Departures.xlsxsuccessfully opened.
+2023-01-26 14:16:41 INFO  AddNewArrivalData:23 - File POZ_Arrivals.xlsx successfully opened.
+2023-01-26 14:16:48 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/departures'.
+2023-01-26 14:16:48 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/arrivals'.
+2023-01-26 14:17:10 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-26 14:17:10 INFO  AddNewArrivalData:288 - Excel file 'POZ_Arrivals.xlsx' updated successfully.
+2023-01-26 14:17:10 INFO  AddNewArrivalData:289 - Added 29 new flights to POZ airport Arrivals database.
+2023-01-26 14:17:10 INFO  AddNewArrivalData:290 - Currently there are 298 flights in database.
+2023-01-26 14:17:10 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-26 14:17:10 INFO  AddNewDeparturesData:283 - Excel file 'POZ_Departures.xlsx' updated successfully.
+2023-01-26 14:17:10 INFO  AddNewDeparturesData:284 - Added 28 new flights to POZ airport Departures database.
+2023-01-26 14:17:10 INFO  AddNewDeparturesData:285 - Currently there are 294 flights in database.
+2023-01-26 14:17:10 INFO  UpdateAirports:41 - Data for all airports updated successfully.
+2023-01-26 14:17:10 INFO  UpdateAirports:43 - Process took about 5 minutes and 47 seconds.
+2023-01-28 17:15:54 INFO  MainApp:851 - Program run
+2023-01-28 17:15:54 INFO  CheckConnection:11 - Checking internet connection
+2023-01-28 17:15:54 INFO  MainApp:822 - Connected to the internet
+2023-01-28 17:15:54 INFO  MainApp:842 - Created Main Panel
+2023-01-28 17:15:56 INFO  MainApp:436 - Downloading all airports data.
+2023-01-28 17:16:00 INFO  UpdateAirports:17 - downloading Arrival data for KRK
+2023-01-28 17:16:00 INFO  UpdateAirports:27 - downloading Departure data for KRK
+2023-01-28 17:16:01 INFO  AddNewArrivalData:23 - File KRK_Arrivals.xlsx successfully opened.
+2023-01-28 17:16:01 INFO  AddNewDeparturesData:22 - File KRK_Departures.xlsxsuccessfully opened.
+2023-01-28 17:16:10 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/arrivals'.
+2023-01-28 17:16:10 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KRK/departures'.
+2023-01-28 17:16:52 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-28 17:16:52 INFO  AddNewArrivalData:288 - Excel file 'KRK_Arrivals.xlsx' updated successfully.
+2023-01-28 17:16:52 INFO  AddNewArrivalData:289 - Added 110 new flights to KRK airport Arrivals database.
+2023-01-28 17:16:52 INFO  AddNewArrivalData:290 - Currently there are 1009 flights in database.
+2023-01-28 17:16:54 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-28 17:16:54 INFO  AddNewDeparturesData:283 - Excel file 'KRK_Departures.xlsx' updated successfully.
+2023-01-28 17:16:54 INFO  AddNewDeparturesData:284 - Added 125 new flights to KRK airport Departures database.
+2023-01-28 17:16:54 INFO  AddNewDeparturesData:285 - Currently there are 1070 flights in database.
+2023-01-28 17:16:54 INFO  UpdateAirports:17 - downloading Arrival data for WAW
+2023-01-28 17:16:54 INFO  UpdateAirports:27 - downloading Departure data for WAW
+2023-01-28 17:16:54 INFO  AddNewDeparturesData:22 - File WAW_Departures.xlsxsuccessfully opened.
+2023-01-28 17:16:54 INFO  AddNewArrivalData:23 - File WAW_Arrivals.xlsx successfully opened.
+2023-01-28 17:17:01 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/departures'.
+2023-01-28 17:17:03 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WAW/arrivals'.
+2023-01-28 17:18:24 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-28 17:18:24 INFO  AddNewArrivalData:288 - Excel file 'WAW_Arrivals.xlsx' updated successfully.
+2023-01-28 17:18:24 INFO  AddNewArrivalData:289 - Added 303 new flights to WAW airport Arrivals database.
+2023-01-28 17:18:24 INFO  AddNewArrivalData:290 - Currently there are 2934 flights in database.
+2023-01-28 17:18:26 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-28 17:18:26 INFO  AddNewDeparturesData:283 - Excel file 'WAW_Departures.xlsx' updated successfully.
+2023-01-28 17:18:26 INFO  AddNewDeparturesData:284 - Added 318 new flights to WAW airport Departures database.
+2023-01-28 17:18:26 INFO  AddNewDeparturesData:285 - Currently there are 2947 flights in database.
+2023-01-28 17:18:26 INFO  UpdateAirports:17 - downloading Arrival data for KTW
+2023-01-28 17:18:26 INFO  UpdateAirports:27 - downloading Departure data for KTW
+2023-01-28 17:18:26 INFO  AddNewDeparturesData:22 - File KTW_Departures.xlsxsuccessfully opened.
+2023-01-28 17:18:26 INFO  AddNewArrivalData:23 - File KTW_Arrivals.xlsx successfully opened.
+2023-01-28 17:18:33 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/arrivals'.
+2023-01-28 17:18:35 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/KTW/departures'.
+2023-01-28 17:18:57 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-28 17:18:57 INFO  AddNewArrivalData:288 - Excel file 'KTW_Arrivals.xlsx' updated successfully.
+2023-01-28 17:18:57 INFO  AddNewArrivalData:289 - Added 57 new flights to KTW airport Arrivals database.
+2023-01-28 17:18:57 INFO  AddNewArrivalData:290 - Currently there are 566 flights in database.
+2023-01-28 17:19:01 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-28 17:19:01 INFO  AddNewDeparturesData:283 - Excel file 'KTW_Departures.xlsx' updated successfully.
+2023-01-28 17:19:01 INFO  AddNewDeparturesData:284 - Added 72 new flights to KTW airport Departures database.
+2023-01-28 17:19:01 INFO  AddNewDeparturesData:285 - Currently there are 580 flights in database.
+2023-01-28 17:19:01 INFO  UpdateAirports:17 - downloading Arrival data for WMI
+2023-01-28 17:19:01 INFO  UpdateAirports:27 - downloading Departure data for WMI
+2023-01-28 17:19:01 INFO  AddNewDeparturesData:22 - File WMI_Departures.xlsxsuccessfully opened.
+2023-01-28 17:19:01 INFO  AddNewArrivalData:23 - File WMI_Arrivals.xlsx successfully opened.
+2023-01-28 17:19:08 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/arrivals'.
+2023-01-28 17:19:08 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/WMI/departures'.
+2023-01-28 17:19:28 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-28 17:19:29 INFO  AddNewArrivalData:288 - Excel file 'WMI_Arrivals.xlsx' updated successfully.
+2023-01-28 17:19:29 INFO  AddNewArrivalData:289 - Added 39 new flights to WMI airport Arrivals database.
+2023-01-28 17:19:29 INFO  AddNewArrivalData:290 - Currently there are 354 flights in database.
+2023-01-28 17:19:30 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-28 17:19:30 INFO  AddNewDeparturesData:283 - Excel file 'WMI_Departures.xlsx' updated successfully.
+2023-01-28 17:19:30 INFO  AddNewDeparturesData:284 - Added 45 new flights to WMI airport Departures database.
+2023-01-28 17:19:30 INFO  AddNewDeparturesData:285 - Currently there are 356 flights in database.
+2023-01-28 17:19:30 INFO  UpdateAirports:17 - downloading Arrival data for GDN
+2023-01-28 17:19:30 INFO  UpdateAirports:27 - downloading Departure data for GDN
+2023-01-28 17:19:30 INFO  AddNewDeparturesData:22 - File GDN_Departures.xlsxsuccessfully opened.
+2023-01-28 17:19:30 INFO  AddNewArrivalData:23 - File GDN_Arrivals.xlsx successfully opened.
+2023-01-28 17:19:37 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/departures'.
+2023-01-28 17:19:37 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/GDN/arrivals'.
+2023-01-28 17:20:05 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-28 17:20:05 INFO  AddNewArrivalData:288 - Excel file 'GDN_Arrivals.xlsx' updated successfully.
+2023-01-28 17:20:05 INFO  AddNewArrivalData:289 - Added 78 new flights to GDN airport Arrivals database.
+2023-01-28 17:20:05 INFO  AddNewArrivalData:290 - Currently there are 756 flights in database.
+2023-01-28 17:20:07 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-28 17:20:07 INFO  AddNewDeparturesData:283 - Excel file 'GDN_Departures.xlsx' updated successfully.
+2023-01-28 17:20:07 INFO  AddNewDeparturesData:284 - Added 88 new flights to GDN airport Departures database.
+2023-01-28 17:20:07 INFO  AddNewDeparturesData:285 - Currently there are 703 flights in database.
+2023-01-28 17:20:07 INFO  UpdateAirports:17 - downloading Arrival data for LUZ
+2023-01-28 17:20:07 INFO  UpdateAirports:27 - downloading Departure data for LUZ
+2023-01-28 17:20:07 INFO  AddNewArrivalData:23 - File LUZ_Arrivals.xlsx successfully opened.
+2023-01-28 17:20:07 INFO  AddNewDeparturesData:22 - File LUZ_Departures.xlsxsuccessfully opened.
+2023-01-28 17:20:14 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/departures'.
+2023-01-28 17:20:14 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LUZ/arrivals'.
+2023-01-28 17:20:28 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-28 17:20:28 INFO  AddNewArrivalData:288 - Excel file 'LUZ_Arrivals.xlsx' updated successfully.
+2023-01-28 17:20:28 INFO  AddNewArrivalData:289 - Added 5 new flights to LUZ airport Arrivals database.
+2023-01-28 17:20:28 INFO  AddNewArrivalData:290 - Currently there are 43 flights in database.
+2023-01-28 17:20:29 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-28 17:20:29 INFO  AddNewDeparturesData:283 - Excel file 'LUZ_Departures.xlsx' updated successfully.
+2023-01-28 17:20:29 INFO  AddNewDeparturesData:284 - Added 5 new flights to LUZ airport Departures database.
+2023-01-28 17:20:29 INFO  AddNewDeparturesData:285 - Currently there are 42 flights in database.
+2023-01-28 17:20:29 INFO  UpdateAirports:17 - downloading Arrival data for BZG
+2023-01-28 17:20:29 INFO  UpdateAirports:27 - downloading Departure data for BZG
+2023-01-28 17:20:29 INFO  AddNewDeparturesData:22 - File BZG_Departures.xlsxsuccessfully opened.
+2023-01-28 17:20:29 INFO  AddNewArrivalData:23 - File BZG_Arrivals.xlsx successfully opened.
+2023-01-28 17:20:35 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/arrivals'.
+2023-01-28 17:20:35 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/BZG/departures'.
+2023-01-28 17:20:50 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-28 17:20:50 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-28 17:20:50 INFO  AddNewArrivalData:288 - Excel file 'BZG_Arrivals.xlsx' updated successfully.
+2023-01-28 17:20:50 INFO  AddNewArrivalData:289 - Added 7 new flights to BZG airport Arrivals database.
+2023-01-28 17:20:50 INFO  AddNewDeparturesData:283 - Excel file 'BZG_Departures.xlsx' updated successfully.
+2023-01-28 17:20:50 INFO  AddNewArrivalData:290 - Currently there are 49 flights in database.
+2023-01-28 17:20:50 INFO  AddNewDeparturesData:284 - Added 7 new flights to BZG airport Departures database.
+2023-01-28 17:20:50 INFO  AddNewDeparturesData:285 - Currently there are 51 flights in database.
+2023-01-28 17:20:50 INFO  UpdateAirports:17 - downloading Arrival data for LCJ
+2023-01-28 17:20:50 INFO  UpdateAirports:27 - downloading Departure data for LCJ
+2023-01-28 17:20:50 INFO  AddNewDeparturesData:22 - File LCJ_Departures.xlsxsuccessfully opened.
+2023-01-28 17:20:50 INFO  AddNewArrivalData:23 - File LCJ_Arrivals.xlsx successfully opened.
+2023-01-28 17:20:57 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/arrivals'.
+2023-01-28 17:20:57 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/LCJ/departures'.
+2023-01-28 17:21:11 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-28 17:21:11 INFO  AddNewArrivalData:288 - Excel file 'LCJ_Arrivals.xlsx' updated successfully.
+2023-01-28 17:21:11 INFO  AddNewArrivalData:289 - Added 5 new flights to LCJ airport Arrivals database.
+2023-01-28 17:21:11 INFO  AddNewArrivalData:290 - Currently there are 42 flights in database.
+2023-01-28 17:21:11 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-28 17:21:11 INFO  AddNewDeparturesData:283 - Excel file 'LCJ_Departures.xlsx' updated successfully.
+2023-01-28 17:21:11 INFO  AddNewDeparturesData:284 - Added 6 new flights to LCJ airport Departures database.
+2023-01-28 17:21:11 INFO  AddNewDeparturesData:285 - Currently there are 40 flights in database.
+2023-01-28 17:21:11 INFO  UpdateAirports:17 - downloading Arrival data for SZY
+2023-01-28 17:21:11 INFO  UpdateAirports:27 - downloading Departure data for SZY
+2023-01-28 17:21:11 INFO  AddNewDeparturesData:22 - File SZY_Departures.xlsxsuccessfully opened.
+2023-01-28 17:21:11 INFO  AddNewArrivalData:23 - File SZY_Arrivals.xlsx successfully opened.
+2023-01-28 17:21:18 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/departures'.
+2023-01-28 17:21:18 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/SZY/arrivals'.
+2023-01-28 17:21:32 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-28 17:21:32 INFO  AddNewArrivalData:288 - Excel file 'SZY_Arrivals.xlsx' updated successfully.
+2023-01-28 17:21:32 INFO  AddNewArrivalData:289 - Added 2 new flights to SZY airport Arrivals database.
+2023-01-28 17:21:32 INFO  AddNewArrivalData:290 - Currently there are 19 flights in database.
+2023-01-28 17:21:32 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-28 17:21:32 INFO  AddNewDeparturesData:283 - Excel file 'SZY_Departures.xlsx' updated successfully.
+2023-01-28 17:21:32 INFO  AddNewDeparturesData:284 - Added 2 new flights to SZY airport Departures database.
+2023-01-28 17:21:32 INFO  AddNewDeparturesData:285 - Currently there are 19 flights in database.
+2023-01-28 17:21:32 INFO  UpdateAirports:17 - downloading Arrival data for RZE
+2023-01-28 17:21:32 INFO  UpdateAirports:27 - downloading Departure data for RZE
+2023-01-28 17:21:32 INFO  AddNewArrivalData:23 - File RZE_Arrivals.xlsx successfully opened.
+2023-01-28 17:21:32 INFO  AddNewDeparturesData:22 - File RZE_Departures.xlsxsuccessfully opened.
+2023-01-28 17:21:39 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/departures'.
+2023-01-28 17:21:39 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/RZE/arrivals'.
+2023-01-28 17:21:55 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-28 17:21:55 INFO  AddNewArrivalData:288 - Excel file 'RZE_Arrivals.xlsx' updated successfully.
+2023-01-28 17:21:55 INFO  AddNewArrivalData:289 - Added 21 new flights to RZE airport Arrivals database.
+2023-01-28 17:21:55 INFO  AddNewArrivalData:290 - Currently there are 150 flights in database.
+2023-01-28 17:21:56 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-28 17:21:56 INFO  AddNewDeparturesData:283 - Excel file 'RZE_Departures.xlsx' updated successfully.
+2023-01-28 17:21:56 INFO  AddNewDeparturesData:284 - Added 22 new flights to RZE airport Departures database.
+2023-01-28 17:21:56 INFO  AddNewDeparturesData:285 - Currently there are 164 flights in database.
+2023-01-28 17:21:56 INFO  UpdateAirports:17 - downloading Arrival data for POZ
+2023-01-28 17:21:56 INFO  UpdateAirports:27 - downloading Departure data for POZ
+2023-01-28 17:21:56 INFO  AddNewDeparturesData:22 - File POZ_Departures.xlsxsuccessfully opened.
+2023-01-28 17:21:56 INFO  AddNewArrivalData:23 - File POZ_Arrivals.xlsx successfully opened.
+2023-01-28 17:22:03 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/departures'.
+2023-01-28 17:22:03 INFO  WebScrape:22 - Downloading data from website: 'https://www.flightradar24.com/data/airports/POZ/arrivals'.
+2023-01-28 17:22:24 ERROR AddNewArrivalData:179 - Flight not in database, aadding all
+2023-01-28 17:22:24 INFO  AddNewArrivalData:288 - Excel file 'POZ_Arrivals.xlsx' updated successfully.
+2023-01-28 17:22:24 INFO  AddNewArrivalData:289 - Added 38 new flights to POZ airport Arrivals database.
+2023-01-28 17:22:24 INFO  AddNewArrivalData:290 - Currently there are 336 flights in database.
+2023-01-28 17:22:25 ERROR AddNewDeparturesData:176 - FLIGHT NOT FOUNDED, adding whole database.
+2023-01-28 17:22:25 INFO  AddNewDeparturesData:283 - Excel file 'POZ_Departures.xlsx' updated successfully.
+2023-01-28 17:22:25 INFO  AddNewDeparturesData:284 - Added 45 new flights to POZ airport Departures database.
+2023-01-28 17:22:25 INFO  AddNewDeparturesData:285 - Currently there are 339 flights in database.
+2023-01-28 17:22:25 INFO  UpdateAirports:41 - Data for all airports updated successfully.
+2023-01-28 17:22:25 INFO  UpdateAirports:43 - Process took about 6 minutes and 28 seconds.
